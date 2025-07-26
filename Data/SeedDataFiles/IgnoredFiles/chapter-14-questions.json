@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Nella situazione rappresentata in figura il tram ha la precedenza rispetto agli altri veicoli",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nell’incrocio rappresentato in figura, tutti i veicoli devono usare prudenza nell’attraversarlo",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere il transito del tram e che il veicolo A si porti al centro",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il tram transita per primo",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo M deve attendere il transito del veicolo O",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo M attraversa l'incrocio insieme al tram",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo A nello svoltare a sinistra ha la destra libera",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere che passino il tram ed il veicolo M",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere che transitino tutti gli altri veicoli",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "question": "Nella situazione rappresentata in figura il veicolo A deve dare la precedenza al tram, ma non al veicolo M",
+    "group": "precedenze incrocio di figura 642",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  }
+]

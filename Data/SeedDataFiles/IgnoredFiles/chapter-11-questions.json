@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Il conducente deve regolare la velocità in relazione alle caratteristiche del veicolo",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in relazione allo stato del veicolo",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in relazione al carico del veicolo",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in relazione alle caratteristiche della strada",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in relazione alle condizioni della strada",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in relazione alle condizioni del traffico",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in modo da non costituire pericolo di danno alle cose",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in modo da non costituire pericolo per le persone",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità in modo da non costituire disordine per la circolazione",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente deve regolare la velocità entro i limiti massimi consentiti",
+    "group": "il conducente deve regolare la velocità",
+    "correctAnswer": true
+  }
+]

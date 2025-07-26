@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il segnale raffigurato preannuncia un tratto di strada deformata",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato può essere associato con un segnale di limite massimo di velocità",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica un tratto di strada deformata lungo 380 metri",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/901.png"
+  },
+  {
+    "question": "Il segnale raffigurato preannuncia un tratto di strada con pavimentazione irregolare",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato preannuncia una strada in cattivo stato",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato è un segnale di pericolo",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato si trova, in genere, 150 metri prima di un tratto di strada con fondo irregolare",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato preannuncia un tratto di strada dissestata",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "Il segnale raffigurato, se a fondo giallo, è usato in presenza di cantieri stradali",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  },
+  {
+    "question": "In presenza del segnale raffigurato è importante prevedere eventuali sbandamenti dei veicoli provenienti dal senso opposto",
+    "group": "strada dissestata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/1.png"
+  }
+]

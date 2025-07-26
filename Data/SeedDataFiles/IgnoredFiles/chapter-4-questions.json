@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il segnale raffigurato preannuncia che non è consentito proseguire diritto",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato preannuncia che non è consentito svoltare a destra",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato è posto prima di un incrocio",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato precede un segnale di DIREZIONE OBBLIGATORIA A SINISTRA",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato è un segnale d'obbligo",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato è un segnale di prescrizione",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato è preavviso dell'obbligo di svoltare a sinistra",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato precede un incrocio in cui non è consentito proseguire diritto o girare a destra",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato preannuncia l'obbligo di svoltare a sinistra al prossimo incrocio",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  },
+  {
+    "question": "Il segnale raffigurato precede un incrocio ove è obbligatorio svoltare a sinistra",
+    "group": "preavviso direzione obbligatoria a sinistra",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/97.png"
+  }
+]

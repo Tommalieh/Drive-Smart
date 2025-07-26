@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Il rispetto della distanza di sicurezza evita la collisione con il veicolo che precede",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "conducente deve valutare la distanza di sicurezza anche sulla base della velocità del veicolo di cui è alla guida",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "conducente deve commisurare la distanza di sicurezza anche in base alla propria prontezza di riflessi",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni del traffico",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base all’andamento planoaltimetrico della strada",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base alle condizioni atmosferiche",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base al tipo di veicolo di cui si è alla guida",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base allo stato di efficienza del veicolo",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza deve essere stabilito anche in base all’entità del carico",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 20 metri",
+    "group": "condizioni da considerare per la distanza di sicurezza",
+    "correctAnswer": true
+  }
+]

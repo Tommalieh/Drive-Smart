@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Strada deformata",
+    "text": "E' un segnale di pericolo che preannuncia una strada deformata, in cattivo stato, dissestata o con pavimentazione irregolare (di norma a 150 metri).\nPuò essere integrato con il pannello di 'ESTESA' (che indica l'estensione del tratto), 'DISTANZA' (che indica tra quanti metri si trova il tratto) o con un segnale di 'LIMITE MASSIMO DI VELOCITA''.\nSe a fondo giallo, è usato in presenza di cantieri stradali.\nIn presenza del segnale è necessario:\n- adeguare la velocità in relazione alle particolari condizioni del fondo stradale (specie se si traina un rimorchio) anche per evitare eccessive sollecitazioni e danni alle sospensioni\n- prevedere eventuali sbandamenti dei veicoli provenienti dal senso opposto\n- tenere saldamente il volante, per controllare possibili sbandamenti\nDa non confondere con il segnale 'DOSSO' o CUNETTA'.\nNon è vero preannuncia una serie di dossi, una cunetta o un tratto con visibilità ridotta.\nNon è vero che è obbligatorio circolare al centro della carreggiata o fare attenzione al restringimento della carreggiata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-deformata.png",
+    "order": 1
+  },
+  {
+    "title": "Dosso",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un dosso (una salita, seguita da una discesa), ossia un tratto di strada con variazione di pendenza pericoloso per la limitata visibilità.\nPuò presegnalare anche dossi artificiali.\nIn presenza del segnale:\n- è necessario moderare la velocità in relazione alla visibilità\n- è vietata l'inversione di marcia, la sosta e la fermata sia sul tratto in salita che su quello in discesa\n- è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie\nDa non confondere con segnale 'STRADA DEFORMATA' o 'CUNETTA'.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/dosso.png",
+    "order": 2
+  },
+  {
+    "title": "Cunetta",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una cunetta (una discesa, seguita da una salita), ossia un tratto di strada che potrebbe allagarsi in caso di forti piogge.\nIn presenza del segnale:\n- è necessario moderare la velocità per mantenere il controllo del veicolo ed evitare danni alle sospensioni\n- tenere il volante con una presa più sicura\n- in caso di pioggia è necessario prevedere la possibilità di accumulo di acqua, fango e detriti nella cunetta\nDa non confondere con segnale 'STRADA DEFORMATA' o 'DOSSO'.\nNon è vero che è vietato il sorpasso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/cunetta.png",
+    "order": 3
+  },
+  {
+    "title": "Curva pericolosa a destra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una curva pericolosa a destra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità.\nPuò essere integrato con pannello con la scritta TORNANTE.\nIn presenza del segnale:\n- è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto\n- se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro\n- è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso\n- è necessario regolare la velocità in relazione alle condizioni di carico del veicolo\n- è necessario percorrere la curva con più attenzione se la strada è bagnata\n- non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia\n- non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad es per sorpassare un motociclo)\n- si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)\n- è necessario spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie\nNon è vero che posto su una strada a doppio senso di circolazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/curva-pericolosa-a-destra.png",
+    "order": 4
+  },
+  {
+    "title": "Curva pericolosa a sinistra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una curva pericolosa a sinistra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità.\nPuò essere integrato con pannello con la scritta TORNANTE.\nIn presenza del segnale:\n- è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto\n- se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro\n- è necessario regolare la velocità in relazione alla visibilità e al raggio della curva per potersi arrestare in caso di un ostacolo improvviso\n- è necessario regolare la velocità in relazione alle condizioni di carico del veicolo\n- è necessario percorrere la curva con più attenzione se la strada è bagnata\n- non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia\n- non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad es per sorpassare un motociclo)\n- si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)\n- è necessario spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie\nNon è vero che posto su una strada a doppio senso di circolazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/curva-pericolosa-a-sinistra.png",
+    "order": 5
+  },
+  {
+    "title": "Doppia curva, la prima a destra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una doppia curva pericolosa, di cui la prima a destra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità.\nPuò essere integrato:\n- con pannello con la scritta TORNANTI per indicare la presenza di tornanti\n- con il pannello ESTESA che indica l'estensione del tratto pericoloso\n- con il pannello DISTANZA che indica la distanza dalla zona pericolosa\nIn presenza del segnale:\n- è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto\n- se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro\n- è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso\n- è necessario regolare la velocità in relazione alle condizioni di carico del veicolo\n- è necessario percorrere la curva con più attenzione se la strada è bagnata\n- non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia\n- non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad es per sorpassare un motociclo)\n- si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)\n- è necessario spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/doppia-curva-la-prima-a-destra.png",
+    "order": 6
+  },
+  {
+    "title": "Doppia curva, la prima a sinistra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una doppia curva pericolosa, di cui la prima a sinistra, ossia un tratto di strada non rettilineo pericoloso per ridotta visibilità.\nPuò essere integrato:\n- con pannello con la scritta TORNANTI per indicare la presenza di tornanti\n- con il pannello ESTESA che indica l'estensione del tratto pericoloso\n- con il pannello DISTANZA che indica la distanza dalla zona pericolosa\nIn presenza del segnale:\n- è opportuno fare particolare attenzione ai veicoli provenienti dal senso opposto\n- se posto su strada a doppio senso di circolazione e con due sole corsie, si deve circolare il più possibile vicino al margine destro\n- è necessario regolare la velocità in relazione alla visibilità, al raggio della curva per potersi arrestare in caso di un ostacolo improvviso\n- è necessario regolare la velocità in relazione alle condizioni di carico del veicolo\n- è necessario percorrere la curva con più attenzione se la strada è bagnata\n- non è consentito effettuare fermata, sosta, manovre di retromarcia, inversione di marcia\n- non è consentito il sorpasso se la carreggiata è a doppio senso di circolazione e con due sole corsie (neanche se non si supera la striscia bianca ad es per sorpassare un motociclo)\n- si deve viaggiare ad andatura particolarmente moderata se si circola con il ruotino (ruota di soccorso)\n- è necessario spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/doppia-curva-la-prima-a-sinistra.png",
+    "order": 7
+  },
+  {
+    "title": "Passaggio a livello con barriere o semibarriere",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un passaggio a livello (attraversamento ferroviario) con barriere o semibarriere (indipendentemente dal numero di binari).\nDopo il segnale raffigurato, se ci sono le semibarriere, è installato un dispositivo a luci rosse lampeggianti, se ci sono le barriere, è installato un dispositivo a luce rossa fissa.\nIn presenza del segnale è necessario moderare la velocità (in relazione alla visibilità della linea ferroviaria) e fermarsi se ci sono una luce rossa fissa accesa (due luci rosse lampeggianti in quello con semibarriere), il dispositivo acustico a campana in funzione o cavalletti a strisce bianche e rosse che sbarrano i binari.\nNon è consentito impegnare il passaggio a livello se il traffico intenso impedisce di sgomberarlo.\nSe il veicolo si ferma per avaria sui binari, il conducente deve adottare ogni iniziativa utile al fine di evitare incidenti.\nSono vietati: l'inversione di marcia, la retromarcia, la sosta e la fermata. Il sorpasso si può effettuare se si rimane nel proprio senso di marcia (ossia senza invadere la semicarreggiata opposta).\nNon è vero che obbliga ad arrestarsi se le luci rosse poste in prossimità delle barriere o delle semibarriere sono spente o che si trova dopo il segnale DOPPIA CROCE DI S. ANDREA (che si trova solamente nei passaggi a livello senza barriere).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passaggio-a-livello-con-barriere-o-semibarriere.png",
+    "order": 8
+  },
+  {
+    "title": "Passaggio a livello senza barriere",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un passaggio a livello (attraversamento ferroviario) senza barriere ed è integrato dal relativo pannello distanziometrico a tre barre rosse.\nDopo questo segnale, prima dei binari è installato il segnale CROCE DI S. ANDREA se c'è un solo binario, oppure dalla DOPPIA CROCE DI S. ANDREA se c'è più di un binario.\nIn presenza del segnale è necessario usare la massima prudenza e rallentare (in relazione alla visibilità della linea ferroviaria), per potere, eventualmente, arrestare il veicolo prima dell'attraversamento; quindi prima di passare assicurarsi che non ci siano treni in arrivo sia da destra che da sinistra.\nSono vietati: il sorpasso, la sosta, l'inversione di marcia e la retromarcia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passaggio-a-livello-senza-barriere.png",
+    "order": 9
+  },
+  {
+    "title": "Croce di S.Andrea",
+    "text": "E' un segnale di pericolo, nelle immediate vicinanze di un attraversamento ferroviario in genere senza barriere (dopo il segnale PASSAGGIO A LIVELLO SENZA BARRIERE e i pannelli distanziometrici) e indica che la sede ferroviaria ha un solo binario.\nPuò essere posto sia in senso orizzontale che in senso verticale.\nImpone di arrestarsi entro la striscia di arresto se è in arrivo il treno.\nPuò essere abbinato al segnale FERMARSI E DARE PRECEDENZA (Stop) quando la visibilità è sufficiente solo da breve distanza dal binario.\nNon è vero che è integrato da una luce verde ed una rossa fissa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/croce-di-sandrea.png",
+    "order": 10
+  },
+  {
+    "title": "Doppia croce S.Andrea",
+    "text": "E' un segnale di pericolo, nelle immediate vicinanze di un attraversamento ferroviario in genere senza barriere (dopo il segnale PASSAGGIO A LIVELLO SENZA BARRIERE e i pannelli distanziometrici) e indica che la sede ferroviaria ha più di un binario.\nPuò essere posto sia in senso orizzontale che in senso verticale.\nImpone di arrestarsi entro la striscia di arresto se è in arrivo il treno.\nInvita a fare attenzione, prima di attraversare, perché potrebbe transitare più di un treno.\nPuò essere abbinato al segnale FERMARSI E DARE PRECEDENZA (Stop) quando la visibilità è sufficiente solo da breve distanza dal binario.\nNon è vero che può avere fondo giallo in caso di lavori ai binari.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/doppia-croce-sandrea.png",
+    "order": 11
+  },
+  {
+    "title": "Pannelli distanziometrici",
+    "text": "Sono segnali di pericolo e si trovano in prossimità di tutti i tipi di passaggi a livello (con barriere, semibarriere e senza barriere).\nServono ad indicare che ci si sta avvicinando all'attraversamento ferroviario.\nSono posti, di norma, a circa 150 metri (3 barre rosse), 100 metri (2 barre rosse) e 50 metri (1 barra rossa) dall'attraversamento ferroviario.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pannelli-distanziometrici.png",
+    "order": 12
+  },
+  {
+    "title": "Attraversamento tranviario",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) l'incrocio con una linea tranviaria non regolata da semafori (sia dentro che fuori i centri abitati).\nEssa riduce lo spazio utile per la circolazione dei veicoli.\nIl conducente deve porre maggiore attenzione per non intralciare la marcia del tram.\nIn presenza del segnale:\n- si può sorpassare a destra il tram in marcia se vi è lo spazio necessario\n- si può sorpassare a destra il tram fermo al centro della strada per la salita e discesa dei passeggeri, solo se esiste l'apposito salvagente\n- si può circolare sui binari senza intralciare la marcia del tram\n- si deve fare attenzione agli eventuali pedoni presenti alla fermata del tram\n- bisogna fare attenzione alla possibile diminuzione di aderenza delle ruote del veicolo se si frena sui binari\n- occorre tenere presente che il tram necessita di una distanza di arresto maggiore di quella degli autoveicoli\nNon è vero che interessa il transito dei filobus o che può essere integrato da un dispositivo a luci rosse.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-tranviario.png",
+    "order": 13
+  },
+  {
+    "title": "Attraversamento pedonale",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un attraversamento pedonale (sia dentro che fuori i centri abitati).\nIn presenza del segnale:\n- bisogna rallentare per essere pronti ad arrestarsi se ci sono pedoni che attraversano la carreggiata\n- il conducente deve dare la precedenza ai pedoni che attraversano sulle strisce.\n- non è consentito sorpassare i veicoli che rallentano o si fermano per far attraversare i pedoni e si deve fare attenzione a non tamponarli\n- non si deve effettuare sosta o fermata sopra le strisce pedonali\n- qualora non si dia la precedenza ai pedoni che attraversano sulle apposite strisce, si incorre nella sottrazione di punti della patente\nNon è vero che è posto in corrispondenza di un attraversamento pedonale, ma come detto 150 metri prima.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pericolo-attraversamento-pedonale.png",
+    "order": 14
+  },
+  {
+    "title": "Attraversamento ciclabile",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un attraversamento ciclabile (sia dentro che fuori i centri abitati) quindi un attraversamento per ciclisti, contraddistinto dagli appositi segni sulla carreggiata.\nIn presenza del segnale:\n- bisogna moderare la velocità in modo da non costituire pericolo per la sicurezza dei ciclisti ed essere pronti ad arrestarsi, se necessario, per dare la precedenza ai ciclisti che attraversano\n- non è consentito sorpassare i veicoli che si sono arrestati per far attraversare la carreggiata ai ciclisti\n- non si deve effettuare sosta o fermata in corrispondenza dell'attraversamento\nNon è vero che è posto in corrispondenza di un attraversamento ciclabile, ma come detto 150 metri prima.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pericolo-attraversamento-ciclabile.png",
+    "order": 15
+  },
+  {
+    "title": "Discesa pericolosa con pendenza del 10%",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una discesa pericolosa (lungo cui aumenta lo spazio di frenatura del veicolo) e ne specifica la pendenza.\nIn presenza del segnale:\n- usare maggiore prudenza se la strada è bagnata\n- l'inserimento di una marcia bassa consente di sfruttare adeguatamente l'azione frenante del motore\n- si deve moderare la velocità per evitare di tamponare veicoli che procedono più lentamente\n- bisogna evitare l'uso prolungato dei freni per non surriscaldarli (e quindi rendere inefficiente la frenata)\nNon è vero che bisogna marciare con la frizione abbassata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/discesa-pericolosa-con-pendenza-del-10.png",
+    "order": 16
+  },
+  {
+    "title": "Salita ripida con pendenza del 10%",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una salita pericolosa e ne specifica la pendenza.\nE' necessario percorrere la salita con prudenza con marcia adeguatamente bassa.\nNon è vero che bisogna marciare con la frizione abbassata o che preannuncia un tratto di strada lungo cui aumenta lo spazio di frenatura del veicolo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/salita-ripida-con-pendenza-del-10.png",
+    "order": 17
+  },
+  {
+    "title": "Strettoia simmetrica",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia simmetrica, ossia un restringimento sui due lati della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto.\nSe a fondo giallo, è posto in presenza di un cantiere stradale.\nComporta di moderare la velocità e se necessario arrestarsi.\nSono vietati: il sorpasso, la sosta, l’inversione di marcia e la retromarcia.\nDopo di esso si può trovare il segnale 'DIRITTO DI PRECEDENZA NEI SENSI UNICI ALTERNATI' o 'DARE PRECEDENZA NEI SENSI UNICI ALTERNATI'.\nNon è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strettoia-simmetrica.png",
+    "order": 18
+  },
+  {
+    "title": "Strettoia asimmetrica a sinistra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia asimmetrica a sinistra, ossia un restringimento sul lato sinistro della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto.\nSe a fondo giallo, è posto in presenza di un cantiere stradale.\nComporta di moderare la velocità e se necessario arrestarsi.\nSono vietati: il sorpasso, la sosta, l’inversione di marcia e la retromarcia.\nNon è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strettoia-asimmetrica-a-sinistra.png",
+    "order": 19
+  },
+  {
+    "title": "Strettoia asimmetrica a destra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una strettoia asimmetrica a destra, ossia un restringimento sul lato destro della carreggiata, con probabile difficoltà di incrocio con i veicoli provenienti dal senso opposto.\nSe a fondo giallo, è posto in presenza di un cantiere stradale.\nComporta di moderare la velocità e se necessario arrestarsi.\nSono vietati: il sorpasso, la sosta, l’inversione di marcia e la retromarcia.\nNon è vero che preannuncia un senso unico alternato con l'obbligo di dare la precedenza ai veicoli provenienti dall'altro senso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strettoia-asimmetrica-a-destra.png",
+    "order": 20
+  },
+  {
+    "title": "Ponte mobile",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un ponte mobile.\nPuò essere integrato con pannello indicante gli orari di manovra o di funzionamento di un ponte mobile e con il pannello distanziometrico a tre barre rosse (solo questo non gli altri due a due e tre sbarre).\nDopo il segnale si trova un dispositivo a luci rosse lampeggianti, se in funzione comporta di arrestarsi.\nNon è vero che preannuncia un'area portuale, o che obbliga ad arrestarsi prima di attraversare il ponte, o che vieta il sorpasso se posto sulla strada di accesso ad un'area portuale.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/ponte-mobile.png",
+    "order": 21
+  },
+  {
+    "title": "Banchina pericolosa",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) una banchina cedevole, non praticabile, quindi il pericolo di caduta nella cunetta laterale alla strada.\nE' consigliabile non avvicinarsi troppo al margine destro della strada.\nNon è vero che preannuncia una strada dissestata, presenza di pietrisco sulla pavimentazione o che deve essere necessariamente integrato con il segnale di limite di velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/banchina-pericolosa.png",
+    "order": 22
+  },
+  {
+    "title": "Strada sdrucciolevole",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada che può diventare sdrucciolevole (in cui diminuisce l'aderenza degli pneumatici) in particolari condizioni climatiche specificate nei pannelli integrativi (ghiaccio, pioggia).\nComporta di procedere a velocità moderata, evitare brusche manovre, accelerazioni, frenate e aumentare la distanza di sicurezza in quanto aumenta lo spazio di frenatura.\nIl sorpasso è ammesso solo con particolare attenzione.\nNon è vero che preannuncia la possibilità di sbandamento per forte vento laterale e che bisogna montare le catene.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-sdrucciolevole.png",
+    "order": 23
+  },
+  {
+    "title": "Materiale instabile sulla strada",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada sulla cui pavimentazione stradale può trovarsi del pietrisco.\nQuesto, oltre a diminuire l'aderenza del veicolo, può essere scagliato a distanza al passaggio del veicolo, diventando pericoloso per altri veicoli o per i pedoni.\nRichiede quindi di mantenere una distanza maggiore dal veicolo che precede e procedere con cautela in presenza di pedoni, anche se si trovano fuori dalla carreggiata.\nNon è vero che preannuncia un tratto di strada soggetto a frana (o caduta massi) o che, se a fondo giallo, preannuncia un tratto di strada non percorribile per la presenza di cantieri stradali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/materiale-instabile-sulla-strada.png",
+    "order": 24
+  },
+  {
+    "title": "Attenzione ai bambini",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) luoghi frequentati da bambini (scuole, campi da gioco, giardini).\nInvita a circolare a velocità moderata e considerare eventuali comportamenti imprudenti di fanciulli (anche se si trovano sui marciapiedi).\nE' vietato sorpassare i veicoli che si sono fermati per lasciare attraversare i bambini.\nNon è vero che indica la fermata di uno scuolabus, o che è posto sulla parte posteriore dello scuolabus, o che impone limite di velocità pari a 30 Km/h.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attenzione-ai-bambini.png",
+    "order": 25
+  },
+  {
+    "title": "Animali domestici vaganti (liberi)",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada con probabile attraversamento di animali domestici.\nRichiede di rallentare o di arrestarsi (e non suonare) se gli animali attraversano la strada, danno segno di spavento o non si spostano.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/animali-domestici-vaganti-liberi.png",
+    "order": 26
+  },
+  {
+    "title": "Animali selvatici vaganti",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada con probabile e improvviso attraversamento di animali selvatici\nRichiede di rallentare o di arrestarsi (e non suonare) se gli animali attraversano la strada, danno segno di spavento o non si spostano.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/animali-selvatici-vaganti.png",
+    "order": 27
+  },
+  {
+    "title": "Doppio senso di circolazione",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) che una carreggiata a senso unico, diventa a doppio senso di circolazione e quindi si potranno incontrare veicoli che marciano in senso opposto. Indica quindi che termina il senso unico di circolazione e occorrerà usare maggiore prudenza.\nSe a fondo giallo, è posto in presenza di lavori in corso.\nIl sorpasso, se consentito, deve essere effettuato con particolare prudenza.\nNon è vero che preannuncia un senso unico alternato o il diritto di precedenza nei sensi unici alternati o che impone di dare la precedenza ai veicoli provenienti in senso contrario.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/doppio-senso-di-circolazione.png",
+    "order": 28
+  },
+  {
+    "title": "Preavviso di circolazione rotatoria",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un incrocio di due o più strade (urbane o extraurbane) regolato con circolazione rotatoria.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-circolazione-rotatoria.png",
+    "order": 29
+  },
+  {
+    "title": "Sbocco su molo o su argine",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) lo sbocco della strada su una banchina portuale, un molo, l'argine di un fiume o di un canale, e quindi il pericolo di caduta in acqua.\nBisogna usare particolare prudenza, soprattutto di notte, per evitare di cadere in acqua ed eventualmente si dovranno effettuare manovre di retromarcia.\nNon è vero che preannuncia lo sbocco su un ponte mobile o si riferisce soltanto alle autovetture.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/sbocco-su-molo-o-su-argine.png",
+    "order": 30
+  },
+  {
+    "title": "Caduta massi da sinistra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) il pericolo di caduta di pietre da sinistra con conseguente loro presenza sulla carreggiata.\nE' opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata, evitare lunghe soste e far attenzione a possibili brusche frenate da parte dei veicoli che precedono.\nNon è vero che è vietato il sorpasso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/caduta-massi-da-sinistra.png",
+    "order": 31
+  },
+  {
+    "title": "Caduta massi da destra",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) il pericolo di caduta di pietre da destra con conseguente loro presenza sulla carreggiata.\nE' opportuno moderare la velocità per evitare di urtare eventuali massi caduti sulla carreggiata, evitare lunghe soste e far attenzione a possibili brusche frenate da parte dei veicoli che precedono.\nNon è vero che non si può circolare ad oltre 30 km/h.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/caduta-massi-da-destra.png",
+    "order": 32
+  },
+  {
+    "title": "Preavviso di semaforo verticale",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un semaforo con disposizione delle luci in verticale: bisogna moderare la velocità per potersi all'occorrenza fermare.\nIl disco giallo può essere sostituito da una luce gialla lampeggiante.\nSe a fondo giallo è posto prima di un cantiere stradale.\nE' obbligatorio sulle strade extraurbane prima di un semaforo.\nNon è vero che può avere al centro una luce gialla fissa o il disco rosso sostituito da una luce rossa lampeggiante.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-semaforo-verticale.png",
+    "order": 33
+  },
+  {
+    "title": "Preavviso di semaforo orizzontale",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un semaforo con disposizione delle luci in orizzontale: bisogna moderare la velocità per potersi all'occorrenza fermare.\nIl disco giallo può essere sostituito da una luce gialla lampeggiante.\nSe a fondo giallo è posto prima di un cantiere stradale.\nE' obbligatorio sulle strade extraurbane prima di un semaforo.\nNon è vero che può avere al centro una luce gialla fissa o il disco rosso sostituito da una luce rossa lampeggiante.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-semaforo-orizzontale.png",
+    "order": 34
+  },
+  {
+    "title": "Aeromobili a bassa quota",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) zone dove può avvenire il volo a bassa quota di aeroplani e quindi la possibilità di un improvviso abbagliamento o forte rumore.\nE' posto nelle vicinanze di aeroporti e piste per l'atterraggio ed il decollo di aeroplani.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/aeromobili-a-bassa-quota.png",
+    "order": 35
+  },
+  {
+    "title": "Forte vento laterale",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un tratto di strada soggetto ad improvvise e forti raffiche di vento laterale (ad esempio l'uscita di una galleria, un viadotto, un ponte).\nIndica di procedere con prudenza tenendo saldamente il volante e prevedere possibili sbandamenti dei veicoli provenienti dal senso opposto.\nIl pericolo è maggiore per i veicoli a due ruote e per tutti quelli che hanno un’ampia superficie laterale, specie se viaggiano scarichi; quindi per veicoli telonati, furgonati, che trainano rimorchi o con bagagli voluminosi sopra il tetto (perché il vento esercita una maggiore forza ribaltante); per questi veicoli vige l'obbligo di rallentare e all’occorrenza fermarsi.\nNon è vero che il pericolo è maggiore all'entrata delle gallerie (è maggiore all'uscita)\nNon è vero che indica da quale direzione proviene il vento.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/forte-vento-laterale.png",
+    "order": 36
+  },
+  {
+    "title": "Pericolo di incendio",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) la vicinanza di zone laterali alla strada ad alto rischio d'incendio (ad esempio un bosco facilmente infiammabile)\nE' obbligatoriamente integrato dal pannello ESTESA che indica la lunghezza del tratto di strada interessato.\nSe il conducente o gli eventuali passeggeri non rispettano il divieto di gettare sigarette accese dal finestrino, può verificarsi un incendio.\nE' opportuno non fermarsi sulla sterpaglia con veicolo munito di marmitta catalitica (in quanto la marmitta catalitica raggiunge elevate temperature).\nNon è vero che vieta il transito ai veicoli che trasportano esplosivi o prodotti facilmente infiammabili.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pericolo-di-incendio.png",
+    "order": 37
+  },
+  {
+    "title": "Altri pericoli",
+    "text": "E' un segnale di pericolo che preannuncia (di norma a 150 metri) un pericolo generico, diverso da quelli indicati dagli altri segnali di pericolo.\nSotto al segnale è obbligatorio un pannello integrativo che specifica il tipo di pericolo (esempio ATTRAVERSAMENTO BINARI, GHIACCIO, SGOMBRANEVE IN AZIONE, MEZZI DI LAVORO IN AZIONE, etc.)\nPuò essere usato senza pannelli integrativi per indicare un pericolo generico in caso di emergenza\nIndica di procedere con prudenza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/altri-pericoli.png",
+    "order": 38
+  }
+]

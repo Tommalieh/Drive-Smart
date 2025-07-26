@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza ai veicoli provenienti sia da destra che da sinistra",
+    "group": "manovra in retromarcia",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve azionare gli indicatori di direzione",
+    "group": "manovra in retromarcia",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve fare attenzione agli eventuali pedoni in transito dietro di esso e dar loro la precedenza",
+    "group": "manovra in retromarcia",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza a tutti i veicoli in transito",
+    "group": "manovra in retromarcia",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve assicurarsi che la strada sia libera e fare la manovra con particolare prudenza",
+    "group": "manovra in retromarcia",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve azionare la segnalazione luminosa di pericolo",
+    "group": "manovra in retromarcia",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve accendere la luce posteriore per nebbia",
+    "group": "manovra in retromarcia",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve dare la precedenza solo ai veicoli che transitano nel suo senso di marcia",
+    "group": "manovra in retromarcia",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve manovrare velocemente per liberare il posteggio",
+    "group": "manovra in retromarcia",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  },
+  {
+    "question": "Il veicolo S, muovendosi in retromarcia per immettersi nella circolazione, deve suonare ripetutamente il clacson durante la manovra",
+    "group": "manovra in retromarcia",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/676.png"
+  }
+]

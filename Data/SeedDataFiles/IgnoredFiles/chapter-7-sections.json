@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Semaforo per veicoli",
+    "text": "Un semaforo è posto, di norma, in un incrocio e serve a regolare il passaggio dei veicoli (comprese le biciclette) nell'incrocio stesso.\nLa sequenza di accensione delle luci del semaforo è: verde-giallo-rosso-verde... quando è accesa una, sono spente le altre.\nLa luce verde accesa consente di impegnare l'incrocio con prudenza, quindi svoltare a sinistra (dando la precedenza ai veicoli di fronte e ai pedoni), svoltare a destra (dando la precedenza ai pedoni che attraversano la strada) o proseguire diritto.\nSi può impegnare l'incrocio, soltanto avendo la certezza di poterlo sgomberare prima dell'accensione della luce rossa.\nAvvicinandosi ad un semaforo, che già da molto tempo ha la luce verde accesa, occorre proseguire con prudenza, pronti eventualmente a fermarsi se, quando si accende la luce gialla, non si è ancora impegnato l'incrocio\nLa luce rossa accesa impone ai veicoli di arrestarsi prima della striscia trasversale d'arresto. Essa può essere di dimensioni più grandi delle altre, in modo che sia facilmente visibile.\nNei semafori sistemati in verticale la luce rossa si trova in alto, in quelli posti in orizzontale si trova a sinistra.\nLa luce gialla fissa:\n- obbliga a fermarsi prima del punto di arresto, purché lo si possa fare in condizioni di sicurezza senza creare pericolo\n- consente l'attraversamento dell'incrocio se lo si è già impegnato, obbligando a liberarlo al più presto (non è vero che obbliga il conducente a tornare indietro se ha già superato la striscia trasversale di arresto).\nCon luce gialla lampeggiante (che indica un semaforo spento o guasto) si deve impegnare l'incrocio con prudenza, dando la precedenza ai veicoli provenienti da destra (salvo diversa segnalazione).\nUna luce gialla lampeggiante è anche utilizzata come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità nei punti di strada pericolosa.\nE' consentito quindi il passaggio in presenza del semaforo per veicoli:\n- quando è accesa la luce verde\n- quando si accende la luce gialla fissa, solo se non ci si può arrestare in condizioni di sicurezza prima dell'incrocio\n- quando è accesa la luce gialla lampeggiante o il semaforo è spento o guasto, usando però la massima prudenza e moderando la velocità",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semaforo-per-veicoli.png",
+    "order": 1
+  },
+  {
+    "title": "Semafori veicolari di corsia",
+    "text": "I semafori di corsia sono posti in un incrocio e riguardano i veicoli (tutti i tipi di veicoli, anche le biciclette) che devono proseguire nella direzione della freccia.\nLe frecce verdi accese indicano le direzioni verso le quali si può proseguire, quindi è consentito proseguire nella sola direzione della freccia verde.\nLe frecce rosse accese indicano che non si può proseguire nelle direzioni indicate, quindi impongono l'arresto dei veicoli diretti nel senso della freccia.\nLe frecce gialle fisse accese indicano di liberare l'incrocio, qualora sia stato già impegnato, o di arrestarsi in condizioni di sicurezza.\nSe spenti o con le frecce gialle lampeggianti accese indicano di attraversare l'incrocio con particolare prudenza.\nNon è vero che sono semafori per corsie reversibili.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semafori-veicolari-di-corsia.png",
+    "order": 2
+  },
+  {
+    "title": "Semaforo pedonale",
+    "text": "Un semaforo pedonale regola il passaggio dei pedoni negli incroci.\nPuò essere dotato di segnalazione acustica per i non vedenti.\n- con luce rossa accesa impone l'arresto dei pedoni prima dell'attraversamento\n- con luce gialla fissa accesa, impone ai pedoni che hanno già occupato l'attraversamento pedonale di liberarlo rapidamente\n- con luce verde accesa permette ai pedoni l'attraversamento della strada e comporta per i conducenti l'obbligo di dare la precedenza ai pedoni che attraversano. Non è vero che obbliga i pedoni a dare la precedenza ai veicoli che svoltano.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semaforo-pedonale.png",
+    "order": 3
+  },
+  {
+    "title": "Semaforo per velocipedi",
+    "text": "Un semaforo riservato ai velocipedi (biciclette) si trova all'uscita di una pista ciclabile, per regolare l'attraversamento della strada.\n- con luce verde accesa, consente soltanto ai conducenti di biciclette di attraversare l'incrocio\n- con luce gialla fissa accesa, impone ai conducenti di biciclette di liberare velocemente l'incrocio se lo hanno già impegnato\n- con luce rossa accesa, impone l'arresto alle biciclette\nNon è vero che vale per tutti i veicoli a due ruote.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semaforo-per-velocipedi.png",
+    "order": 4
+  },
+  {
+    "title": "Semafori per veicoli di trasporto pubblico",
+    "text": "Un semaforo per i veicoli di trasporto pubblico vale solo per i veicoli in servizio di linea per trasporto di persone (autobus, tram, taxi, quindi non solo ai veicoli che marciano su rotaie).\nVengono posti negli incroci e funzionano in coordinamento con le luci degli altri semafori.\n- impone l'arresto quando è accesa la barra bianca in alto\n- consente di proseguire quando è accesa la barra bianca in basso\n- consentono di procedere a destra o a sinistra se è accesa una barra bianca inclinata verso destra o verso sinistra\n- indica preavviso di arresto quando è acceso il triangolo giallo al centro",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semafori-per-veicoli-di-trasporto-pubblico.png",
+    "order": 5
+  },
+  {
+    "title": "Semaforo di corsie reversibili",
+    "text": "È posto su una carreggiata a doppio senso di circolazione con almeno tre corsie (caselli autostradali) per regolare l'uso delle corsie stesse da parte dei veicoli (tutti i tipi di veicoli).\n- consente di impegnare la corsia indicata dalla freccia verde\n- non consente di occupare la corsia indicata con luce rossa a forma di X\n- la luce gialla lampeggiante obbliga il conducente a spostarsi nella corsia indicata dalla freccia\nNon è vero che vale anche per i pedoni, mentre vale per le biciclette.\nNon è vero che la corsia con luce rossa accesa impone di fermarsi ed attendere il segnale di via libera.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semaforo-di-corsie-reversibili.png",
+    "order": 6
+  },
+  {
+    "title": "Semaforo di onda verde",
+    "text": "I semafori di 'onda verde' sono semafori sincronizzati e sono installati su itinerari a più incroci.\nConsigliano al conducente di mantenere la velocità indicata dal simbolo luminoso acceso per trovare la luce verde ai semafori successivi (usufruire dell'onda verde).\nQuindi delle tre luci del semaforo se ne accende soltanto una per volta.\nAttenzione non obbligano a mantenere la velocità indicata, lo consigliano.\nNon è vero che viene posto su autostrade (non esistono incroci a raso).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/semaforo-di-onda-verde.png",
+    "order": 7
+  },
+  {
+    "title": "Luce gialla lampeggiante",
+    "text": "La luce gialla lampeggiante, del tipo B o C in figura, è affiancata al semaforo veicolare per ricordare ai veicoli che nello svoltare a destra:\n- devono dare la precedenza alle biciclette (tipo C)\n- devono dare la precedenza ai pedoni (tipo B)\nIl tipo A, che si trova quando il semaforo è spento o guasto, prescrive di usare prudenza, diminuire la velocità e dare precedenza ai veicoli di destra.\nUna luce gialla lampeggiante, del tipo A, può essere posta in punti pericolosi della strada come segnale di pericolo generico che invita a procedere con particolare prudenza e moderare la velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/luce-gialla-lampeggiante.png",
+    "order": 8
+  },
+  {
+    "title": "Luci rosse lampeggianti",
+    "text": "Quando in funzione si accendono alternativamente e vietano il passaggio di veicoli e pedoni, obbligano ad arrestarsi e non superare la striscia trasversale d'arresto.\nSi possono trovare in un passaggio a livello ferroviario con semibarriere o senza barriere, all'accesso di un pontile d'imbarco di navi traghetto o di un ponte mobile, quando vi sono aerei in atterraggio o in decollo (ad integrazione del segnale di pericolo AEROMOBILI A BASSA QUOTA).\nDi norma, sono situate sul lato destro della strada e sono integrate da un dispositivo di segnalazione acustica.\nNei passaggi a livello sono poste nelle immediate vicinanze dei binari ed entrano in funzione poco prima dell'arrivo del treno, prima dell'inizio dell'abbassamento delle semibarriere, e rimangono accese fino alla fine del suo passaggio. Quindi avvicinandosi ad un passaggio a livello con luci rosse lampeggianti alternativamente e semibarriera ancora alzata, occorre predisporsi all'arresto.\nNon è vero che si trovano in vicinanza di un posto di blocco della polizia, lungo le linee ferroviarie, come semaforo per i conducenti dei treni, 150 metri prima di un passaggio a livello o sul primo dei pannelli distanziometrici.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/luci-rosse-lampeggianti.png",
+    "order": 9
+  },
+  {
+    "title": "Gli addetti al servizio stradale si identificano con",
+    "text": "- l'uniforme;\n- il segnale distintivo;\n- la \"paletta\" bianca e rossa\nNon è vero che vengono riconosciuti dai guantoni e dalle strisce rifrangenti",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 10
+  },
+  {
+    "title": "Vigile in posizione di ALT",
+    "text": "Il vigile si dispone con le braccia aperte verso la nostra direzione come in figura. Equivale alla luce rossa del semaforo quindi bisogna arrestarsi prima della striscia trasversale di arresto ed è vietato il passaggio (quindi non si può svoltare a sinistra, destra o proseguire diritto).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/vigile-in-posizione-di-alt.png",
+    "order": 11
+  },
+  {
+    "title": "Vigile in posizione di AVANTI",
+    "text": "Il vigile si dispone di profilo con le braccia aperte come in figura. Equivale alla luce verde del semaforo: è consentito il passaggio (usando comunque prudenza) delle correnti di traffico che scorrono parallele alle sue braccia (che provengono dalla sua destra o sinistra). Quindi è possibile proseguire diritto, svoltare a destra (dando la precedenza ai pedoni che attraversano la strada trasversale), svoltare a sinistra (dando la precedenza ai veicoli provenienti di fronte e ai pedoni).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/vigile-in-posizione-di-avanti.png",
+    "order": 12
+  },
+  {
+    "title": "Vigile in posizione di ATTENZIONE",
+    "text": "Il vigile ha un braccio alzato come in figura. Equivale alla luce gialla fissa del semaforo, quindi:\n- bisogna arrestarsi prima dell'incrocio, se è possibile farlo senza creare pericolo\n- bisogna liberare velocemente l'incrocio, se già è stato impegnato",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/vigile-in-posizione-di-attenzione.png",
+    "order": 13
+  },
+  {
+    "title": "Vigile con le braccia distese orizzontalmente a 90 gradi",
+    "text": "Il vigile disposto con le braccia ad angolo retto, come in figura, consente ai veicoli che provengono dalla sua sinistra di proseguire verso tutte le direzioni, quindi di svoltare a sinistra e a destra, e di proseguire diritto.\nFerma, invece, i veicoli che provengono dalle altre direzioni (dalla sua destra, dalle sue spalle e di fronte).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/vigile-con-le-braccia-distese-orizzontalmente-a-90-gradi.png",
+    "order": 14
+  },
+  {
+    "title": "Suono prolungato da parte del fischietto del vigile",
+    "text": "Ha lo scopo di  consentire il passaggio di veicoli di soccorso in servizio di emergenza (ambulanza, vigili del fuoco, polizia).\nSignifica che tutti i veicoli si devono arrestare, in condizioni di sicurezza, quindi:\n- occorre arrestarsi, se non si è ancora occupato l'incrocio\n- impone a chi ha impegnato l'incrocio di liberarlo ed eventualmente di arrestarsi subito dopo",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 15
+  },
+  {
+    "title": "Documenti da mostrare a richiesta degli agenti",
+    "text": "Chi guida autoveicoli o motocicli, a richiesta degli agenti, deve esibire (mostrare):\n- la patente di guida\n- la carta di circolazione\n- il certificato di assicurazione (contratto)\n- il segnale mobile di pericolo (triangolo)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 16
+  }
+]

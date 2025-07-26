@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Nelle autostrade e strade extraurbane, è obbligatorio accendere i fari anabbaglianti anche di giorno o, in alternativa, le luci di marcia diurna",
+    "group": "luci anabbaglianti",
+    "correctAnswer": true
+  },
+  {
+    "question": "L’errata impostazione dell’orientamento dei proiettori può ridurre la visibilità del conducente o abbagliare gli altri utenti",
+    "group": "luci anabbaglianti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Proiettori anabbaglianti male orientati possono abbagliare gli altri utenti della strada",
+    "group": "luci anabbaglianti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Pur avendo acceso le luci anabbaglianti, si corre il rischio di abbagliare gli altri se le lampade sono montate in maniera errata o non sono omologate",
+    "group": "luci anabbaglianti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Su un veicolo a motore non è consentito utilizzare lampade non omologate",
+    "group": "luci anabbaglianti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Percorrendo una strada extraurbana durante una giornata assolata è sufficiente accendere le luci di posizione",
+    "group": "luci anabbaglianti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Percorrendo una strada extraurbana, è obbligatorio tenere accesi i proiettori abbaglianti durante le ore diurne",
+    "group": "luci anabbaglianti",
+    "correctAnswer": false
+  },
+  {
+    "question": "L’uso delle luci di posizione è obbligatorio di notte durante la sosta fuori della carreggiata",
+    "group": "luci anabbaglianti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Per le luci di posizione è possibile utilizzare lampade di qualsiasi colore",
+    "group": "luci anabbaglianti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Durante la marcia nei centri abitati, è obbligatorio tenere accese le luci anabbaglianti da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere",
+    "group": "dispositivi da utilizzare durante la marcia",
+    "correctAnswer": true
+  }
+]

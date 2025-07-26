@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Strada",
+    "text": "La strada è un'area aperta alla circolazione dei pedoni, degli animali e dei veicoli.\nPuò essere a senso unico o a doppio senso di circolazione.\nPuò essere suddivisa in più carreggiate in presenza di uno spartitraffico.\nComprende:\n- le carreggiate, riservate a veicoli ed animali\n- le banchine ed i marciapiedi, riservati ai pedoni\n- le piste ciclabili, riservate alle biciclette",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Carreggiata",
+    "text": "La carreggiata è la parte della strada destinata al transito dei veicoli.\nPuò essere a senso unico o a doppio senso di circolazione.\nPuò essere suddivisa in più corsie.\nFanno parte della carreggiata:\n- tutte le corsie, tranne la corsia di emergenza\n- gli attraversamenti pedonali\n- gli attraversamenti ciclabili\nNon fanno parte della carreggiata, ma possono affiancarla:\n- marciapiedi, banchine o viali pedonali\n- piste ciclabili\n- piazzole di sosta",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 2
+  },
+  {
+    "title": "Corsia",
+    "text": "La corsia è una parte della carreggiata che consente la circolazione di una sola fila di veicoli.\nE' limitata da strisce continue o discontinue e ha larghezza minima di 2,80 metri e massima di 4 metri.\nUna corsia è sempre a senso unico e può essere:\n- di marcia: per la marcia dei veicoli\n- di accelerazione: per consentire l'ingresso dei veicoli nella carreggiata\n- di decelerazione: per consentire il rallentamento dei veicoli in uscita dalla carreggiata\n- di emergenza: per la sosta di emergenza in caso di guasto o malessere\n- riservata: destinata esclusivamente alla circolazione di una particolare categoria di veicoli (es taxi o autobus)\n- specializzata: destinata a determinate manovre (es sorpasso, sosta, svolta)\nLe corsie possono essere vietate a taluni tipi di veicoli.\nL'ente proprietario della strada può imporre che su una corsia i veicoli transitino ad una velocità minima obbligatoria.\nNon è vero che non può mai essere attraversata dai pedoni, o che su una stessa corsia possono circolare affiancati due motocicli o due ciclomotori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 3
+  },
+  {
+    "title": "Corsia di accelerazione",
+    "text": "La corsia di accelerazione viene utilizzata per aumentare la velocità dei veicoli che effettuano l'ingresso in una carreggiata (in autostrada o su strade extraurbane principali).\nAd esempio quando si proviene da un'altra strada o da un'area di servizio.\nNella corsia di accelerazione sono vietati la sosta ed il sorpasso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Corsia di decelerazione",
+    "text": "La corsia di decelerazione viene utilizzata per rallentare i veicoli che effettuano l'uscita da una carreggiata o da una strada a precedenza.\nAd esempio serve per uscire dalla carreggiata dell'autostrada ed entrare in una strada secondaria o in un'area di servizio.\nNella corsia di decelerazione sono vietati la sosta ed il sorpasso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 5
+  },
+  {
+    "title": "Banchina",
+    "text": "La banchina è una parte della strada, posta al di fuori della carreggiata; quindi situata oltre la linea bianca continua di margine della carreggiata.\nE' destinata alla circolazione dei pedoni e non consente di norma il transito (e quindi neanche la sosta) ai veicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 6
+  },
+  {
+    "title": "Marciapiede",
+    "text": "Il marciapiede è una parte della strada, al di fuori della carreggiata, rialzata o delimitata in altro modo e riservata ai pedoni.\nConsente la sosta dei veicoli solo in presenza di apposite strisce di parcheggio.\nNon è vero che è riservato ai pedoni e ai veicoli in sosta, qualora non sia rialzato, o che è consentita la sosta dei ciclomotori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 7
+  },
+  {
+    "title": "Attraversamento pedonale",
+    "text": "E' una parte della carreggiata (e quindi della strada) segnalata con strisce bianche parallele (strisce pedonali), in cui i veicoli devono dare la precedenza ai pedoni che attraversano.\nSu di essa è vietata la fermata (e quindi anche la sosta) dei veicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 8
+  },
+  {
+    "title": "Isola di traffico",
+    "text": "E' una parte della carreggiata (e quindi della strada), evidenziata mediante zebrature di colore bianco e delimitata da strisce bianche continue di raccordo.\nServe a facilitare l'incanalamento dei veicoli verso varie direzioni.\nPuò essere a raso (dipinta sul piano stradale) o in rilievo (rialzata); se rialzata, è preceduta da zebrature di colore bianco.\nSu di essa è vietato marciare e sostare.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 9
+  },
+  {
+    "title": "Salvagente",
+    "text": "Il salvagente è una parte della strada rialzata, destinata al riparo o alla sosta dei pedoni che attraversano la strada stessa, in corrispondenza di attraversamenti pedonali o di fermate dei trasporti pubblici.\nFacilita la salita e la discesa dei passeggeri da tram, filobus o autobus.\nPuò essere segnalato da colonnine luminose a luce gialla fissa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 10
+  },
+  {
+    "title": "Intersezione (incrocio) a raso",
+    "text": "L'intersezione a raso è un'intersezione di due o più strade poste allo stesso livello.\nRichiede di fare attenzione ai veicoli provenienti dalle strade che si incrociano.\nPuò essere regolata da semaforo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 11
+  },
+  {
+    "title": "Intersezione (incrocio) a livelli sfalsati",
+    "text": "L'intersezione a livelli sfalsati è un'intersezione di due o più strade situate ad altezze diverse.\nIl collegamento fra queste strade avviene attraverso infrastrutture quali rampe, sovrappassi o sottopassi.\nFacilita la circolazione, perché esclude l'incrocio diretto fra i veicoli.\nNon è vero che non valgono i limiti massimi generali di velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 12
+  },
+  {
+    "title": "Zona a traffico limitato",
+    "text": "La zona a traffico limitato è un'area in cui l'accesso e la circolazione sono limitati ad ore o giorni prestabiliti o a particolari categorie di utenti e di veicoli.\nE' delimitata da appositi segnali stradali di inizio e fine.\nNon è vero che è sempre vietata al transito dei veicoli a motore.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 13
+  },
+  {
+    "title": "Area pedonale",
+    "text": "L'area pedonale è una zona destinata al transito dei pedoni ed è delimitata da appositi segnali stradali di inizio e fine.\nOltre ai pedoni possono circolare:\n- biciclette\n- i veicoli al servizio di persone diversamente abili\n- veicoli in servizio di emergenza, polizia, vigili del fuoco, autoambulanze, con sirena e luce lampeggiante blu in funzione\n- altre categorie di veicoli, se espressamente consentito; ad es i veicoli ad emissione zero (elettrici)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 14
+  },
+  {
+    "title": "Passo carrabile",
+    "text": "È una zona della strada che consente l'accesso dei veicoli alle proprietà private laterali alla strada (garage, cortili, ecc.).\nDeve essere corredato da apposito segnale, che riporti l'ente e il numero di autorizzazione.\nIn corrispondenza del passo carrabile è consentita la fermata ma non la sosta (neanche del proprietario).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 15
+  },
+  {
+    "title": "Passaggio a livello",
+    "text": "Il passaggio a livello è un attraversamento a raso tra una strada ed una linea ferroviaria.\nIn un passaggio a livello si possono trovare:\n- barriere o semibarriere\n- pannelli che indicano la distanza\n- dispositivo di segnalazione acustica a campana\n- luci rosse\n- croce di S. Andrea",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 16
+  },
+  {
+    "title": "Strada extraurbana principale",
+    "text": "La strada extraurbana principale è una strada a carreggiate indipendenti o separate da spartitraffico, ciascuna almeno con due corsie di marcia. Inoltre:\n- è contraddistinta da appositi cartelli stradali di inizio e fine\n- si possono trovare intersezioni (incroci) a livelli sfalsati, ma non a raso\n- è provvista di corsie di accelerazione e decelerazione per ingresso e uscita dei veicoli e di apposite aree di sosta\n- possono circolare solo alcune categorie di veicoli a motore  (non possono entrarvi biciclette, ciclomotori e quadricicli leggeri)\n- il limite massimo generale di velocità è di 110 km/h\n- la segnaletica è di colore blu\nNon è vero che non vi sono curve né dossi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 17
+  },
+  {
+    "title": "Autostrada",
+    "text": "L'autostrada è una strada a carreggiate indipendenti o separate da spartitraffico, ciascuna almeno con due corsie di marcia e corsia di emergenza. Inoltre:\n- è contraddistinta da appositi cartelli stradali di inizio e fine\n- si possono trovare intersezioni (incroci) a livelli sfalsati, ma non a raso\n- è provvista di corsie di accelerazione e decelerazione per ingresso e uscita dei veicoli\n- possono circolare solo alcune categorie di veicoli a motore\n- è priva di accessi privati\n- deve essere recintata lateralmente\n- il limite massimo generale di velocità è di 130 km/h.\n- la segnaletica è di colore verde.\nSono esclusi alla circolazione in autostrada:\n- autovetture che non sono in grado di sviluppare una velocità di almeno 80 km/h\n- veicoli con carico non opportunamente sistemato e fissato o con carico di materiale sciolto e scoperto, che può disperdersi\n- veicoli non in regola con la prescritta revisione o in cattive condizioni d'uso, di equipaggiamento o di gommatura (ad esempio: pneumatici consumati, indicatori di direzione guasti)\n- ciclomotori\n- motocicli di cilindrata inferiore a 150 cm3\n- macchine agricole e macchine operatrici\nIn autostrada è vietato:\n- invertire il senso di marcia\n- fermarsi, salvo casi di necessita (malessere o grave guasto del veicolo) sulla corsia di emergenza per un massimo di 3 ore\n- chiedere o concedere passaggi (anche nelle aree di servizio)\n- trainare altri veicoli (tranne i rimorchi)\n- usare i proiettori a luce abbaglianti nelle aree di servizio e nei tratti provvisti di illuminazione\n- gareggiare in velocità\n- svolgere attività di vendita o propaganda",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 18
+  },
+  {
+    "title": "Esempio di uso di corsie e carreggiate: strada con 4 corsie",
+    "text": "E' una strada composta da 1 carreggiata e 4 corsie.\nLa circolazione è a doppio senso di circolazione, di norma, le corsie laterali servono per la marcia normale, mentre quelle centrali per il sorpasso.\nSolo se il traffico è intenso si può viaggiare per file parallele.\nSono vietate la svolta a sinistra, la retromarcia e l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img /esempio-di-uso-di-corsie-e-carreggiate-strada-con-4-corsie.png",
+    "order": 19
+  },
+  {
+    "title": "Esempio di uso di corsie e carreggiate: strada con 6 corsie",
+    "text": "E' una strada composta da 1 carreggiata e 6 corsie (tre corsie per ogni senso di marcia).\nLa circolazione è a doppio senso di circolazione, di norma per ogni senso di marcia, la corsia di destra è dedicata alla marcia ordinaria, mentre le corsie di centro e di sinistra sono dedicate al sorpasso.\nSolo se il traffico è intenso si può viaggiare per file parallele.\nSono vietate la svolta a sinistra, la retromarcia e l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img /esempio-di-uso-di-corsie-e-carreggiate-strada-con-6-corsie.png",
+    "order": 20
+  },
+  {
+    "title": "Esempio di uso di corsie e carreggiate: strada a 3 carreggiate e 8 corsie",
+    "text": "E' una strada composta da 3 carreggiate (1 a doppio senso e 2 a senso unico) e da 8 corsie.\nLe carreggiate laterali sono, di norma, a senso unico e se il traffico è intenso si può viaggiare per file parallele; sono vietate la svolta a sinistra, la retromarcia e l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva.\nLa carreggiata centrale è, di norma, a doppio senso di circolazione con 4 corsie; quindi le corsie laterali servono per la marcia normale e quelle centrali per il sorpasso; se il traffico è intenso si può viaggiare per file parallele; sono vietate la svolta a sinistra, la retromarcia e l'inversione di marcia, mentre il sorpasso è consentito anche sui dossi o lungo una curva.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/esempio-di -di-corsie-e-carreggiate-strada-a-3-carreggiate-e-8-corsie.png",
+    "order": 21
+  },
+  {
+    "title": "Classificazione dei veicoli",
+    "text": "E' definito veicolo qualunque macchina che circoli su strada guidata dall'uomo (escluse quelle per bambini o per invalidi, come ad esempio passeggini o sedie a rotelle).\nI veicoli sono classificati nelle seguenti categorie:\n- veicoli a braccia: spinti o trainati da un uomo a piedi\n- veicoli a trazione animale: trainati da uno o più animali\n- velocipedi: biciclette, risciò, monopattini\n- ciclomotori\n- motoveicoli: motocicli, motocarrozzette, quadricicli, mototrattori\n- autoveicoli: autovetture, autobus, autocarri, trattori stradali, autotreni, autoarticolati, autosnodati, autocaravan\n- filoveicoli\n- rimorchi: tra cui anche caravan e semirimorchi\n- macchine agricole\n- macchine operatrici",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 22
+  },
+  {
+    "title": "Ciclomotori",
+    "text": "Sono veicoli a due o tre ruote, con motore termico fino a 50 cm3 di cilindrata e velocità massima su strada piana sino 45 km/h.\nPossono essere dotati di cambio automatico.\nI ciclomotori sono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni.\nAttenzione non rientrano nella categoria dei motocicli.\nI quadricicli leggeri (le microcar), ai fini della circolazione sono assimilati ai ciclomotori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 23
+  },
+  {
+    "title": "Motocicli",
+    "text": "Sono veicoli a due ruote con cilindrata superiore a 50 cm3.\nPossono essere dotati di cambio automatico.\nSono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 24
+  },
+  {
+    "title": "Tricicli a motore",
+    "text": "Sono veicoli a tre ruote simmetriche, con motore di cilindrata superiore a 50 cm3 e aventi una velocità massima superiore a 45 km/h.\nNon va confuso con il complesso costituito da un motociclo e un sidecar (motocarrozzetta con ruote non simmetriche).\nSono soggetti a revisione dopo quattro anni dalla prima immatricolazione, successivamente ogni due anni.\nNon è vero che possono essere condotti senza patente.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 25
+  },
+  {
+    "title": "Quadricicli a motore",
+    "text": "Sono veicoli a quattro ruote di massa a vuoto sino a 400 Kg (550 Kg se destinati a trasporto di cose) e di potenza del motore massima fino a 15 kW.\nPer guidare un quadriciclo, di norma, occorre aver compiuto 16 anni ed essere in possesso della patente di categoria B1 a meno si tratti di un quadriciclo leggero.\nI QUADRICICLI LEGGERI sono quelli con potenza sino a 4 kW dotati di motore a benzina (con cilindrata non superiore a 50 cm3), diesel o elettrico, ad esempio le microcar.\nEssi ai fini della circolazione, sono assimilati ai ciclomotori, e quindi si possono guidare già a 14 anni con la patente di categoria AM.\nNei quadricicli con carrozzeria aperta (quad) occorre indossare il casco.\nTutti i quadricicli (leggeri o meno) sono soggetti a revisione periodica.\nE' espressamente vietato modificare o sostituire il motore dei quadricicli per aumentarne la velocità o la cilindrata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 26
+  },
+  {
+    "title": "Autoveicoli",
+    "text": "Gli autoveicoli sono tutti veicoli a motore con non meno di quattro ruote, esclusi i quadricicli.\nSono autoveicoli autovetture, autobus, autocarri, trattori stradali, autotreni, autoarticolati, autosnodati, autocaravan.\nI CARRELLI APPENDICE a non più di due ruote trasportati da autoveicoli (esclusi autotreni, autoarticolati e autosnodati) si considerano parti integranti di questi purché l'insieme rientri nei limiti di massa e sagoma previsti.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 27
+  },
+  {
+    "title": "Autovetture",
+    "text": "L'autovettura è un veicolo a motore con quattro ruote, destinato al trasporto di persone (massimo nove, compreso il conducente).\nQuindi non sono autovetture gli autobus (più di nove persone), i portavalori (destinato a trasporto di valori), gli autocarri (destinati al trasporto di merci).\nPossono avere motore elettrico o termico, trazione anteriore o posteriore. Possono trainare carrelli-appendice o rimorchi.\nSono soggette a revisione periodica, quattro anni dopo la prima immatricolazione e, successivamente, ogni due anni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 28
+  },
+  {
+    "title": "Autocaravan (Camper)",
+    "text": "Sono aventi una speciale carrozzeria ed attrezzati permanentemente per essere adibiti al trasporto ed all'alloggio di persone (il numero massimo è indicato nella carta di circolazione).\nNon si può viaggiare in piedi, ma è sempre necessario allacciare la cintura.\nSono soggette a revisione periodica quattro anni dopo la prima immatricolazione e, successivamente, ogni due anni.\nDa non confondere con i caravan, che sono rimorchi e non autoveicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 29
+  },
+  {
+    "title": "Caravan (Roulottes)",
+    "text": "Sono rimorchi, muniti di targa, aventi speciale carrozzeria ed attrezzati per essere adibiti ad alloggio esclusivamente a veicolo fermo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 30
+  },
+  {
+    "title": "Rimorchi e semirimorchi",
+    "text": "I rimorchi o i semirimorchi sono veicoli privi di motore, destinati ad essere trainati.\nI rimorchi leggeri sono quelli di massa massima a pieno carico fino a 750 kg.\nSono entrambi dotati di impianto frenante.\nNon è vero che sono muniti di silenziatore (in quanto non hanno motore).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 31
+  },
+  {
+    "title": "Macchine operatrici e agricole",
+    "text": "Le macchine operatrici e le macchine agricole sono macchine semoventi (si possono muovere sa sole) o trainate, dotate di ruote gommate o cingoli.\nQuelle semoventi possono trasportare al massimo tre addetti, compreso il conducente, ma non in piedi (neanche e soprattutto sul rimorchio).\nLe MACCHINE AGRICOLE sono destinate ad essere impiegate nelle attività agricole e forestali.\nPossono circolare su strada per il proprio trasferimento o per il trasporto di prodotti agricoli, ma solo se immatricolate.\nLe macchine agricole non eccezionali (cioè quelle che non superano i limiti di sagoma e di massa previsti per i motoveicoli) si possono condurre con le patenti di categoria A1, A2, o A, quelle eccezionali con la patente B.\nLe MACCHINE OPERATRICI sono ad esempio veicoli sgombraneve, spartineve, veicoli utilizzati per la costruzione di opere civili o stradali, carrelli per la movimentazione di cose.\nQuelle non eccezionali (cioè con massa fino a 3,5 t) si possono condurre con la patente B, quelle eccezionali con una patente superiore (C).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 32
+  },
+  {
+    "title": "Pannello per carichi sporgenti",
+    "text": "Il pannello per carichi sporgenti:\n- deve essere retroriflettente\n- deve essere applicato in ogni caso in cui il carico sporge posteriormente, anche se di poco\n- segnala carichi indivisibili che sporgono dalla parte posteriore del veicolo (per non più di 3/10 della lunghezza del veicolo)\n- se il carico sporge longitudinalmente per l'intera larghezza della parte posteriore del veicolo, i pannelli devono essere due, posti trasversalmente alle due estremità del carico\n- può essere messo sui veicoli guasti, quando vengono trainati e non funzionano le luci di emergenza\n- invita i conducenti che stanno dietro al veicolo su cui è applicato, a circolare con particolare prudenza",
+    "imageUrl": "https .guidaevai.com/assets/frontend/onepage/img/simboli/pannello-per-carichi-sporgenti.png",
+    "order": 33
+  },
+  {
+    "title": "Pannello per merci pericolose",
+    "text": "Segnalano veicoli che stanno trasportando merci pericolose. Devono essere fissati davanti e dietro al veicolo; sono integrati con due serie di numeri indicanti il tipo di pericolo e la materia trasportata.",
+    "imageUrl": "https .guidaevai.com/assets/frontend/onepage/img/simboli/pannello-per-merci-pericolose.png",
+    "order": 34
+  },
+  {
+    "title": "Pannello per veicoli adibiti al trasporto merci con massa a pieno carico superiore a 3,5 t",
+    "text": "Vanno applicati nella parte posteriore di tutti gli autoveicoli per trasporto di cose che superano a pieno carico la massa di 3,5 t.\nSono fluorescenti/retroriflettenti per migliorare la visibilità degli autoveicoli a cui sono applicati.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pannello-per-veicoli-adibiti -trasporto-merci-con-massa-a-pieno-carico-superiore-a-35-t.png",
+    "order": 35
+  },
+  {
+    "title": "Pannello per rimorchi adibiti al trasporto merci con massa a pieno carico superiore a 3,5 t",
+    "text": "Vanno applicati nella parte posteriore di tutti i rimorchi o semirimorchi per trasporto di cose che superano a pieno carico la massa di 3,5 t.\nIndividuano quindi un autotreno o un autoarticolato.\nSono fluorescenti/retroriflettenti per migliorare la visibilità dei veicoli cui sono applicati.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pannello-per-rimorchi-adibiti -trasporto-merci-con-massa-a-pieno-carico-superiore-a-35-t.png",
+    "order": 36
+  },
+  {
+    "title": "Strisce retroriflettenti sui veicoli",
+    "text": "Durante la circolazione, gli autocarri ed i rimorchi con massa massima a pieno carico superiore a 3,5 t devono essere segnalati con strisce posteriori e laterali retroriflettenti (oltre i pannelli appositi - FIGURE 304 e 305). Possono essere di colore bianco o giallo se applicate lateralmente, rosso o giallo, se applicate dietro.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 37
+  },
+  {
+    "title": "Segnali sui veicoli di velocità massima",
+    "text": "Vanno applicati sulla parte posteriore di alcuni veicoli e ne indicano le velocità massime consentite (rispettivamente su autostrade e su strade extraurbane principali).\nPossono essere al massimo due sullo stesso veicolo.\nVanno applicati:\n- a tutti i veicoli di massa superiore a 3,5 t (sia per trasporto di persone che di cose)\n- ai quadricicli a motore (perché hanno dei limiti di velocità particolari, diversi da quelli generali)\nNon è vero che nella parte posteriore degli autobus deve essere apposto un segnale che indica la velocità minima consentita.",
+    "imageUrl": "https://old.guidaevai /assets/frontend/onepage/img/simboli/segnali-sui-veicoli-di-velocita-massima.png",
+    "order": 38
+  },
+  {
+    "title": "Doveri del conducente nell'uso della strada",
+    "text": "E' vietato:\n- rimuovere, spostare o imbrattare la segnaletica stradale (compresi segnali temporanei come coni o barriere). Ciò può comportare grave pericolo per gli altri utenti della strada\n- gettare oggetti dal finestrino. In particolare i mozziconi di sigaretta sono molto pericolosi soprattutto se sopraggiungono veicoli a due ruote, o in prossimità di boschi o aree verdi dove potrebbero causare incendi\n- sporcare la strada (banchina compresa) depositando rifiuti o immettendosi sulla strada con le ruote sporche (fango, terriccio) o con il veicolo che perde olio o carburante.\nNei casi di perdita di olio o carburante, il conducente deve compiere tutte le azioni necessarie per evitare pericoli per altri utenti e avvisare immediatamente l'ente proprietario della strada o gli organi di polizia.\nIn tutti i casi in cui si sporca notevolmente la strada, si può incorrere in una sanzione amministrativa.\n- gareggiare in velocità. Il conducente che partecipa a gare di velocità non autorizzate su aree pubbliche è punito con la reclusione. Vale la stessa cosa anche per chi scommette su tali gare.\n- danneggiare opere e impianti stradali (recinzioni, panchine, tombini, ecc.).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 39
+  },
+  {
+    "title": "Procedendo in fila o in condizioni di traffico intenso",
+    "text": "Procedendo in fila con altri veicoli:\n- bisogna mantenere ugualmente la distanza di sicurezza e quindi non avvicinarsi troppo al veicolo che precede\n- non bisogna limitarsi a osservare solamente il veicolo che precede, ma occorre porre attenzione anche in lontananza, per controllare la situazione del traffico\n- per agevolare il traffico, è opportuno lasciare liberi gli sbocchi delle strade laterali\n- non cambiare ripetutamente corsia o accelerare bruscamente per sorpassare gli altri veicoli\nNon è vero che è opportuno tenere sempre accese le luci di emergenza o spostarsi il più possibile a sinistra, per creare una corsia libera a destra.\nIn caso di traffico intenso o formazione di code è necessario sempre lasciare liberi:\n- le immissioni stradali (incroci, confluenze, ingressi dei parcheggi, ecc)\n- i passaggi a livello e i binari del tram\n- gli attraversamenti pedonali e quelli ciclabili",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 40
+  },
+  {
+    "title": "Entrando in un centro abitato",
+    "text": "Entrando in un centro abitato bisogna:\n- tenere conto che può cambiare spesso la precedenza agli incroci\n- tener conto che il flusso della circolazione viene spesso intralciato o interrotto da veicoli che sono fermi, che partono, che cambiano direzione.\n- tener conto che gli altri utenti della strada (quali pedoni e ciclisti) si mescolano maggiormente con il traffico motorizzato\n- essere più attenti, prudenti e tolleranti, a causa del maggior numero di utenti che interagiscono nell'ambiente urbano\n- continuare a mantenere la concentrazione alla guida anche se potrebbero aumentare i motivi per distrarsi",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 41
+  },
+  {
+    "title": "Comportamento del conducente verso gli altri utenti della strada",
+    "text": "Comportamento che il conducente di un veicolo deve tenere verso gli altri utenti della strada:\n- oltre a rispettare le norme specifiche della circolazione, deve tenere un rapporto corretto, paziente e tollerante verso gli altri utenti della strada, anche in caso di rallentamento della circolazione\n- deve sempre usare la massima prudenza, anche quando gli altri conducenti devono dargli la precedenza\n- deve cercare di prevedere il comportamento degli altri utenti, che può non essere corretto\n- deve tutelare la propria e l'altrui sicurezza\n- deve rispettare gli agenti del traffico (anche se non in divisa) e collaborare con essi\n- deve procedere a bassa velocità sopra le pozzanghere o su strada ricoperta da brecciolino, per evitare di sbandare o sporcare/colpire gli altri utenti della strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 42
+  },
+  {
+    "title": "Comportamento del conducente verso gli utenti più deboli della strada",
+    "text": "Bisogna usare maggiore prudenza nei confronti degli utenti deboli della strada, e quindi delle persone diversamente abili, degli anziani, dei bambini, dei conducenti che dimostrano guida incerta, dei conducenti di veicoli adattati per persone diversamente abili, delle persone in bicicletta, dei pedoni o di coloro con scarsa capacità di movimento.\nDeve fermarsi e dare la precedenza al pedone non vedente con il bastone bianco(cieco) o bianco-rosso (sordo cieco) accompagnato o meno da cane guida, che si accinge ad attraversare la strada, anche fuori dalle strisce pedonali, senza spaventarlo con una brusca frenata o con l'uso del clacson.\nIn presenza di donne in gravidanza o che spingono una carrozzina per bambini, deve evitare di avvicinarsi troppo con il veicolo per evitare di spaventarle. Quando si parcheggia un veicolo è vietato ostruire eventuali scivoli del marciapiede per non impedire il passaggio di pedoni che spingono una carrozzina per bambini\nDeve tenere presente che persone anziane sono esposte a maggiori pericoli, perché data la loro età, le loro capacità visive e uditive non sono più eccellenti. Potrebbero non fare adeguata attenzione ai veicoli, valutare male la velocità dei veicoli che sopraggiungono, fermarsi al centro della carreggiata e non reagire prontamente alle situazioni di pericolo.\nNon bisogna avvicinarsi troppo con il veicolo, per evitare che si sentano minacciati e reagiscano con movimenti pericolosi\nIn presenza di bambini deve tenere conto dei loro comportamenti imprevedibili, ed essere pronto a frenarsi.\nPotrebbero attraversare improvvisamente la strada ad un semaforo senza seguire le norme legate alle segnalazioni luminose;\npotrebbe spingersi a vicenda, finendo sulla carreggiata; nelle vicinanza di una fermata di autobus potrebbero attraversare di corsa la strada per salire sullo scuolabus o scendere da esso senza fare attenzione ai veicoli che sopraggiungono; potrebbero non essere visibili mentre impegnano la carreggiata a causa di veicoli in sosta\nQuando la carreggiata è occupata da ciclisti o pedoni, per sorpassarli deve mantenere un'adeguata distanza di sicurezza laterale; se si è su strada extraurbana è consigliabile suonare il clacson prima di sorpassarli (non è vero che si devono sorpassare senza superare la velocità di 30 km/h).\nDurante la marcia deve controllare frequentemente nello specchietto retrovisore se sopraggiunge un ciclista o un motociclista; deve tener conto che i montanti interni degli autoveicoli condizionano la visibilità riducendo la possibilità di vedere un ciclista, un motociclista o un pedone; deve tener presente che un incidente, anche a bassa velocità, potrebbe creare gravi problemi fisici a pedoni, ciclisti e motociclisti; deve, prima di aprire lo sportello, controllare che non sopraggiungano pedoni, ciclisti o motociclisti.\nPrima di impegnare un incrocio, dopo che è scattata la luce verde del semaforo, il conducente deve attendere che i pedoni abbiano finito di attraversare la strada\nIn vicinanza di un attraversamento pedonale, deve essere molto prudente (specie se ci sono anziani o bambini), quindi considerare:\n- che il pedone, nell'attraversare la strada, può diventare insicuro e ritornare improvvisamente indietro, o fermarsi improvvisamente sulle strisce dell'attraversamento pedonale\n- che le persone anziane solitamente attraversano lentamente e con difficoltà\n- che i bambini hanno spesso comportamenti imprevedibili\n- che i pedoni, in special modo i bambini, possono sbucare all'improvviso tra i veicoli parcheggiati.\nIn vicinanza di un posteggio riservato ai taxi deve fare attenzione ai pedoni che salgono o scendono dal taxi, quindi rallentare ed eventualmente fermarsi se vi sono pedoni che attraversano la strada, senza le dovute precauzioni.\nNon può sostare nei posteggi riservati ai taxi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 43
+  },
+  {
+    "title": "Doveri del conducente di un veicolo a due ruote",
+    "text": "Comportamenti che il conducente deve evitare alla guida di un motociclo:\n- non può fare lo slalom tra i veicoli fermi al semaforo\n- non può circolare sul marciapiede (anche se il traffico sulla carreggiata è bloccato)\n- non può parcheggiare il veicolo sul marciapiede, se non vi sono apposite strisce di parcheggio\nIl conducente di veicolo a due ruote può circolare portando con sé un animale domestico, se custodito in apposita gabbia, purché non sia sporgente di oltre 50 centimetri.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 44
+  }
+]

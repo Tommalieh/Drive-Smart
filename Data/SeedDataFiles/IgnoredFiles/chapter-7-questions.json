@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In presenza della luce semaforica rossa i veicoli devono arrestarsi",
+    "group": "luce rossa semaforo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "Nei semafori sistemati in verticale la luce rossa si trova in alto, in quelli posti in orizzontale si trova a sinistra",
+    "group": "luce rossa semaforo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "Nel semaforo la luce rossa può essere di dimensioni più grandi delle altre",
+    "group": "luce rossa semaforo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "Quando è accesa la luce rossa del semaforo bisogna arrestarsi prima della striscia trasversale d'arresto",
+    "group": "luce rossa semaforo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "Durante il periodo di accensione della luce rossa i veicoli non devono superare la striscia di arresto",
+    "group": "luce rossa semaforo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "La luce rossa accesa del semaforo consente di svoltare a destra con prudenza, dando precedenza ai pedoni che attraversano la strada",
+    "group": "luce rossa semaforo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "La luce rossa accesa del semaforo consente di ripartire lentamente quando appare il giallo per gli altri veicoli",
+    "group": "luce rossa semaforo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "La luce rossa accesa del semaforo consente di impegnare l'incrocio con molta prudenza a condizione che non ci siano altri veicoli o pedoni",
+    "group": "luce rossa semaforo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "La luce rossa accesa del semaforo consente l'attraversamento dell'incrocio, purché sia libero",
+    "group": "luce rossa semaforo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  },
+  {
+    "question": "La luce rossa accesa del semaforo obbliga ad affrettarsi per liberare velocemente l'incrocio",
+    "group": "luce rossa semaforo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/154.png"
+  }
+]

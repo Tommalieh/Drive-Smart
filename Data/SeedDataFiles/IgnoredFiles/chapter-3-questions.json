@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il segnale raffigurato vieta la circolazione nei due sensi",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato vieta il transito a tutti i veicoli",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato vieta la circolazione ai quadricicli a motore",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato è posto su entrambi gli accessi della strada",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato vieta il transito agli autocarri",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato può avere validità limitata nel tempo, indicata in un pannello integrativo",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato consente il transito ai pedoni",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato vieta la circolazione ai ciclomotori",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato è un DIVIETO DI TRANSITO",
+    "group": "divieto di transito",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  },
+  {
+    "question": "Il segnale raffigurato consente il transito alle biciclette",
+    "group": "divieto di transito",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/54.png"
+  }
+]

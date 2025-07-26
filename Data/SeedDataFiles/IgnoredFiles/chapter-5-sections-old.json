@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Dare precedenza",
+    "text": "E' un segnale di prescrizione (precedenza). Obbliga a dare precedenza ai veicoli provenienti sia da destra che da sinistra sulla strada che si incrocia.\nSi può trovare (sia fuori che dentro i centri abitati) ad esempio:\n- su strada secondaria che non ha il diritto di precedenza\n- sulle corsie di accelerazione per l'immissione in autostrada\n- sulle rampe di raccordo per l'immissione in autostrada\n- abbinato ad un semaforo, in tal caso vale quando il semaforo funziona a luce gialla lampeggiante.\nImpone l'uso della massima prudenza al fine di evitare incidenti, moderare particolarmente la velocità e all'occorrenza fermarsi; non è obbligatorio fermarsi all'incrocio se, rallentando, si ha modo di vedere che non vi sono veicoli in arrivo, sia da destra che da sinistra.\nSu strade extraurbane è preceduto dal segnale PREAVVISO DI DARE PRECEDENZA.\nSe occorre arrestarsi, bisogna che ciò avvenga in corrispondenza della striscia trasversale, formata da una serie di triangoli bianchi.\nNon è vero che può essere preceduto dal segnale DIRITTO DI PRECEDENZA o che si trova sulle strade con diritto di precedenza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/dare-precedenza.png",
+    "order": 1
+  },
+  {
+    "title": "Preavviso di dare precedenza",
+    "text": "E' un segnale di prescrizione (precedenza). Preannuncia la successiva presenza di un segnale di DARE PRECEDENZA e indica la distanza dall'incrocio in cui dovremo dare la precedenza.\nIndica di rallentare per potersi fermare se ci sono veicoli cui bisogna dare precedenza.\nE' posto su strade extraurbane che non ha diritto di precedenza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-dare-precedenza.png",
+    "order": 2
+  },
+  {
+    "title": "Fermarsi e dare precedenza (STOP)",
+    "text": "E' un segnale di prescrizione (precedenza). Obbliga a fermarsi in corrispondenza della striscia trasversale di arresto, anche se non c'è nessuno, e dare la precedenza ai veicoli provenienti sia da destra che da sinistra.\nSi può trovare (sia fuori che dentro i centri abitati) ad esempio:\n- in genere, negli incroci con scarsa visibilità e particolare pericolosità\n- in corrispondenza di un passaggio a livello\n- all'incrocio con una strada con diritto di precedenza\n- abbinato ad un semaforo, in tal caso vale quando il semaforo funziona a luce gialla lampeggiante.\nSu strade extraurbane è preceduto dal segnale PREAVVISO DI STOP.\nNon è vero che preannuncia l'obbligo di fermarsi e di dare la precedenza nei sensi unici alternati.\nNon è vero che obbliga ad arrestarsi ad un varco doganale o solo quando si incrociano altri veicoli (bisogna arrestarsi sempre, anche se non si vede nessuno).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fermarsi-e-dare-precedenza-stop.png",
+    "order": 3
+  },
+  {
+    "title": "Preavviso di STOP",
+    "text": "E' un segnale di prescrizione (precedenza). Preannuncia la successiva presenza di un segnale FERMARSI E DARE PRECEDENZA (STOP).\nBisogna iniziare a moderare la velocità per essere pronti a fermarsi obbligatoriamente in presenza dello stop, e dare precedenza a destra e a sinistra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-stop.png",
+    "order": 4
+  },
+  {
+    "title": "Intersezione con precedenza a destra",
+    "text": "E' un segnale di prescrizione (precedenza). Preannuncia un incrocio (di norma a 150 metri) in cui vale la regola generale di dare la precedenza a destra.\nPrescrive di procedere a velocità particolarmente moderata e dare precedenza ai veicoli provenienti da destra ed assicurarsi che quelli provenienti da sinistra siano disposti a darla.\nNon si trova sul tratto di strada con diritto di precedenza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/intersezione-con-precedenza-a-destra.png",
+    "order": 5
+  },
+  {
+    "title": "Intersezione con diritto di precedenza",
+    "text": "E' un segnale di prescrizione (precedenza).  Preannuncia un incrocio (di norma a 150 metri) in cui si ha la precedenza sui veicoli provenienti dalle strade secondarie da destra e sinistra (tali strade sono ovviamente senza diritto di precedenza).\nPerde la sua efficacia in presenza di agente che regola il traffico\nPuò essere preceduto dal segnale DIRITTO DI PRECEDENZA.\nImpone comunque di rallentare, accertandosi che i veicoli incrocianti (da destra e da sinistra) siano disposti a dare la precedenza.\nNon è vero che è posto su autostrade dove non ci possono essere incroci a raso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inserzione-con-diritto-di-precedenza.png",
+    "order": 6
+  },
+  {
+    "title": "Intersezione a T con diritto di precedenza a destra",
+    "text": "E' un segnale di prescrizione (precedenza). Preannuncia un incrocio con una strada secondaria (senza diritto di precedenza) che si immette da destra (incrocio a 'T') in cui il conducente ha la precedenza sui veicoli provenienti da tale strada.\nImpone comunque di rallentare, accertandosi che i veicoli incrocianti siano disposti a dare la precedenza.\nNon è vero che è posto sulle rampe di accesso alle autostrade.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inserzione-a-t-con-diritto-di-precedenza-a-destra.png",
+    "order": 7
+  },
+  {
+    "title": "Intersezione a T con diritto di precedenza a sinistra",
+    "text": "E' un segnale di prescrizione (precedenza). Preannuncia un incrocio con una strada secondaria (senza diritto di precedenza) che si immette da sinistra (incrocio a 'T') in cui il conducente ha la precedenza sui veicoli provenienti da tale strada.\nImpone comunque di rallentare, accertandosi che i veicoli incrocianti siano disposti a dare la precedenza.\nNon è vero che è posto sulle rampe di accesso alle autostrade.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inserzione-a-t-con-diritto-di-precedenza-a-sinistra.png",
+    "order": 8
+  },
+  {
+    "title": "Confluenza a destra",
+    "text": "E' un segnale di prescrizione (precedenza).  Preannuncia una immissione (confluenza) da destra con corsia di accelerazione, abbiamo la precedenza sui veicoli che si immettono.\nÈ collocato, di norma, ad una distanza di 150 metri dal punto di confluenza.\nSulla rampa di raccordo (strada d'immissione laterale) è posto il segnale di DARE PRECEDENZA.\nInvita ad usare la massima prudenza al fine di evitare incidenti, agevolando o quantomeno non ostacolando l'immissione dei veicoli.\nNon è vero che può precedere il segnale DARE PRECEDENZA (che invece viene posto sulla strada d'immissione laterale).\nNon è vero che consente la svolta a destra al prossimo incrocio, in quanto si tratta di una corsia di accelerazione, quindi a senso unico di marcia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/confluenza-a-destra.png",
+    "order": 9
+  },
+  {
+    "title": "Confluenza a sinistra",
+    "text": "E' un segnale di prescrizione (precedenza).  Preannuncia una immissione (confluenza) da sinistra con corsia di accelerazione, abbiamo la precedenza sui veicoli che si immettono.\nÈ collocato, di norma, ad una distanza di 150 metri dal punto di confluenza.\nSulla rampa di raccordo (strada d'immissione laterale) è posto il segnale di DARE PRECEDENZA.\nInvita ad usare la massima prudenza al fine di evitare incidenti, agevolando o quantomeno non ostacolando l'immissione dei veicoli.\nNon è vero che può precedere il segnale DARE PRECEDENZA (che invece viene posto sulla strada d'immissione laterale).\nNon è vero che consente la svolta a destra al prossimo incrocio, in quanto si tratta di una corsia di accelerazione, quindi a senso unico di marcia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/confluenza-a-sinistra.png",
+    "order": 10
+  },
+  {
+    "title": "Diritto di precedenza",
+    "text": "E' un segnale di prescrizione (precedenza). Indica l'inizio di una strada urbana o extraurbana in cui i veicoli hanno diritto di precedenza.\nPuò essere ripetuto in formato piccolo prima e dopo ogni incrocio, anche integrato dal pannello ANDAMENTO DELLA STRADA PRINCIPALE.\nComporta la presenza sulle strade che si incrociano del segnale DARE PRECEDENZA o STOP.\nIn presenza del segnale raffigurato bisogna comunque dare la precedenza ai veicoli che hanno in funzione il lampeggiante blu e sirena.\nBisogna comunque moderare la velocità in prossimità degli incroci e assicurarsi che i veicoli provenienti dalle strade laterali diano la precedenza.\nNon è vero che è posto esclusivamente su strade extraurbane ad intenso traffico, o che si ha la precedenza fino all'uscita del centro abitato, o che è posto solo su strade statali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/diritto-di-precedenza.png",
+    "order": 11
+  },
+  {
+    "title": "Fine del diritto di precedenza",
+    "text": "E' un segnale di prescrizione (precedenza). Indica la fine di una strada urbana o extraurbana in cui i veicoli hanno diritto di precedenza.\nQuindi dopo il segnale bisogna di norma dare la precedenza ai veicoli provenienti da destra, a meno che vi sia un segnale DARE PRECEDENZA o FERMARSI E DARE PRECEDENZA (STOP), che impongono la precedenza anche a sinistra.\nIl segnale ci indica di procedere con maggiore prudenza perché non si ha più il diritto di precedenza.\nNon è vero che obbliga ad arrestarsi all'incrocio (salvo vi sia il segnale STOP), che preannuncia la fine dell'obbligo precedentemente imposto (il DIRITTO DI PRECEDENZA non è un segnale di obbligo) o che preannuncia sempre un incrocio con precedenza a destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-diritto-di-precedenza.png",
+    "order": 12
+  },
+  {
+    "title": "Dare precedenza nei sensi unici alternati",
+    "text": "E' un segnale di prescrizione (precedenza).  Impone, di dare precedenza ai veicoli provenienti dal senso opposto. Si incontra quando in una strada a doppio senso vi sia una strettoia (ad esempio parte della carreggiata sia sbarrata per lavori) che permette il transito di una sola fila di veicoli.\nNella strettoia finisce temporaneamente il doppio senso di circolazione ed inizia il senso unico alternato, di fatto questo segnale impone di dare la precedenza nei sensi unici alternati.\nSe sono contemporaneamente presenti il segnale, il semaforo e il vigile: bisogna dare la precedenza se il semaforo è spento oppure se è a luce lampeggiante gialla; si ha invece la precedenza se il semaforo è a luce verde oppure se il semaforo è a luce rossa, ma il vigile urbano invita a passare.\nNon è vero che si incontra prima di un qualsiasi restringimento della carreggiata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/dare-precedenza-nei-sensi-unici-alternati.png",
+    "order": 13
+  },
+  {
+    "title": "Diritto di precedenza nei sensi unici alternati",
+    "text": "E' un segnale di prescrizione (precedenza).  Indica il diritto di precedenza rispetto i veicoli provenienti dal senso opposto. Si incontra quando in una strada a doppio senso vi sia una strettoia (ad esempio parte della carreggiata sia sbarrata per lavori) che permette il transito di una sola fila di veicoli.\nNella strettoia finisce temporaneamente il doppio senso di circolazione ed inizia il senso unico alternato, di fatto questo segnale indica il diritto di precedenza nei sensi unici alternati.\nIn presenza del segnale bisogna comunque procedere con cautela e percorrere la strettoia, dopo essersi assicurati di aver ottenuto la precedenza dai veicoli provenienti dal senso opposto.\nSe sono contemporaneamente presenti il segnale, il semaforo e il vigile: si ha la precedenza se il semaforo è a luce verde o spento - se è a luce gialla lampeggiante - se è a luce rossa ma il vigile urbano impone di passare. Bisogna invece dare la precedenza se il semaforo è spento e il vigile urbano impone di fermarsi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/diritto-di-precedenza-nei-sensi-unici-alternati.png",
+    "order": 14
+  },
+  {
+    "title": "Il Comportamento agli incroci",
+    "text": "Non è consentito:\n- procedere a zig zag, anche se le corsie direzionali sono segnate da strisce discontinue (tratteggiate);\n- cambiare improvvisamente la direzione di marcia;\n- effettuare l'inversione di marcia;\n- effettuare il sorpasso.\nNon è vero che non è consentito superare la velocità di 20 km/h o azionare i fari anabbaglianti.\nGiungendo in vicinanza di un incrocio:\n- conducendo un ciclomotore bisogna incolonnarsi dietro gli altri veicoli in attesa di proseguire;\n- moderare la velocità anche se il semaforo è verde;\n- bisogna predisporsi ad osservare le norme di precedenza;\n- bisogna usare la massima prudenza per evitare incidenti;\n- ci si deve spostare per tempo sulla corsia destinata alla direzione che si intende prendere;\n- si deve segnalare per tempo l'intenzione di svoltare.\nSi deve dare di norma, ma non sempre, la precedenza a chi proviene da destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 15
+  }
+]

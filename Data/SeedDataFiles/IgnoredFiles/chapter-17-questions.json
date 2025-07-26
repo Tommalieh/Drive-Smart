@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve provvedere a rimuovere il carico, se possibile",
+    "group": "ingombro carreggiata caduta carico",
+    "correctAnswer": true
+  },
+  {
+    "question": "Su strada extraurbana, nel caso di ingombro della carreggiata per caduta accidentale del carico, il conducente deve presegnalare l'ostacolo mediante il segnale di veicolo fermo (triangolo)",
+    "group": "ingombro carreggiata caduta carico",
+    "correctAnswer": true
+  },
+  {
+    "question": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve rendere sollecitamente libero, per quanto possibile, il transito",
+    "group": "ingombro carreggiata caduta carico",
+    "correctAnswer": true
+  },
+  {
+    "question": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve presegnalare l'ostacolo mediante il segnale di STOP",
+    "group": "ingombro carreggiata caduta carico",
+    "correctAnswer": false
+  },
+  {
+    "question": "Nel caso di ingombro della carreggiata per caduta accidentale del carico il conducente deve restare a bordo del veicolo in attesa dei soccorsi",
+    "group": "ingombro carreggiata caduta carico",
+    "correctAnswer": false
+  },
+  {
+    "question": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve sollecitamente rendere libero il transito per il traffico sopraggiungente",
+    "group": "ingombro per avaria",
+    "correctAnswer": true
+  },
+  {
+    "question": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente deve spingere il veicolo stesso fuori della carreggiata o, se ciò non è possibile, collocarlo sul margine destro della carreggiata",
+    "group": "ingombro per avaria",
+    "correctAnswer": true
+  },
+  {
+    "question": "In caso di ingombro della carreggiata per caduta del carico o per qualsiasi altra causa, il conducente deve rimuovere l'ingombro, per quanto possibile",
+    "group": "ingombro per avaria",
+    "correctAnswer": true
+  },
+  {
+    "question": "Su strada extraurbana, nel caso di incidente che provochi l'ingombro della carreggiata per la presenza di veicoli danneggiati che non è possibile rimuovere, il conducente o i passeggeri devono presegnalare la zona mediante il segnale triangolare mobile di pericolo",
+    "group": "ingombro per avaria",
+    "correctAnswer": true
+  },
+  {
+    "question": "In caso di ingombro della carreggiata per avaria del veicolo, il conducente non è tenuto a spostarlo, in attesa dei soccorsi, se il traffico è scarso",
+    "group": "ingombro per avaria",
+    "correctAnswer": false
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il tram ha la precedenza rispetto agli altri veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nell’incrocio rappresentato in figura, tutti i veicoli devono usare prudenza nell’attraversarlo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere il transito del tram e che il veicolo A si porti al centro",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il tram transita per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo M deve attendere il transito del veicolo O",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo M attraversa l'incrocio insieme al tram",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo A nello svoltare a sinistra ha la destra libera",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere che passino il tram ed il veicolo M",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo O deve attendere che transitino tutti gli altri veicoli",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo A deve dare la precedenza al tram, ma non al veicolo M",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 642",
+    "question": "Nella situazione rappresentata in figura il veicolo O deve dare la precedenza al tram ed al veicolo M",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/642.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo B non deve dare la precedenza agli altri due veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo H passa per secondo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo C deve disimpegnare l'incrocio per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo B passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo C deve dare la precedenza al veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo H passa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura passano per primi e contemporaneamente i veicoli B e C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo H deve impegnare l'incrocio dopo il passaggio dei veicoli B e C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo H ha la precedenza sul veicolo C, in quanto è un autobus",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 608",
+    "question": "Nella situazione rappresentata in figura il veicolo C passa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/608.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo C deve passare per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve passare dopo il veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A passa prima del veicolo C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo C deve passare dopo i veicoli R e A",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A, se è della polizia con i dispositivi di allarme in funzione, passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A passa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve passare per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R deve passare dopo il veicolo A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R deve attraversare l'incrocio per secondo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo C passa per secondo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 615",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli C e R passano per primi e contemporaneamente",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/615.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "Nella situazione rappresentata in figura il veicolo L attraversa l'incrocio per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "Nella situazione rappresentata in figura il veicolo H attraversa l'incrocio per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine veicolo L, veicolo C, veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo C dopo il veicolo L, ma prima del veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo L contemporaneamente al veicolo C, poi il veicolo H",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo H, il veicolo C, il veicolo L",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo H, il veicolo L, il veicolo C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo L, il veicolo H, il veicolo C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 618",
+    "question": "E' consentito attraversare l'incrocio in figura secondo l'ordine il veicolo C, il veicolo H, il veicolo L",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/618.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura, il veicolo E passa dopo il veicolo A e il veicolo B passa dopo il veicolo E",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A non deve dare la precedenza ad alcun veicolo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo E ha diritto di precedenza sul veicolo B",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo E passa prima di quello B, ma dopo il veicolo A",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo B deve passare per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo B non deve dare la precedenza ad alcun veicolo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A deve dare la precedenza al veicolo B",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura il veicolo B non deve dare la precedenza al veicolo E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura i veicoli A e B passano contemporaneamente dopo il veicolo E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 662",
+    "question": "Nell'incrocio rappresentato in figura i veicoli A e B passano contemporaneamente prima del veicolo E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/662.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Nell'incrocio rappresentato in figura, il veicolo A passa dopo il veicolo R e il veicolo C passa dopo il veicolo A",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A passa prima del veicolo C e dopo il veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R non deve dare la precedenza ad alcun veicolo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nell'ordine: R, A, C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo C non deve dare la precedenza ad alcun veicolo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A passa prima del veicolo R e dopo il veicolo C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nell'ordine: R, C, A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 659",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R passa per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/659.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo D dopo l'attraversamento del veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo B dopo l'attraversamento di tutti gli altri veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo R senza dare la precedenza ad alcun veicolo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo B dopo l'attraversamento dei veicoli R e D",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo B contemporaneamente al veicolo R e prima di quello D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo D prima degli altri veicoli",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo R dopo l'attraversamento dei veicoli B e D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 640",
+    "question": "Secondo le norme di precedenza possono impegnare l'incrocio rappresentato in figura il veicolo B prima degli altri veicoli",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/640.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: D, P, B, N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo N deve passare per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B deve passare dopo il veicolo P",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo D passa prima degli altri veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B passa prima del veicolo N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo N passa dopo il veicolo B",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo P può passare prima del veicolo B",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: D, B, N, P",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: P, B, N, D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli D e N passano contemporaneamente",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli D e B passano contemporaneamente",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo P passa prima del veicolo B, ma dopo quello N",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 632",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura passano per primi indifferentemente i veicoli B e D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/632.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: D, C, A, H.",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A ha la destra occupata",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo D ha la precedenza sul veicolo C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo D è il primo ad impegnare l'incrocio",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo H è l'ultimo ad attraversare l'incrocio",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo D deve dare la precedenza a quello C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo C attraversa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A attraversa l'incrocio prima del veicolo C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: C, A, H, D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: H, A, C, D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 646",
+    "question": "Nell'incrocio rappresentato in figura i veicoli C e H passano per primi",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/646.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura il veicolo L passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura il veicolo D è l'ultimo a passare",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura i veicoli C e A passano contemporaneamente dopo il veicolo L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura il veicolo A ha la precedenza sul veicolo D",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo A deve dare la precedenza al veicolo L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo A può attraversare l'incrocio insieme al veicolo C, dopo il transito del veicolo L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo A ha la precedenza rispetto al veicolo D",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura passa per primo il veicolo più veloce",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura il veicolo A passa per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura i veicoli passano nel seguente ordine: C, A, D, L",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura i veicoli passano nel seguente ordine: C, L, A, D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'attraversare l'incrocio in figura i veicoli D e L passano contemporaneamente prima del veicolo A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo A deve dare la precedenza a tutti i veicoli",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 637",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo A passa per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/637.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura i veicoli passano nel seguente ordine: H, D, B, L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo H passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo B passa prima del veicolo L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo D deve dare la precedenza al veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo L deve dare la precedenza al veicolo B",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo L deve passare per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo D passa prima del veicolo B",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo B deve attendere il transito degli altri tre veicoli",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo H deve attendere che siano transitati i veicoli D e B",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura i veicoli L e D passano contemporaneamente",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura i veicoli passano nel seguente ordine: H, D, L, B",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura il veicolo B, dato che svolta a sinistra, non ha diritto di precedenza su alcun veicolo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 643",
+    "question": "Giungendo all'incrocio rappresentato in figura i veicoli L e D hanno la precedenza perché non effettuano svolte",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/643.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo N passa dopo il veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B passa dopo il veicolo N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo D passa dopo il veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R passa dopo che il veicolo B si è spostato al centro dell'incrocio",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli D e N passano contemporaneamente dopo che è passato il veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B nell'impegnare l'incrocio deve fermarsi al centro di esso",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B deve dare la precedenza al veicolo N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B impegna l'incrocio prima del veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B può concludere la manovra di svolta a sinistra dopo il transito del veicolo N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B dopo essersi portato al centro dell'incrocio, deve attendere il transito del veicolo N",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R impegna l'incrocio e si ferma al centro di esso",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo N passa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo D passa per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo D deve dare la precedenza al veicolo B",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B deve dare la precedenza al veicolo D",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R passa per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B ha la destra libera, durante tutta la manovra di svolta",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B deve impegnare per ultimo l'incrocio perché svolta a sinistra",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 638",
+    "question": "Nell'incrocio rappresentato nella figura il conducente del veicolo B deve dare la precedenza al veicolo R che prosegue diritto",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/638.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: C, A, P",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A passa dopo il veicolo C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura il veicolo P passa per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: P, C, A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura il veicolo P passa prima del veicolo C",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 667",
+    "question": "Nell'incrocio rappresentato in figura il veicolo P passa per primo perché ha la destra libera",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/667.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura i veicoli passano nel seguente ordine: S, N, C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura il veicolo C transita per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura il veicolo N transita dopo il veicolo S e prima del veicolo C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura i veicoli passano nel seguente ordine: C, N, S",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura il veicolo N transita dopo il veicolo C e dopo del veicolo S",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 668",
+    "question": "Nell'incrocio rappresentato nella figura il veicolo C transita per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/668.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 610",
+    "question": "Nell'incrocio rappresentato nella figura il veicolo T transita per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/610.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 610",
+    "question": "Nell'incrocio rappresentato nella figura i veicoli passano nel seguente ordine: T, L ed A, infine C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/610.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura i veicoli devono transitare nel seguente ordine: C, A, L, R, E",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo C transita per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo A transita subito dopo il veicolo C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo E deve dare la precedenza ai veicoli R e L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo A transita prima del veicolo L",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo L transita prima del veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo L transita dopo il veicolo A",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo E deve dare la precedenza al veicolo A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura i veicoli devono transitare nel seguente ordine: E, C, A, L, R",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura il veicolo A deve attendere il passaggio del veicolo E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura qualunque veicolo può impegnare l'incrocio e fermarsi al centro di esso",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 669",
+    "question": "Dovendo attraversare l'incrocio rappresentato in figura i veicoli C e R transitano contemporaneamente dopo il passaggio del veicolo A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/669.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura i veicoli disimpegnano l'incrocio nel seguente ordine: A, E, V, H, C",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo V ha la precedenza sul veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo C deve dare la precedenza al veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo E passa prima del veicolo H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo H passa dopo i veicoli A, E, V",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo A passa per primo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura i veicoli disimpegnano l'incrocio nel seguente ordine: A, H, C, E, V",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura i veicoli disimpegnano l'incrocio nel seguente ordine: A, E, C, V, H",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo V deve attendere che siano transitati i veicoli A, E, H",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura i veicoli A, V e C passano contemporaneamente",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 665",
+    "question": "Nell'incrocio rappresentato in figura il veicolo V passa dopo i veicoli C e H",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/665.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli L e H passano contemporaneamente per primi",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: L e H, B, O",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza, nell'incrocio rappresentato in figura, il veicolo B transita dopo i veicoli L e H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo O transita per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B transita prima del veicolo O e dopo i veicoli L e H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo O deve dare la precedenza a tutti gli altri veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo O transita prima del veicolo H, ma dopo il veicolo L",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo O transita prima del veicolo H, ma dopo il veicolo B",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo B transita per primo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo H transita dopo il veicolo O",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli passano nel seguente ordine: B, L, O, H",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 647",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo O impegna l'incrocio per primo e si ferma al centro di esso",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/647.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo S transita prima del veicolo R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo S transita prima di tutti gli altri veicoli",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli transitano nell'ordine: S, A, E, R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve dare la precedenza al veicolo S",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R transita per ultimo",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo E deve attendere il transito del veicolo R",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo R impegna per primo l'incrocio e si ferma al centro di esso",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve transitare dopo il veicolo E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve transitare per ultimo",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura i veicoli transitano nell'ordine: E, R, S, A",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 655",
+    "question": "Secondo le norme di precedenza nell'incrocio rappresentato in figura il veicolo A deve attendere che siano transitati i veicoli S ed E",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/655.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 654",
+    "question": "Nella situazione rappresentata in figura il veicolo A deve attendere il transito dei veicoli C ed R",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/654.png"
+  },
+  {
+    "chapter": "Esempi di precedenza (ordine di precedenza agli incroci)",
+    "group": "precedenze incrocio di figura 654",
+    "question": "Nella situazione rappresentata in figura i veicoli transitano nell'ordine: C, R, A, H",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/654.png"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Direzione obbligatoria diritto",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che l'unica direzione consentita è diritto.\nSi trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente la svolta a destra o a sinistra e obbliga a proseguire diritto.\nNon esclude la possibilità che provengano veicoli di fronte (non va confuso con il segnale di senso unico frontale, che è a fondo rettangolare).\nNon è vero che impone la marcia in unica fila.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzione-obbligatoria-diritto.png",
+    "order": 1
+  },
+  {
+    "title": "Direzione obbligatoria a sinistra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che l'unica direzione consentita è a sinistra.\nSi trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente di svoltare a destra o andare diritto e obbliga a svoltare a sinistra.\nNon è vero che indica che è obbligatorio passare a sinistra di un ostacolo posto sulla carreggiata o che significa preavviso di curva a sinistra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzione-obbligatoria-a-sinistra.png",
+    "order": 2
+  },
+  {
+    "title": "Preavviso direzione obbligatoria a sinistra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che l'unica direzione consentita al prossimo incrocio è a sinistra.\nPrecede un segnale di DIREZIONE OBBLIGATORIA A SINISTRA, quindi è posto prima di un incrocio dove non è consentito svoltare a destra o andare diritto, ma solo svoltare a sinistra.\nPuò essere integrato da un pannello che indica la distanza dall'incrocio (punto in cui vige l'obbligo).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-direzione-obbligatoria-a-sinistra.png",
+    "order": 3
+  },
+  {
+    "title": "Direzione obbligatoria a destra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che l'unica direzione consentita è a destra.\nSi trova prima di un incrocio (sia su strade a senso unico che a doppio senso), non consente di svoltare a sinistra o andare diritto e obbliga a svoltare a destra.\nNon è vero che indica che è obbligatorio passare a destra di un ostacolo posto sulla carreggiata o che significa preavviso di curva a destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzione-obbligatoria-a-destra.png",
+    "order": 4
+  },
+  {
+    "title": "Preavviso direzione obbligatoria a destra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che l'unica direzione consentita al prossimo incrocio è a destra.\nPrecede un segnale di DIREZIONE OBBLIGATORIA A DESTRA, quindi è posto prima di un incrocio dove non è consentito svoltare a sinistra o andare diritto, ma solo svoltare a destra.\nPuò essere integrato da un pannello che indica la distanza dall'incrocio (punto in cui vige l'obbligo).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-direzione-obbligatoria-a-destra.png",
+    "order": 5
+  },
+  {
+    "title": "Preavviso di deviazione obbligatoria per autocarri in transito",
+    "text": "E' un segnale di prescrizione (obbligo). Indica l'unica direzione consentita per la categoria di veicoli indicati in figura (in questo caso a destra).\nVale solo per i veicoli indicati in figura (autocarri che superano 3,5 T, per gli autocarri che non superano tale massa non è valido).\nImpone a tali veicoli la svolta a destra, vieta di proseguire diritto e la svolta a sinistra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-deviazione-obbligatoria-per-autocarri-in-transito.png",
+    "order": 6
+  },
+  {
+    "title": "Direzione consentite destra e sinistra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che le uniche direzioni consentite sono destra e sinistra.\nQuindi il segnale permette di svoltare a destra e a sinistra, ma vieta di proseguire diritto.\nNon è vero che indica una biforcazione pericolosa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzione-consentite-destra-e-sinistra.png",
+    "order": 7
+  },
+  {
+    "title": "Direzioni consentite diritto e destra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che le uniche direzioni consentite sono destra e diritto.\nQuindi il segnale permette di svoltare a destra e proseguire diritto, ma vieta di svoltare a sinistra.\nNon è vero che indica una biforcazione pericolosa o che indica di tenersi in ogni caso il più possibile sul margine destro della carreggiata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzioni-consentite-diritto-e-destra.png",
+    "order": 8
+  },
+  {
+    "title": "Direzioni consentite diritto e sinistra",
+    "text": "E' un segnale di prescrizione (obbligo). Indica che le uniche direzioni consentite sono sinistra e diritto.\nQuindi il segnale permette di svoltare a sinistra e proseguire diritto, ma vieta di svoltare a destra.\nNon è vero che indica una biforcazione pericolosa o che indica di avvicinarsi in ogni caso il più possibile all'asse della carreggiata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzioni-consentite-diritto-e-sinistra.png",
+    "order": 9
+  },
+  {
+    "title": "Passaggio obbligatorio a sinistra",
+    "text": "E' un segnale di prescrizione (obbligo). Obbliga i conducenti a passare a sinistra di un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.), e quindi lasciare l'ostacolo a destra.\nNon è vero che può essere preceduto dal segnale ROTATORIA.\nNon è vero che obbliga i conducenti a svoltare a sinistra (non vi è nessun incrocio).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passaggio-obbligatorio-a-sinistra.png",
+    "order": 10
+  },
+  {
+    "title": "Passaggio obbligatorio a destra",
+    "text": "E' un segnale di prescrizione (obbligo). Obbliga i conducenti a passare a destra di un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.), e quindi lasciare l'ostacolo a sinistra.\nNon è vero che obbliga i conducenti a svoltare a destra (non vi è nessun incrocio).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passaggio-obbligatorio-a-destra.png",
+    "order": 11
+  },
+  {
+    "title": "Passaggi consentiti",
+    "text": "E' un segnale di prescrizione (obbligo). Indica al conducente gli unici passaggi consentiti per passare un ostacolo (isola di traffico, salvagente, cantiere stradale, spartitraffico, etc.).\nSi può passare a sinistra lasciando l'ostacolo a destra o passare a destra lasciando l'ostacolo a sinistra.\nNon è vero che obbliga a svoltare (non vi è nessun incrocio).\nNon è vero è preceduto dal segnale ROTATORIA.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passaggi-consentiti.png",
+    "order": 12
+  },
+  {
+    "title": "Rotatoria",
+    "text": "E' un segnale di prescrizione. E' posto prima dello sbocco su un'area in cui è prescritta la circolazione rotatoria (un incrocio, una piazza..).\nObbliga i conducenti a circolare secondo il verso indicato dalle frecce.\nSu strade extraurbane è preceduto dal segnale di pericolo triangolare CIRCOLAZIONE ROTATORIA.\nIl segnale viene posto prima dell'incrocio sul lato destro.\nNon è vero che è collocato sulla colonnina luminosa posta al centro di una rotatoria o che è integrato con un segnale di PASSAGGIO OBBLIGATORIO A SINISTRA.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/rotatoria.png",
+    "order": 13
+  },
+  {
+    "title": "Fine del limite minimo di velocità",
+    "text": "E' un segnale di prescrizione. Indica la fine del limite minimo di velocità.\nConsente quindi di circolare sia a velocità minore, che maggiore di quella indicata, sempre nei limiti massimi di velocità vigenti per quella strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-limite-minimo-di-velocita.png",
+    "order": 14
+  },
+  {
+    "title": "Catene obbligatorie",
+    "text": "E' un segnale di prescrizione (obbligo). Consente il transito solo ai veicoli muniti di catene o pneumatici invernali.\nIl segnale si trova su strade che, in particolari condizioni, sono innevate o ghiacciate e quindi occorre procedere con particolare prudenza.\nNon è vero che presegnala la progressiva chilometrica oltre la quale è obbligatorio l'uso delle catene o che vieta la circolazione a veicoli muniti di pneumatici con spessore del battistrada inferiore a 3 millimetri.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/catene-obbligatorie.png",
+    "order": 15
+  },
+  {
+    "title": "Percorso pedonale",
+    "text": "E' un segnale di prescrizione (obbligo). Indica l'inizio di un viale/area pedonale (destinata al transito di pedoni).\nQuindi non consente il transito ai veicoli.\nVale 24 ore su 24.\nNon indica un attraversamento pedonale oppure un percorso pedonale e ciclabile (per questi sono presenti altri segnali).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/percorso-pedonale.png",
+    "order": 16
+  },
+  {
+    "title": "Fine del percorso pedonale",
+    "text": "E' un segnale di prescrizione (obbligo). Indica la fine di un viale/area pedonale (destinata al transito di pedoni).\nQuindi indica che da lì in poi i pedoni non circolano più su un percorso riservato.\nNon è vero che vieta ai pedoni di attraversare la strada o che indica la fine di un attraversamento pedonale.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-percorso-pedonale.png",
+    "order": 17
+  },
+  {
+    "title": "Pista ciclabile",
+    "text": "E' un segnale di prescrizione (obbligo). Indica l'inizio di una pista, una corsia, un percorso o un itinerario riservati ai velocipedi (biciclette).\nQuindi non consente il transito né ai veicoli, né ai pedoni.\nNon indica un attraversamento ciclabile (per questo è presente un altro segnale).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pista-ciclabile.png",
+    "order": 18
+  },
+  {
+    "title": "Fine pista ciclabile",
+    "text": "E' un segnale di prescrizione (obbligo). Indica la fine di una pista, una corsia, un percorso o un itinerario riservati ai velocipedi (biciclette).\nNon è vero che non è più consentito il transito alle biciclette (e/o ai pedoni) o che indica la fine di un attraversamento ciclabile.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-pista-ciclabile.png",
+    "order": 19
+  },
+  {
+    "title": "Pista ciclabile accanto al marciapiede",
+    "text": "E' un segnale di prescrizione (obbligo).  Indica l'inizio di un percorso, una pista o una corsia riservati ai velocipedi (biciclette) affiancato e parallelo ad un marciapiede, ad un viale pedonale o comunque ad un percorso riservato ai pedoni.\nQuindi non consente il transito ai veicoli a motore.\nNon è vero che è posto in corrispondenza di un viale misto, riservato sia ai pedoni che ai ciclisti (sono separati).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pista-ciclabile-accanto-al-marciapiede.png",
+    "order": 20
+  },
+  {
+    "title": "Fine della pista ciclabile accanto al marciapiede",
+    "text": "E' un segnale di prescrizione (obbligo). Indica la fine di un percorso, una pista o una corsia riservati ai velocipedi (biciclette) affiancato e parallelo ad un marciapiede, ad un viale pedonale o comunque ad un percorso riservato ai pedoni.\nNon è vero che vieta il transito a tutti i veicoli a due ruote o ai pedoni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-della-pista-ciclabile-accanto-al-marciapiede.png",
+    "order": 21
+  },
+  {
+    "title": "Percorso unico pedonale e ciclabile",
+    "text": "E' un segnale di prescrizione (obbligo).  Indica l'inizio di un percorso, un viale, un itinerario riservato al transito di pedoni e ciclisti.\nQuindi non consente il transito ai veicoli a motore.\nNon è vero che è posto in corrispondenza di percorso ciclabile a fianco di un percorso riservato ai pedoni (il percorso è unico e ad uso promiscuo)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/percorso-unico-pedonale-e-ciclabile.png",
+    "order": 22
+  },
+  {
+    "title": "Fine del percorso pedonale e ciclabile",
+    "text": "E' un segnale di prescrizione (obbligo). Indica la fine di un percorso, un viale, un itinerario riservato al transito di pedoni e ciclisti.\nNon è vero che vieta il transito alle biciclette o ai pedoni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-percorso-pedonale-e-ciclabile.png",
+    "order": 23
+  },
+  {
+    "title": "Percorso riservato ai quadrupedi da soma e da sella",
+    "text": "E' un segnale di prescrizione (obbligo).  Indica l'inizio di un percorso o passaggio riservato agli animali da soma e da sella (esempio cavalli).\nVieta il transito a tutti i veicoli (compresi i velocipedi ) e i pedoni.\nNon è vero che è posto nelle vicinanze di una scuola di equitazione, preannuncia la presenza di animali vaganti o preannuncia l'obbligo di dare precedenza agli animali che attraversano.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/percorso-riservato-ai-quadrupedi-da-soma-e-da-sella.png",
+    "order": 24
+  },
+  {
+    "title": "Fine del percorso riservato ai quadrupedi da soma e da sella",
+    "text": "E' un segnale di prescrizione (obbligo). Indica la fine di un percorso o passaggio riservato agli animali da soma e da sella (esempio cavalli).\nNon è vero che vieta il transito agli animali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-percorso-riservato-ai-quadrupedi-da-soma-e-da-sella.png",
+    "order": 25
+  },
+  {
+    "title": "Alt-dogana",
+    "text": "E' un segnale di prescrizione (obbligo).  Segnala un varco doganale con un paese non facente parte della comunità europea (paese extracomunitario) al quale è obbligatorio fermarsi.\nIndica, quindi, che bisogna rallentare e fermarsi alla dogana anche se non si hanno oggetti o merci da dichiarare.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/alt-dogana.png",
+    "order": 26
+  },
+  {
+    "title": "Alt-polizia",
+    "text": "E' un segnale di prescrizione (obbligo). Preannuncia la presenza di un posto di blocco stradale istituito da organi di polizia al quale è obbligatorio fermarsi.\nIndica quindi l'obbligo di arresto ad un posto di blocco.\nEsso è situato a distanza opportuna dal posto di blocco, è ripetuto all'altezza del punto di arresto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/alt-polizia.png",
+    "order": 27
+  },
+  {
+    "title": "Alt-stazione",
+    "text": "E' un segnale di prescrizione (obbligo). Segnala una stazione autostradale (accesso autostradale controllato) alla quale è obbligatorio fermarsi.\nImpone, quindi, l'obbligo di rallentare e fermarsi per le operazioni di pedaggio autostradale.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/alt-stazione.png",
+    "order": 28
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "title": "La forza aderente (l'aderenza)",
+    "text": "- consente il movimento del veicolo, permettendo di percorrere la traiettoria voluta\n- dipende dal tipo di pavimentazione stradale\n- si oppone allo slittamento verso l'esterno e l'interno della curva\n- si oppone allo slittamento dello pneumatico sull'asfalto\n- si oppone allo slittamento causato dal vento laterale\n- aumenta se l'asfalto è rugoso\n- diminuisce se l'asfalto è bagnato, coperto di foglie, fango, ghiaccio o sporco di olio\n- è maggiore su asfalto asciutto e pulito\n- diminuisce su rotaie specie in caso di pioggia\n- diminuisce sulle strisce della segnaletica orizzontale in caso di pioggia",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Il coefficiente di aderenza",
+    "text": "- se diminuisce le ruote motrici potrebbero pattinare\n- se diminuisce lo spazio di frenatura aumenta\n- se basso bisogna ridurre la velocità, ad esempio per percorrere una curva in sicurezza (con coefficiente di aderenza basso aumenta lo slittamento in curva)\n- se diminuisce lo spazio di frenata aumenta e rende pericolose le brusche frenate",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 2
+  },
+  {
+    "title": "Quando il veicolo percorre una curva",
+    "text": "- è assoggettato ad una forza che tende a spostarlo verso l'esterno\n- la velocità eccessiva può provocarne lo sbandamento o il ribaltamento",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 3
+  },
+  {
+    "title": "Il ribaltamento in curva",
+    "text": "- è favorito da un carico posto in alto o non stabilmente fissato\n- è favorito da una ridotta distanza fra ruote dello stesso asse (carreggiata stretta)\n- è favorito da raggio di curvatura stretto della strada (curva stretta)\nBisogna considerare inoltre che la forza ribaltante aumenta all'aumentare della velocità",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Sistema anti bloccaggio ruote A.B.S.",
+    "text": "- rende la frenata più sicura perché impedisce alle ruote di bloccarsi\n- consente di correggere la traiettoria del veicolo anche durante una frenata di emergenza\n- consente di utilizzare la massima forza aderente in frenata\n- agisce su tutte le ruote intervenendo di volta in volta su quelle che stanno per bloccarsi durante la frenata\n- agisce anche quando gli pneumatici sono usurati o l'asfalto è bagnato\n- in caso di frenata di emergenza è necessario continuare a premere con forza il pedale, senza allentare la pressione",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 5
+  },
+  {
+    "title": "Pneumatici",
+    "text": "Lo spessore minimo del battistrada degli penumatici di un autoveicolo deve essere di 1,6 millimetri\nE' consigliabile sostituire gli pneumatici dopo alcuni anni, anche se non sono consumati\nGli pneumatici 'tubeless', in caso di foratura, si sgonfiano lentamente (al contrario di quelli con camera d'aria) ed è possibile continuare a guidare con le opportune cautele fermandosi quanto prima.\nNon è vero che possono essere riparati solo con apposite bombolette che chiudono il foro dall'interno.\nNon è vero che gli pneumatici gonfiati con azoto devono essere tenuti a minore pressione rispetto quelli gonfiati ad aria.\nGli pneumatici chiodati possono essere utilizzati solo in un determinato periodo dell'anno ed è consigliabile montarli su tutte le ruote.\nE' consigliabile che gli pneumatici invernali vengano montati su tutte le ruote.\nNon è vero che i veicoli muniti di pneumatici invernali devono rispettare limiti di velocità inferiori a quelli ordinari.\nChi fa uso di catene da neve non omologate è sanzionabile come se ne fosse sprovvisto.\nL'utilizzo di catene nei tratti privi di neve danneggia gli organi di sospensione.\nNon è vero che nei veicoli a doppia trazione (4x4) le catene vanno montate sulle ruote posteriori.\nPer una maggiore sicurezza:\n- bisogna utilizzare esclusivamente pneumatici delle dimensioni previste dall’omologazione del veicolo\n- sulle ruote dello stesso asse bisogna utilizzare pneumatici uguali\n- bisogna controllare le condizioni dei pneumatici anche sui lati, per prevenire improvvisi scoppi o sgonfiamenti\nPer garantire l’aderenza e la stabilità del veicolo, bisogna controllare che la pressione di gonfiaggio degli pneumatici sia quella consigliata dalla casa costruttrice\nLa pressione di gonfiaggio troppo bassa degli pneumatici ne provoca l’anomalo consumo ai bordi (non della parte centrale)\nNon è vero che diminuendo la pressione di gonfiaggio si migliora il raffreddamento degli pneumatici.\nE' possibile invertire la posizione degli pneumatici anteriori con quelli posteriori in quanto i primi sono più soggetti all'usura.\nLa pressione di gonfiaggio degli pneumatici:\n- va adeguata alle condizioni di peso del veicolo (condizioni di carico e numero passeggeri)\n- va controllata periodicamente, anche sugli pneumatici di scorta\n- va controllata quando la gomma è fredda (prima di mettere in movimento il veicolo)\n- se insufficiente fa aumentare l'attrito e i consumi di carburante\nIl sistema automatico di rilevamento della pressione di gonfiaggio dei pneumatici fa aumentare la sicurezza del veicolo\nNon è vero che la pressione deve essere la stessa per veicolo trainante e rimorchio.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 6
+  },
+  {
+    "title": "Sostituzione di una ruota",
+    "text": "Conviene stazionare il veicolo su un terreno orizzontale e stabile\nPrima di procedere bisogna azionare il freno di stazionamento e inserire la prima marcia o la retromarcia, quindi far scendere eventuali passeggeri facendoli sistemare al di fuori della carreggiata.\nPrima di sollevare il veicolo, è conveniente allentare leggermente i bulloni di fissaggi\nDopo aver sostituito la ruota bisogna stringere leggermente i bulloni a veicolo sollevato e bloccarli completamente a veicolo abbassato.\nIl martinetto (cric) non va posizionato in una posizione qualunque ma a seconda del veicolo nella posizione indicata.\nNei veicoli con il 'ruotino' applicato non è consentito superare velocità maggiori di 80Km/h, è comunque consentito trasportare passeggeri.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 7
+  },
+  {
+    "title": "Frenata",
+    "text": "Gli impianti di frenatura dei veicoli leggeri sono spesso dotati di servofreno. Il servofreno a depressione non può funzionare a motore spento.\nL'azione frenante esercitata dal motore è massima se si inserisce la prima marcia\nL'uso prolungato e ripetuto dei freni, provocandone il surriscaldamento, comporta la diminuzione dell'efficienza frenante; percorrendo lunghe e ripide discese è necessario inserire una marcia bassa per evitare di surriscaldare i freni.\nNon è vero che la forza aderente, se eccessiva, comporta il surriscaldamento dei freni.\nDopo il lavaggio del veicolo, è opportuno eseguire una prova di frenata.\nIl freno di stazionamento deve essere utilizzato per bloccare il veicolo in sosta o per situazioni di emergenza, non dovrebbe essere utilizzato durante la marcia, per frenare o arrestare il veicolo.\nNon tutti i veicoli sono dotati di freno di stazionamento a comando manuale.\nEsso deve essere in grado di bloccare il veicolo in sosta anche su strade in pendenza.\nNegli impianti di frenatura, l'energia cinetica dell'autoveicolo viene trasformata in calore grazie all'attrito, le parti dell'impianto frenante maggiormente sollecitate dalle alte temperature sono le guarnizioni di attrito.\nNon è vero che in caso di frenata di emergenza il conducente deve inserire la retromarcia o premere contemporaneamente freno e frizione.\nIl cambio delle pastiglie dei freni non è un'operazione di manutenzione ordinaria e non può essere svolta da chiunque.\nIl livello del liquido idraulico dei freni deve essere periodicamente controllato.\nNon è vero che il circuito frenante dei veicoli leggeri è di tipo a circuito sigillato, pertanto non è necessario un periodico controllo del livello del liquido idraulico\nUna frenatura poco efficiente o squilibrata può essere causata:\n- dalla presenza di aria o vapore nel circuito frenante idraulico\n- dal consumo eccessivo delle guarnizioni frenanti\n- dal consumo irregolare dei tamburi o dei dischi\n- dalla differente pressione di gonfiaggio dei pneumatici dello stesso asse\n. dall'eccessivo riscaldamento delle guarnizioni frenanti\n- dal carico eccessivo o mal ripartito\n- da eccessive e ripetute frenate\nCon freni squilibrati si manifesta, in genere, un'usura irregolare e non omogenea del battistrada, e può avvenire che, in frenata il veicolo sbandi, dirigendosi verso il lato della ruota che si blocca per prima.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 8
+  },
+  {
+    "title": "Le sospensioni di un veicolo a motore",
+    "text": "- sono poste tra il telaio e le ruote (sia anteriori che posteriori)\n- collaborano a rendere più confortevole e sicura la guida\n- collaborano alla dirigibilità del veicolo\n- garantiscono che le ruote rimangano aderenti al fondo stradale\n- garantiscono lo smorzare gli urti trasmessi dalle asperità del terreno\nLe sospensioni possono diventare inefficienti per usura o per aver subito urti troppo forti\nUn veicolo con sospensioni inefficienti ha problemi di tenuta di strada\nIl sovraccarico del veicolo può comportare l'usura, la rottura o la loro temporanea inefficienza\nUn veicolo con sospensioni inefficienti aumenta l'affaticamento alla guida del conducente e può avere come conseguenza l'anomalo orientamento dei proiettori anabbaglianti.\nNon è vero che non entrano in funzione su strada rettilinea.\nNon è vero che se il veicolo è sovraccarico, per evitare problemi per le sospensioni è sufficiente aumentare la pressione dei pneumatici.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 9
+  },
+  {
+    "title": "Gli ammortizzatori di un veicolo a motore",
+    "text": "Gli ammortizzatori di un veicolo a motore servono a ridurre le oscillazioni delle sospensioni e collaborano alla tenuta di strada del veicolo.\nIl sovraccarico del veicolo può rendere inefficienti gli ammortizzatori o comportare una loro usura precoce.\nNon è vero che il conducente può regolare da se la rigidità degli ammortizzatori, per farlo deve rivolgersi ad un'officina specializzata.\nAmmortizzatori scarichi:\n- provocano un comportamento anomalo in fase di frenata e particolarmente in curva\n- provocano l'usura non uniforme del battistrada dei pneumatici\n- aumentano il rischio di rottura delle molle delle sospensioni\n- diminuiscono il confort di marcia dei passeggeri\n- peggiorano la tenuta di strada\nNon è vero che se sono del tipo a circuito sigillato, non necessitano di manutenzione\nNon è vero che se il veicolo è sovraccarico, per evitare problemi agli ammortizzatori è sufficiente aumentare la pressione dei pneumatici.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 10
+  },
+  {
+    "title": "Sterzo",
+    "text": "Lo sterzo può essere regolato in altezza\nIn caso di mal funzionamento del servosterzo, lo sterzo diventa 'pesante'.\nIn caso di foratura di un pneumatico, lo sterzo tira nella direzione della ruota forata\nAl fine di garantire la sicurezza della circolazione occorre verificare periodicamente l'assenza di giochi anomali allo sterzo\nEccessivi giochi allo sterzo rendono imprecisa la traiettoria del veicolo\nLa \"durezza\" dello sterzo può essere indice di insufficiente pressione dei pneumatici\nIl servosterzo idraulico non funziona se il motore è spento\nLa convergenza delle ruote ha influenza sulla precisione della sterzata\nSe lo sterzo vibra è bene far controllare la bilanciatura delle ruote anteriori\nIl servosterzo aiuta a controllare la traiettoria del veicolo in caso di foratura di un pneumatico\nLa precisione della sterzata è influenzata dalle cattive condizioni di sospensioni e ammortizzatori; non è influenzata dalla scarsa pressione dell'olio di lubrificazione, ne dall'eccessiva temperatura del liquido di raffreddamento.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 11
+  },
+  {
+    "title": "Dopo un incidente",
+    "text": "- il rischio di incendio è minore se il veicolo è dotato di interruttore inerziale, che blocca l'afflusso di carburante al motore.\n- se c'è rischio di incendio del veicolo è opportuno spegnere il quadro elettrico girando la chiave di accensione\n- in caso di principio d'incendio, in assenza di estintore si può buttare sabbia o terra alla base delle fiamme, o usare una coperta bagnata\nNon è vero che occorre svuotare o smontare (nel caso di GPL) immediatamente il serbatoio del carburante.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 12
+  },
+  {
+    "title": "Alcune indicazioni",
+    "text": "E' sconsigliabile sistemare oggetti sotto il sedile del conducente per evitare che, scivolando durante la marcia, vadano ad intralciare i movimenti dell'autista\nL'uso del telefono cellulare senza l'ausilio del viva-voce o dell'auricolare è vietato durante la guida.\nI sistemi di navigazione satellitari vanno programmati prima di mettersi in movimento.\nQuando si trasportano bambini è consigliabile inserire il dispositivo di sicurezza che impedisce l'apertura delle portiere dall'interno del veicolo.\nIl climatizzatore può essere utilmente impiegato anche d'inverno per sbrinare velocemente il parabrezza.\nAdesivi, ciondoli o altri oggetti applicati sui vetri del veicolo possono ridurre la visibilità del conducente.\nLa trasparenza e la pulizia dei vetri dei finestrini del veicolo garantiscono una migliore visibilità esterna\nOccorre verificare le spazzole del tergicristallo per sostituirle se sono consumate\nOccorre verificare che nel serbatoio del dispositivo lavacristallo sia sempre presente liquido per detergere i vetri\nNon è vero che se il parabrezza è coperto da polvere, bisogna utilizzare il dispositivo di disappannamento.\nLesioni al vetro anteriore non vanno riparate con soluzioni di emergenza (nastro adesivo trasparente)\nI pannelli a messaggio variabile forniscono indicazioni di pericolo e possono avere valore prescrittivo (obbligo, divieto).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 13
+  },
+  {
+    "title": "Impianto di scarico",
+    "text": "L'impianto di scarico ha lo scopo di convogliare i gas di scarico verso l'esterno dopo averne abbassato la tossicità, la pressione e la temperatura, nonché ridurre la rumorosità del veicolo e ridurre l'inquinamento atmosferico causato dai gas si scarico.\nLa marmitta deteriorata aumenta l'inquinamento acustico prodotto dai veicoli a motore, deve essere sostituita con altra di tipo approvato per quel tipo di veicolo.\nPer la sostituzione del tubo di scarico è necessario rivolgersi ad un'officina autorizzata\nLa manomissione dell'impianto di scarico comporta sanzioni amministrative.\nNon è vero che:\n- l'impianto di scarico dei veicoli elettrici necessita di manutenzione più frequente rispetto a quello dei veicoli con motore a scoppio\n- fuori dei centri abitati, i veicoli possono circolare anche senza silenziatore\n- l'impianto di scarico deve essere integralmente sostituito a ogni cambio di lubrificante\n- se il tubo di scarico del silenziatore si fora e non si intende sostituirlo a breve, lo si può riparare avvolgendolo con lana di vetro e nastro isolante",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 14
+  },
+  {
+    "title": "Sui motocicli",
+    "text": "- è necessario verificare periodicamente i livelli di olio motore e liquido freni\n- il livello del liquido freni si verifica controllando l'apposita vaschetta trasparente\n- in alcuni motori il livello dell'olio motore può essere controllato da un'apposita finestrella posta sulla coppa motore\n- il livello del lubrificante va controllato con il veicolo in piano e dopo aver spento il motore da alcuni minuti\nNon è vero che:\n- il livello del l'olio motore deve essere controllato con il motore in funzione\n- non sono dotati di serbatoio del liquido freni perché la frenatura è di tipo puramente meccanico\n- sui modelli raffreddati ad aria il livello del liquido di raffreddamento può essere controllato da un'apposita finestrella posta tra le alettature del motore\n- non vi sono liquidi di cui occorre fare un controllo dei livelli perché i serbatoi sono sigillati",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 15
+  },
+  {
+    "title": "Interruttore di emergenza nei veicoli a motore a due ruote",
+    "text": "I veicoli a motore a due ruote sono equipaggiati di un interruttore d'emergenza posto sul manubrio per facilitare lo spegnimento del motore senza staccare le mani dal manubrio. Per poter avviare il motore, è necessario che l'interruttore di emergenza sia posizionato su ON/Avviamento. Se guasto deve essere riparato al più presto.\nEsso non sostituisce il dispositivo di accensione/spegnimento a chiave, per lo spegnimento del motore nelle situazioni ordinarie è preferibile utilizzare la chiave di accensione.\nNon è vero che è collegato con l'antifurto o funziona da freno di stazionamento.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 16
+  },
+  {
+    "title": "Catena di trasmissione nei veicoli a motore a due ruote",
+    "text": "- collega il pignone motore alla corona della ruota\n- è opportuno verificare periodicamente l'usura, la lubrificazione e la sua corretta tensione\n- se non lubrificata può essere soggetta a rottura\n- se mostra segni di usura bisogna sostituirla e potrebbe essere necessario sostituire anche il pignone motore e la corona della ruota\n- la sua rottura improvvisa può causare il bloccaggio della ruota posteriore, con conseguente perdita di controllo del veicolo",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 17
+  }
+]

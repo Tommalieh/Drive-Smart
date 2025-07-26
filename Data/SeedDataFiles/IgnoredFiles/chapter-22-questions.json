@@ -1,0 +1,52 @@
+[
+  {
+    "question": "E' opportuno, per il conducente che accusa segni di stanchezza, raggiungere la più vicina piazzola di sosta e riposare",
+    "group": "segni di stanchezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "E' opportuno, per il conducente che accusa segni di stanchezza, avvicinarsi il più possibile al veicolo che lo precede nella marcia",
+    "group": "segni di stanchezza",
+    "correctAnswer": false
+  },
+  {
+    "question": "E' necessario che trascorrano alcune ore affinché un conducente che abbia assunto una quantità eccessiva di bevande alcoliche recuperi l'idoneità alla guida",
+    "group": "eccesso di bevande alcoliche",
+    "correctAnswer": true
+  },
+  {
+    "question": "Un conducente che ha assunto una quantità eccessiva di bevande alcoliche non può recuperare velocemente l'idoneità alla guida, specie se ha assunto anche dei farmaci",
+    "group": "eccesso di bevande alcoliche",
+    "correctAnswer": true
+  },
+  {
+    "question": "Un conducente che ha assunto una quantità eccessiva di bevande alcoliche può recuperare velocemente l'idoneità alla guida se assume cibi piuttosto salati",
+    "group": "eccesso di bevande alcoliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "Un conducente che ha assunto una quantità eccessiva di bevande alcoliche può recuperare velocemente l'idoneità alla guida se assume caffè amaro",
+    "group": "eccesso di bevande alcoliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "L'idoneità alla guida può essere compromessa se si fa uso di alcuni farmaci sedativi",
+    "group": "idoneità alla guida",
+    "correctAnswer": true
+  },
+  {
+    "question": "L'idoneità alla guida può essere compromessa se si fa uso di farmaci antidepressivi",
+    "group": "idoneità alla guida",
+    "correctAnswer": true
+  },
+  {
+    "question": "L'idoneità alla guida può essere compromessa se si fa uso di allucinogeni (LSD, ecstasy, ecc.)",
+    "group": "idoneità alla guida",
+    "correctAnswer": true
+  },
+  {
+    "question": "L'idoneità alla guida può essere compromessa se si fa uso di bevande alcoliche",
+    "group": "idoneità alla guida",
+    "correctAnswer": true
+  }
+]

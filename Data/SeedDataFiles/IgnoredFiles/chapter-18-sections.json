@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Luci di posizione",
+    "text": "E' obbligatorio tenere accesi le luci a partire da mezz'ora dopo il tramonto del sole fino a mezz'ora prima del sorgere del sole.\nDurante la marcia il solo uso delle luci di posizione non è consentito, ma va abbinato con altre luci (fendinebbia, anabbaglianti, abbaglianti).\nNelle ore notturne le luci di posizione devono essere lasciate accese per tutto il tempo che il veicolo rimane fermo o in sosta all'interno della carreggiata, tranne nel caso in cui sia reso pienamente visibile dalla pubblica illuminazione o se sosta all'interno di un'area di parcheggio.\nNon è vero che è possibile utilizzare lampade di qualsiasi colore.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Luci anabbaglianti",
+    "text": "L'uso dei proiettori anabbaglianti è obbligatorio:\n- nei centri abitati da mezz'ora dopo il tramonto del sole a mezz'ora prima del suo sorgere\n- fuori dai centri abitati (sulle autostrade e strade extraurbane) anche di giorno (o in alternativa è possibile accendere di giorno le luci di marcia diurna)\n- in caso di scarsa visibilità per condizioni atmosferiche (neve, pioggia, nebbia)\n- quando si transita nelle gallerie (anche se provviste di illuminazione)\n- quando si trasportano feriti o ammalati gravi\n- fuori dai centri abitati quando l'illuminazione pubblica è sufficiente (quindi in sostituzione dei proiettori abbaglianti);\n- fuori dai centri abitati insufficientemente illuminati quando si incrociano altri veicoli in sostituzione dei proiettori abbaglianti.\nNon è vero che vanno tenuti accesi durante la sosta, in nessun caso.\nI proiettori anabbaglianti possono rischiare di abbagliare gli altri o ridurre la visibilità del conducente:\n- se le lampade sono montate in modo errato o non sono omologate\n- se i proiettori sono regolati troppo alti",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 2
+  },
+  {
+    "title": "Luci abbaglianti (proiettori di profondità)",
+    "text": "E' possibile il loro uso fuori dei centri abitati quando l'illuminazione pubblica manca o non è sufficiente, mentre è vietato nelle strade urbane.\nIl loro utilizzo va sostituito con quello dei proiettori a luce anabbagliante:\n- quando si incrociano altri veicoli\n- quando si segue un veicolo a breve distanza\n- quando vi sia il pericolo di abbagliare i conducenti di veicoli su altre strade o i pedoni.\nE' consentito l'uso intermittente delle luci abbaglianti in sostituzione del clacson per dare avvertimenti utili al fine di evitare incidenti (sorpasso, pericolo immediato), sia di giorno che di notte, sia nei centri abitati che fuori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 3
+  },
+  {
+    "title": "Uso degli indicatori di direzione",
+    "text": "Gli indicatori di direzione vanno azionati, con sufficiente anticipo, ogni volta che\n- si debba eseguire una manovra di svolta, un cambio di corsia, manovra di retromarcia\n- per segnalare l'immissione in una carreggiata provenendo da una corsia di accelerazione\n- per segnalare l'intenzione di spostarsi nella corsia di decelerazione\n- se si intende uscire dalla carreggiata per effettuare una fermata\n- quando, partendo dal margine della carreggiata, ci si vuole immettere nella circolazione\n- quando si inizia un sorpasso (indicatore sinistro per impegnare la corsia a sinistra) e quando lo si termina (indicatore destro per tornare nella propria corsia).\nNon è vero che il loro uso è necessario nella marcia per file parallele, anche se non si effettuano cambiamenti di corsia o per almeno 500 metri dopo aver effettuato un sorpasso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Lampeggio simultaneo degli indicatori di direzione",
+    "text": "Il lampeggio simultaneo di tutti gli indicatori luminosi di direzione (le 4 frecce) va azionato:\n- nei casi di ingombro della carreggiata;\n- durante il tempo necessario a collocare o riprendere il segnale mobile triangolare di pericolo ma non in sostituzione del triangolo;\n- quando per avaria il veicolo è costretto a procedere a velocità particolarmente ridotta;\n- quando si verificano improvvisi rallentamenti o incolonnamenti;\n- quando la fermata di emergenza costituisce pericolo per gli altri utenti della strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 5
+  },
+  {
+    "title": "Luce bianca della targa",
+    "text": "Serve a rendere leggibile la targa posteriore dei veicoli, dei rimorchi e delle motrici, ad almeno 20 metri di distanza e funziona quando sono accese le luci di posizione ed è accesa sul cruscotto la spia verde delle luci.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 6
+  },
+  {
+    "title": "Luci di sosta",
+    "text": "Sono di colore bianco davanti e rosso dietro o giallo ambra se laterali e non sono obbligatorie infatti non tutti i veicoli ne sono dotati.\nVanno accese solo quelle poste dalla parte del traffico e sono da utilizzare solo nei centri abitati, durante la sosta al margine della carreggiata non sufficientemente illuminata; mentre durante la sosta fuori dei centri abitati bisogna lasciare accese tutte e quattro le luci di posizione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 7
+  },
+  {
+    "title": "Catadiottri",
+    "text": "Sono dispositivi di plastica a luce riflessa che hanno la funzione di indicare la presenza e l'ingombro dei veicoli su cui sono applicati.\nQuando illuminati permettono, specialmente di notte, di rendere più visibili veicoli e rimorchi in sosta (o guasti) sulla strada anche se a luci spente.\nPossono essere:\n- bianchi se anteriori e vengono applicati solamente sui rimorchi, semirimorchi e carrelli appendice;\n- rossi se posteriori sono obbligatori per tutti i veicoli e i rimorchi;\n- di forma triangolare solamente nella parte posteriore di rimorchi, semirimorchi e carrelli appendice;\n- gialli se laterali per segnalare i rimorchi, i semirimorchi, carrelli appendice ed i veicoli di notevole lunghezza, cioè quelli che superano 6 metri.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 8
+  },
+  {
+    "title": "Fari fendinebbia",
+    "text": "Sono da usare durante la marcia, in caso di nebbia o da abbinare alle luci anabbaglianti in caso nevicata o pioggia intensa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 9
+  },
+  {
+    "title": "Lampade per i veicoli a motore",
+    "text": "Su un veicolo a motore non è consentito utilizzare lampade non omologate",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 10
+  },
+  {
+    "title": "Utilizzo delle luci per ciclomotori e motocicli",
+    "text": "I conducenti di ciclomotori e motocicli, che circolano su strade sia urbane che extraurbane, hanno l'obbligo di tenere sempre accese le luci di posizione e gli anabbaglianti.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 11
+  },
+  {
+    "title": "Dispositivi di segnalazione acustica",
+    "text": "Debbono usarsi con la massima moderazione e solo ai fini della sicurezza stradale. Si possono usare fuori città ogni qual volta le circostanze, sempre ricollegate alla sicurezza stradale, lo rendano consigliabile al fine di evitare incidenti.\nNei centri abitati invece è generalmente vietato, tranne in caso di immediato ed effettivo pericolo o se si trasportano feriti o ammalati gravi.\nE' inoltre vietato:\n- in presenza dell'apposito segnale (fig. 59);\n- in prossimità di ospedali;\n- se non c'è pericolo immediato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 12
+  },
+  {
+    "title": "Spie rosse",
+    "text": "Sono di colore rosso le spie:\n- accensione del segnale di emergenza\n- accensione simultanea delle 4 frecce;\n- della temperatura del liquido di raffreddamento del motore\n- della pressione del lubrificante (olio) del motore\n- della cintura di sicurezza\n- del freno di stazionamento (freno a mano).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 13
+  },
+  {
+    "title": "Simbolo proiettori abbaglianti",
+    "text": "E' posto il comando per l'accensione dei proiettori di profondità (luci abbaglianti) e sulla relativa spia luminosa a luce blu (segnalatore di luci abbaglianti accese).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-proiettori-abbaglianti.png",
+    "order": 14
+  },
+  {
+    "title": "Simbolo proiettori anabbaglianti",
+    "text": "E' riprodotto sul comando per l'accensione dei proiettori anabbaglianti ed è posto sulla relativa spia luminosa di colore verde che ne indica l'accensione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-proiettori-anabbaglianti.png",
+    "order": 15
+  },
+  {
+    "title": "Simbolo degli indicatori di direzione",
+    "text": "Individua il comando delle frecce ed è posto su una spia di colore verde, che può essere accoppiata ad una segnalazione acustica, che si accende con luce lampeggiante quando sono in funzione gli indicatori di direzione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-degli-indicatori-di-direzione.png",
+    "order": 16
+  },
+  {
+    "title": "Simbolo del segnale di emergenza",
+    "text": "Indica il comando del segnale di emergenza o segnalazione luminosa di pericolo; è posto su una spia a luce lampeggiante di colore rosso e anche sull'interruttore che provoca l'accensione simultanea di tutti gli indicatori di direzione; identifica il comando di un dispositivo da usare in casi di emergenza.\nE' opportuno ricordare che la semplice accensione delle 4 frecce non può sostituire la presenza del triangolo di auto ferma, che va ugualmente collocato nel caso di guasto del veicolo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-segnale-di-emergenza.png",
+    "order": 17
+  },
+  {
+    "title": "Simbolo del tergicristallo",
+    "text": "E' posto sul comando del dispositivo che aziona il tergicristallo, ossia del dispositivo per pulire il parabrezza, e non è collegato ad una spia luminosa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-tergicristallo.png",
+    "order": 18
+  },
+  {
+    "title": "Simbolo del tergi-lavacristallo",
+    "text": "E' posto su un interruttore che comanda sia il lavacristallo che il tergicristallo: contraddistingue pertanto il comando del tergi-lavacristallo anteriore, che è un dispositivo per pulire il parabrezza, lavandolo.\nNon è collocato su una spia luminosa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-tergi-lavacristallo.png",
+    "order": 19
+  },
+  {
+    "title": "Simbolo del clacson",
+    "text": "Indica il comando del dispositivo di segnalazione acustica; non è collegato ad una spia luminosa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-clacson.png",
+    "order": 20
+  },
+  {
+    "title": "Simbolo della riserva carburante",
+    "text": "Contraddistingue una spia luminosa di riserva carburante.\nE' collocato su una spia luminosa di colore giallo e, con spia accesa, indica che il veicolo funziona utilizzando la riserva di carburante.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-della-riserva-carburante.png",
+    "order": 21
+  },
+  {
+    "title": "Simbolo della temperatura eccessiva dell'acqua",
+    "text": "E' posto su spia di colore rosso indicante che la temperatura dell'acqua supera i limiti stabiliti dal costruttore, quindi segnala eccessivo riscaldamento dell'acqua e di conseguenza anche del motore; completa l'indicatore della temperatura dell'acqua.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-della-temperatura-eccessiva-dellacqua.png",
+    "order": 22
+  },
+  {
+    "title": "Simbolo della batteria",
+    "text": "Collocato su spia di colore rosso, se accesa, indica che l'alternatore o la dinamo non caricano la batteria e che quindi la batteria non si ricarica.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-della-batteria.png",
+    "order": 23
+  },
+  {
+    "title": "Simbolo della pressione bassa dell'olio",
+    "text": "E' posto su un dispositivo (spia di colore rosso) che dà indicazioni sulla pressione del lubrificante nel motore.\nCon spia accesa indica insufficiente pressione dell'olio del motore e, se la spia continua a rimane accesa durante la marcia, indica di fermarci subito per evitare gravi danni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-della-pressione-bassa-dellolio.png",
+    "order": 24
+  },
+  {
+    "title": "Simbolo del lunotto termico",
+    "text": "Contrassegna il comando del lunotto termico, cioè del dispositivo antiappannante e di sbrinamento del lunotto posteriore, e contraddistingue la spia di colore giallo che segnala che tale dispositivo è in funzione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-lunotto-termico.png",
+    "order": 25
+  },
+  {
+    "title": "Simbolo di sbrinamento del parabrezza",
+    "text": "Individua e contrassegna il comando del dispositivo di disappannamento e di sbrinamento del parabrezza ed è collocato su una spia di colore giallo che, quando è accesa, indica che il dispositivo di disappannamento è acceso e che ventilazione o riscaldamento del parabrezza sono in funzione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-di-sbrinamento-del-parabrezza.png",
+    "order": 26
+  },
+  {
+    "title": "Simbolo dei fendinebbia posteriori",
+    "text": "E' posto sul comando di accensione delle luci posteriori per nebbia, pertanto contraddistingue la spia luminosa di colore giallo che segnala l'accensione di tali luci.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-dei-fendinebbia-posteriori.png",
+    "order": 27
+  },
+  {
+    "title": "Simbolo dei fendinebbia anteriori",
+    "text": "E' posto sul comando di accensione dei proiettori fendinebbia anteriori ed è collocato su una spia luminosa di colore verde che segnala l'accensione di tali luci.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-dei-fendinebbia-anteriori.png",
+    "order": 28
+  },
+  {
+    "title": "Simbolo del freno di stazionamento",
+    "text": "E' riprodotto su una spia luminosa di colore rosso che, se accesa, segnala che il freno di stazionamento (freno a mano) è inserito.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-del-freno-di-stazionamento.png",
+    "order": 29
+  },
+  {
+    "title": "Simbolo funzionamento difettoso del sistema frenante",
+    "text": "E' riprodotto su una spia luminosa di colore rosso che segnala il funzionamento difettoso di una parte dell'impianto frenante.\nPuò segnalare:\n- scarso livello di liquido per i freni,\n- eccessivo consumo delle pasticche nei freni a disco\n- eccessiva usura delle guarnizioni delle ganasce nei freni a tamburo\n- una eccessiva usura delle guarnizioni degli elementi frenanti\nLa spia accesa suggerisce di provvedere al controllo, manutenzione o riparazione dell'impianto di frenatura.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-funzionamento-difettoso-del-sistema-frenante.png",
+    "order": 30
+  },
+  {
+    "title": "Simbolo cinture di sicurezza",
+    "text": "Il simbolo raffigurato è posto su una spia di colore rosso che, se accesa durante la marcia, indica che il conducente o un passeggero non hanno indossato le cinture di sicurezza, in tal caso è abbinata ad un segnale acustico.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/simbolo-cinture-di-sicurezza.png",
+    "order": 31
+  }
+]

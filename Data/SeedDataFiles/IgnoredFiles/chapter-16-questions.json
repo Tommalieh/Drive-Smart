@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Se si parcheggia in una zona regolamentata con parchimetro, occorre esporre l'apposito tagliando, in modo che sia ben visibile",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": true
+  },
+  {
+    "question": "Per parcheggiare in una zona regolamentata mediante disco orario, bisogna esporre in modo ben visibile l'orario di arrivo",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": true
+  },
+  {
+    "question": "In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzarlo se ci si ferma soltanto per far salire o scendere un passeggero",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": true
+  },
+  {
+    "question": "Nelle aree di parcheggio a tempo limitato, i veicoli al servizio di persone diversamente abili non sono obbligati a rispettare il limite di tempo stabilito per la sosta.",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": true
+  },
+  {
+    "question": "Per parcheggiare in una zona regolamentata mediante disco orario, bisogna indicare sul disco l'orario di fine della sosta, oppure trascriverlo su un foglio di carta",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": false
+  },
+  {
+    "question": "In una zona in cui la sosta è regolamentata mediante disco orario, prima che scada il tempo di validità della sosta è consentito aggiornare l'orario, senza che il veicolo venga spostato",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": false
+  },
+  {
+    "question": "In una zona in cui la sosta è regolamentata con parchimetro, non occorre utilizzare il parchimetro se si effettua una breve sosta",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": false
+  },
+  {
+    "question": "Se si parcheggia in una zona regolamentata mediante disco orario, bisogna trascrivere su un foglio di carta l'ora di arrivo, senza indicare i minuti",
+    "group": "disco orario e parchimetro",
+    "correctAnswer": false
+  },
+  {
+    "question": "Il conducente di un autoveicolo in sosta sul lato destro di una strada urbana, prima di aprire la portiera, deve fare particolare attenzione ai veicoli che sopraggiungono",
+    "group": "conducente di autoveicolo in sosta",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente di un autoveicolo in sosta su una strada stretta, prima di scendere deve controllare che non sopraggiungano veicoli",
+    "group": "conducente di autoveicolo in sosta",
+    "correctAnswer": true
+  }
+]

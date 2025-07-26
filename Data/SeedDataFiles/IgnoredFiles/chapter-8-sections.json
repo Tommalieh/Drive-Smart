@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Segnali di indicazione",
+    "text": "Sono segnali che forniscono agli utenti della strada informazioni necessarie o utili per la guida e per l'individuazione di itinerari, località, servizi ed impianti stradali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Senso unico parallelo",
+    "text": "Indica che la circolazione sul tratto di strada su cui è posto è a senso unico, in particolare una volta svoltato la strada è a senso unico.\nQuindi una volta svoltato nel senso della freccia non è possibile marciare in senso opposto (ad es è vietata l'inversione di marcia).\nNon è vero che il segnale vieta di proseguire diritto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/senso-unico-parallelo.png",
+    "order": 2
+  },
+  {
+    "title": "Senso unico frontale",
+    "text": "Indica che la circolazione sul tratto di strada su cui è posto è a senso unico, in particolare indica l'inizio di una strada a senso unico.\nQuindi dopo di esso non è possibile marciare in senso opposto (ad es è vietata l'inversione di marcia).\nNon è vero che il segnale indica l'obbligo di proseguire diritto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/senso-unico-frontale.png",
+    "order": 3
+  },
+  {
+    "title": "Segnali di preavviso",
+    "text": "Fanno parte dei segnali di indicazione, sono di forma rettangolare e contengono lo schema dell'incrocio, realizzato mediante frecce e nomi delle località raggiungibili. Sulle frecce possono essere rappresentati segnali di pericolo (es PASSAGGIO A LIVELLO) e di prescrizione (es SENSO VIETATO) posti nel ramo dell'incrocio dove vige il pericolo o la limitazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Preavviso incrocio urbano (1)",
+    "text": "Preavvisa un incrocio urbano (è su fondo bianco), riportando i nomi dei luoghi raggiungibili.\nIn questo caso indica di svoltare a destra per raggiungere la stazione ferroviaria e il centro; indica di proseguire dritto per Sora e Napoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-incrocio-urbano-1.png",
+    "order": 5
+  },
+  {
+    "title": "Preavviso incrocio urbano (2)",
+    "text": "Preavvisa un incrocio urbano (è su fondo bianco), riportando i nomi dei luoghi raggiungibili.\nIn questo caso indica di svoltare a destra per raggiungere il centro; indica di proseguire dritto per Milano.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-incrocio-urbano-2.png",
+    "order": 6
+  },
+  {
+    "title": "Preavviso incroci urbani ravvicinati",
+    "text": "Indica la presenza di due incroci successivi ravvicinati (a breve distanza) urbani (è su fondo bianco).\nAl primo incrocio è vietato svoltare a sinistra (per la presenza del segnale 'SENSO VIETATO') e si svolta a destra per via Gemona;\nal secondo incrocio (in fondo) si svolta a destra per il centro della città e per Trieste (Grado e Cividale) mentre si svolta a sinistra per l'ospedale o per l'Austria (Tarvisio e Tolmezio).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-incroci-urbani-ravvicinati.png",
+    "order": 7
+  },
+  {
+    "title": "Preavviso incrocio urbano con rotatoria",
+    "text": "E' un preavviso di incrocio urbano regolato con circolazione rotatoria. Contiene lo schema della rotatoria e riporta i nomi delle località raggiungibili.\nBisogna svoltare alla prima traversa a destra per raggiungere Forlì, alla seconda per raggiungere la tangenziale e alla terza per il centro della città.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-incrocio-urbano-con-rotatoria.png",
+    "order": 8
+  },
+  {
+    "title": "Preavviso incrocio urbana, con divieto di transito per una categoria di veicoli",
+    "text": "E' un preavviso di incrocio urbano con limitazione di transito. Preavvisa una limitazione di transito sulla strada diretta a Pescara, in particolare:\n- vieta agli autocarri di massa superiore a 3,5 t (non tutti) di proseguire diritto per il centro di Avezzano\n- consente agli autobus e alle autovetture di continuare diritto\n- preavvisa di svoltare a sinistra all'incrocio urbano per raggiungere l'autostrada Roma-L'Aquila.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-incrocio-urbana-con-divieto-di-transito-per-una-categoria-di-veicoli.png",
+    "order": 9
+  },
+  {
+    "title": "Preavviso intersezione extraurbana con passaggio a livello su un ramo",
+    "text": "Preavvisa un incrocio su strada extraurbana (è su fondo blu).\nIndica la presenza di un passaggio a livello sul ramo destro dell'incrocio (e non di una stazione ferroviaria) e indica quindi a chi svolta a destra il possibile attraversamento di treni. Indica di svoltare a destra per S. Giovanni, di svoltare a sinistra per località turistica (segnale di colore marrone), di proseguire diritto per raggiungere Porto Torres.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-intersezione-extraurbana-con-passaggio-a-livello-su-un-ramo.png",
+    "order": 10
+  },
+  {
+    "title": "Preavviso diramazione autostradale",
+    "text": "E' un segnale di preavviso di diramazione (non incrocio - non esistono incroci in autostrada) autostradale (è su fondo verde) che consente la scelta preventiva della direzione da seguire.\nIndica che si deve proseguire diritto per andare a Bologna e svoltare a sinistra per l'aeroporto di Linate.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-diramazione-autostradale.png",
+    "order": 11
+  },
+  {
+    "title": "Preavviso di deviazione temporanea",
+    "text": "E' un segnale di preavviso e temporaneo di cantiere. E' posto in prossimità di un incrocio che precede un cantiere stradale.\nVieta a tutti i veicoli di proseguire diritto e indica il percorso sostitutivo (Novara è comunque raggiungibile).\nIntegrato con il pannello 'ESTESA', indica che la deviazione è lunga 2 Km (non indica la distanza dalla deviazione).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-deviazione-temporanea.png",
+    "order": 12
+  },
+  {
+    "title": "Segnali di preselezione",
+    "text": "Fanno parte dei segnali di indicazione e sono posti poco prima della zona di preselezione su una carreggiata a due o più corsie e consentono la scelta preventiva della corsia da impegnare in base alla direzione che si vuole prendere.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 13
+  },
+  {
+    "title": "Segnale di preselezione urbano",
+    "text": "Indica una preselezione di canalizzazione urbana e viene posto in sostituzione del segnale di preavviso di incrocio.\nNelle strade urbane (è a fondo bianco) a più corsie consente di immettersi nelle corsie di canalizzazione, in particolare:\n- indica ai conducenti diretti alla località turistica di immettersi nella corsia di mezzo\n- indica ai conducenti diretti a Terni di mettersi nella corsia di sinistra\n- indica ai conducenti diretti al centro della città di occupare la corsia di destra",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-preselezione-urbano.png",
+    "order": 14
+  },
+  {
+    "title": "Segnale di preselezione extraurbano",
+    "text": "E' un segnale di preselezione su strada extraurbana (à su fondo blu) suddivisa in due corsie.\nPreavvisa una zona di preselezione con due destinazioni:\n- indica al conducente diretto a Bari di spostarsi sulla corsia di sinistra\n- indica al conducente diretto a Pescara di spostarsi sulla corsia di destra",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-preselezione-extraurbano.png",
+    "order": 15
+  },
+  {
+    "title": "Progressiva distanziometrica stradale",
+    "text": "E' un segnale di indicazione posto lungo un'autostrada (fondo verde):\n- nella parte sinistra segnala la distanza progressiva dal luogo di origine dell'autostrada (in questo caso ci troviamo al chilometro 54 dal punto d'inizio dell'autostrada)\n- nella parte destra segnala la distanza dell'uscita per la località indicata (in questo caso mancano 4 chilometri dal casello d'uscita per Piacenza)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/progressiva-distanziometrica-stradale.png",
+    "order": 16
+  },
+  {
+    "title": "Segnale di itinerario extraurbano",
+    "text": "Posto su autostrade o su strade extraurbane principali (come in questo caso) indica la distanza (quella in basso) che c'è tra il segnale e il prossimo svincolo d'uscita. Quindi riporta i nomi delle località raggiungibili uscendo da tale svincolo (nel centro).\nNell'esempio è su strada extraurbana (essendo su fondo blu) e indica che lo svincolo per Frosinone è a 500 m. e le località raggiungibili sono quelle riportate al centro su fondo blu.\nLe località turistiche sono indicati su fondo marrone.\nNon è vero che indica che a 500 metri si arriva al comune di Frosinone (infatti a 500 metri vi è l'uscita dalla strada che stiamo percorrendo, che ci permette poi di arrivare a Frosinone).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-itinerario-extraurbano.png",
+    "order": 17
+  },
+  {
+    "title": "Inizio centro abitato",
+    "text": "Indica l'inizio di un centro abitato e quindi identifica la località raggiunta (in questo caso Taranto).\nE' posto all'inizio del centro abitato, su tutte le strade d'ingresso alla località indicata.\nSe barrato da una striscia rossa indica la fine del centro abitato.\nNon è vero che indica la direzione da seguire per raggiungere Taranto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inizio-centro-abitato.png",
+    "order": 18
+  },
+  {
+    "title": "Fine centro abitato",
+    "text": "Indica la fine del centro abitato e quindi anche la fine del limite massimo di velocità di 50 km/h e del divieto di segnalazioni acustiche.\nNel pannello blu vengono indicate le prossime località (centri abitati) raggiungibili in ordine di lontananza e, per ogni località, la rispettiva distanza chilometrica.\nNon è vero che si trova su strade extraurbane principali, in quanto come detto, si trova appena all'uscita di un centro abitato, e quindi su strade extraurbane secondarie.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-centro-abitato.png",
+    "order": 19
+  },
+  {
+    "title": "Segnale di conferma autostradale",
+    "text": "Indica in autostrada, la distanza (numero a destra) delle località raggiungibili lungo l'itinerario in ordine di raggiungimento.\nSe di colore blu, si trova su strade extraurbane.\nNon è vero che indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-conferma-autostradale.png",
+    "order": 20
+  },
+  {
+    "title": "Segnale di identificazione strada comunale",
+    "text": "Identifica il tipo di strada percorsa: in questo caso, la strada comunale n. 19 (è su fondo bianco).\nSi può trovare a completamento dei segnali di direzione.\nNon è vero che indica una distanza o un orario, o che si trova all'inizio di una strada di campagna.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-identificazione-strada-comunale.png",
+    "order": 21
+  },
+  {
+    "title": "Segnale di identificazione strada statale",
+    "text": "Il segnale identifica il tipo di strada percorsa: in questo caso la strada statale n.2 (strada extraurbana, infatti è su fondo blu).\nSi può trovare all'interno di segnali di direzione o di bivio stradale.\nNon è vero che indica una distanza o la lunghezza di un tratto di strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-identificazione-strada-statale.png",
+    "order": 22
+  },
+  {
+    "title": "Segnale di identificazione autostradale",
+    "text": "Identifica il tipo di strada percorsa: in questo caso l'autostrada n. 25 (è su fondo verde).\nSi può trovare all'interno di un segnale di preavviso di svincolo autostradale.\nAbbinato ad una freccia, indica la direzione per un casello autostradale.\nNon è vero che indica una distanza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-identificazione-autostradale.png",
+    "order": 23
+  },
+  {
+    "title": "Segnale di identificazione itinerario internazionale",
+    "text": "Identifica il tipo di strada percorsa: in questo caso l'itinerario internazionale n. 55.\nE' posto su strade di importanza internazionale e ne indica il numero della classificazione internazionale.\nSi può trovare all'interno di un segnale di preavviso di bivio stradale.\nNon è vero che indica una distanza o una velocità massima.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-identificazione-itinerario-internazionale.png",
+    "order": 24
+  },
+  {
+    "title": "Confine di stato tra paesi della comunità europea",
+    "text": "Indica il confine tra l'Italia ed uno Stato membro della Comunità Economica Europea.\nNon obbliga ad arrestarsi al confine di Stato. Non è vero che preavvisa un posto di blocco degli organi di polizia in vicinanza del confine di Stato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/confine-di-stato-tra-paesi-della-comunita-europea.png",
+    "order": 25
+  },
+  {
+    "title": "Preavviso di confine di stato tra paesi della comunità europea",
+    "text": "Preavvisa un confine di Stato con un Paese che fa parte dell'Unione Europea su strade che portano a tale confine. Ne indica inoltre la distanza (in basso).\nNon obbliga ad arrestarsi per il controllo doganale al confine di Stato.\nNon è vero che si trova in vicinanza di un posto di blocco, o che è un segnale che va posto su di un veicolo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-confine-di-stato-tra-paesi-della-comunita-europea.png",
+    "order": 26
+  },
+  {
+    "title": "Area pedonale",
+    "text": "Indica l'inizio di un'area pedonale, e nel pannello integrativo (aggiuntivo) contiene particolari limitazioni orarie o eccezioni (categorie autorizzate alla circolazione).\nIn questo caso è consentito il transito ai veicoli di persone invalide, a Polizia, ambulanza e Vigili del Fuoco (se in servizio urgente di emergenza) e ai veicoli per il carico e lo scarico merci.\nLo stesso segnale barrato da una striscia trasversale rossa indica la fine dell'area pedonale.\nE' sbagliato dire che il segnale indica una pista obbligatoria per i pedoni o itinerari per escursioni turistiche.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/area-pedonale.png",
+    "order": 27
+  },
+  {
+    "title": "Zona a traffico limitato",
+    "text": "Indica l'inizio di una zona a traffico limitato, ossia un'area in cui l'accesso e la circolazione dei veicoli possono essere limitate nel tempo e/o a particolari categorie di veicoli.\nNel pannello integrativo (aggiuntivo) sono indicate le limitazioni orarie od eccezioni (categorie autorizzate alla circolazione).\nIn questo caso è consentito il transito solo ai veicoli di persone invalide, a Polizia, ambulanza e Vigili del Fuoco (se in servizio urgente di emergenza) e ai veicoli per il carico e lo scarico merci (solo in determinate ore).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/zona-a-traffico-limitato.png",
+    "order": 28
+  },
+  {
+    "title": "Transitabilità (passo aperto con obbligo di catene)",
+    "text": "E' posto su strade di montagna e presegnala le condizioni di transitabilità (in questo caso del passo dello Stelvio).\nIndica che la strada è aperta (quindi è possibile raggiungere il passo dello Stelvio), ma solo ai veicoli che sono equipaggiati con catene o pneumatici invernali (quindi ne obbliga l'uso).\nNon è vero che consiglia di montare le catene, ma lo obbliga (se non si hanno pneumatici invernali).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/transitabilita-passo-aperto-con-obbligo-di-catene.png",
+    "order": 29
+  },
+  {
+    "title": "Transitabilità (passo chiuso)",
+    "text": "E' posto su strade di montagna e presegnala le condizioni di transitabilità (in questo caso del passo dello Stelvio).\nIndica che la strada è chiusa (quindi non è possibile raggiungere il passo dello Stelvio) mentre è possibile arrivare fino a Trafoi (località che si trova prima dello Stelvio).\nIl segnale consiglia di procedere con particolare prudenza e attenzione e raccomanda (quindi non obbliga) l’uso delle catene o degli pneumatici invernali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/transitabilita-passo-chiuso.png",
+    "order": 30
+  },
+  {
+    "title": "Inizio strada extraurbana principale",
+    "text": "Indica l'ingresso in una strada extraurbana principale (quindi strada a carreggiate separate). Se barrato da una striscia trasversale rossa ne indica la fine.\nSe di colore verde indica l'inizio di un'autostrada.\nPuò trovarsi in formato ridotto (piccolo) sui segnali di preavviso o di preselezione.\nNon è vero che indica la presenza di un cavalcavia o prescrive la circolazione per file parallele.\nDa non confondere con il segnale 'INVERSIONE DI MARCIA'.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inizio-strada-extraurbana-principale.png",
+    "order": 31
+  },
+  {
+    "title": "Inversione di marcia",
+    "text": "E' posto su una strada a carreggiate separate e indica la presenza di una struttura (cavalcavia o sottopassaggio) per effettuare l'inversione di marcia (quindi tornare indietro).\nSe di colore verde si trova su un'autostrada.\nDa non confondere con il segnale 'INIZIO STRADA EXTRAURBANA PRINCIPALE'.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inversione-di-marcia.png",
+    "order": 32
+  },
+  {
+    "title": "Limiti di velocità generali",
+    "text": "Viene posto in vicinanza della frontiera italiana, visibile dai conducenti provenienti dallo Stato estero e indica i limiti massimi di velocità generali che valgono in Italia, quindi dall'alto vero il basso:\n- 50 km/h su strade urbane\n- 90 km/h su strade extraurbane secondarie\n- 110 km/h su strade extraurbane principali (ad esempio: superstrade, scorrimenti veloci)\n- 130 km/h su autostrade",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/limiti-di-velocita-generali.png",
+    "order": 33
+  },
+  {
+    "title": "Pronto soccorso",
+    "text": "E' un segnale di localizzazione situato in corrispondenza (all'ingresso) di un pronto soccorso e ne indica la direzione per entrare.\nNon è vero che indica una farmacia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pronto-soccorso.png",
+    "order": 34
+  },
+  {
+    "title": "Ospedale",
+    "text": "E' un segnale di localizzazione posto in corrispondenza di un ospedale e ne indica l'ingresso o la direzione da seguire per entrarvi.\nQuindi invita a non fare rumori molesti nelle sue vicinanze.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/ospedale.png",
+    "order": 35
+  },
+  {
+    "title": "Segnale di localizzazione territoriale (fiume)",
+    "text": "E' un segnale di localizzazione e indica il nome del fiume in vicinanza del ponte che lo attraversa\nIn questo caso si trova in vicinanza di un ponte che attraversa il fiume Arno.\nNon è vero che indica pericolo di mareggiate o allagamenti.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnale-di-localizzazione-territoriale-fiume.png",
+    "order": 36
+  },
+  {
+    "title": "Preavviso informazioni turistico-alberghiere",
+    "text": "Preavvisa un ufficio di informazioni turistico-alberghiere dove si possono richiedere informazioni su strutture e servizi turistici (alberghi, motel… ).\nIn basso ne indica la distanza.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-informazioni-turistico-alberghiere.png",
+    "order": 37
+  },
+  {
+    "title": "Campeggio",
+    "text": "Indica la vicinanza di un'area destinata alla sosta di caravan ed autocaravan ed al campeggio.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/campeggio.png",
+    "order": 38
+  },
+  {
+    "title": "Area attrezzata con impianti di scarico",
+    "text": "Indica un'area attrezzata con impianti che consentono, ai veicoli che hanno i servizi igienico-sanitari, lo scarico dei residui organici e delle acque bianche e sporche.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/area-attrezzata-con-impianti-di-scarico.png",
+    "order": 39
+  },
+  {
+    "title": "Attraversamento pedonale",
+    "text": "Si trova (direttamente) in corrispondenza delle strisce di un attraversamento pedonale.\nObbliga i conducenti a fermarsi quando i pedoni transitano sugli attraversamenti pedonali.\nFuori dei centri abitati si trova dopo il segnale di pericolo ATTRAVERSAMENTO PEDONALE.\nNon è vero che se di colore verde può essere posto in autostrada (dove non vi sono attraversamenti pedonali).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-pedonale.png",
+    "order": 40
+  },
+  {
+    "title": "Attraversamento ciclabile",
+    "text": "Si trova (direttamente) in corrispondenza delle strisce di un attraversamento ciclabile.\nInvita ad usare prudenza e indica che bisogna dare la precedenza ai ciclisti che attraversano sulle strisce.\nNon è vero che indica una pista ciclabile.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-ciclabile.png",
+    "order": 41
+  },
+  {
+    "title": "Scuolabus",
+    "text": "Se posto sul bordo del marciapiede, indica la fermata di uno scuolabus.\nSe posto all'esterno di un autobus, segnala che esso trasporta scolari.\nInvita a fare attenzione ai bambini che scesi dallo scuolabus possono attraversare improvvisamente la strada",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/scuolabus.png",
+    "order": 42
+  },
+  {
+    "title": "Fermata autobus",
+    "text": "Indica una fermata di autobus di pubblico trasporto extraurbano e quindi il luogo dove poterli aspettare.\nPuò essere abbinato ad un pannello che riporta gli orari di partenza.\nNon è vero che indica una corsia riservata agli autobus o un'area di sosta per autobus e filobus.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fermata-autobus.png",
+    "order": 43
+  },
+  {
+    "title": "Parcheggio di scambio con linee autobus",
+    "text": "Indica parcheggio di scambio con linee di autobus e quindi la possibilità di parcheggiare l'autovettura e di prendere l'autobus.\nE' posto vicino ad una fermata di autobus.\nIl segnale raffigurato indica che dopo aver parcheggiato l'autovettura è possibile prendere l'autobus n. 8 o n. 45.\nNon è vero che indica una piazzola di sosta per autobus.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/parcheggio-di-scambio-con-linee-autobus.png",
+    "order": 44
+  },
+  {
+    "title": "S.O.S.",
+    "text": "Indica la presenza di un dispositivo di chiamata da utilizzare in caso di richiesta di soccorso stradale e assistenza, che funziona 24 ore su 24.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/sos.png",
+    "order": 45
+  },
+  {
+    "title": "Strada senza uscita",
+    "text": "E' un segnale di indicazione ed è posto all'inizio di una strada senza uscita per i veicoli, vale anche per i motocicli.\nNon è vero che vale anche per i pedoni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-senza-uscita.png",
+    "order": 46
+  },
+  {
+    "title": "Preavviso strada senza uscita",
+    "text": "E' un segnale di indicazione e segnala l'intersezione (l'incrocio) con una strada sulla destra senza uscita per i veicoli (compresi i motocicli). Consente comunque di svoltare a destra o proseguire diritto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-strada-senza-uscita.png",
+    "order": 47
+  },
+  {
+    "title": "Velocità consigliata",
+    "text": "Indica la velocità che si consiglia (ATTENZIONE: non è un obbligo) di non superare in condizioni ottimali di traffico.\nPuò essere abbinato con un pannello che indica la lunghezza del tratto di strada dove si consiglia di non superare la velocità indicata.\nQuindi in questo caso, consente comunque, ad esempio, di viaggiare a 70 Km/h.\nSe barrato da una striscia rossa indica la fine della sua validità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/velocita-consigliata.png",
+    "order": 48
+  },
+  {
+    "title": "Strada riservata ai veicoli a motore",
+    "text": "E' un segnale di indicazione. Indica l'inizio di una strada riservata a tutti i veicoli a motore (autovetture, motocicli, quadricicli, autotreni, ecc.), mentre vieta il transito ai veicoli senza motore (biciclette, carretti, ecc.).\nSostituisce, quindi, i segnali di divieto riferiti ai veicoli senza motore.\nSe barrato da una striscia rossa indica la fine della sua validità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-riservata-ai-veicoli-a-motore.png",
+    "order": 49
+  },
+  {
+    "title": "Galleria autostradale",
+    "text": "Indica l'inizio di una galleria autostradale e quindi ricorda di non sostare e di non fermarsi in galleria, salvo diversa segnalazione, o comunque di spegnere il motore in caso di arresto prolungato in galleria.\nInvita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento all'uscita della galleria.\nNon è vero che indica una galleria non illuminata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/galleria-autostradale.png",
+    "order": 50
+  },
+  {
+    "title": "Ponte",
+    "text": "Si può trovare all'inizio di un ponte, di un viadotto o di un cavalcavia\nPuò essere integrato da pannello che ne indica la lunghezza.\nInvita a tenere ben saldo lo sterzo per fronteggiare eventuali colpi di vento laterale.\nNon è vero che prescrive il divieto di sorpasso tra autoveicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/ponte.png",
+    "order": 51
+  },
+  {
+    "title": "Svolta a sinistra indiretta",
+    "text": "Indica che al prossimo incrocio non è possibile svoltare a sinistra in modo diretto, quindi indica il percorso da fare per prendere la strada di sinistra in modo indiretto.\nConsente comunque di proseguire diritto o svoltare a destra e interessa solo i conducenti che intendono svoltare a sinistra.\nNon è vero che non vale per le biciclette ed i ciclomotori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/svolta-a-sinistra-indiretta.png",
+    "order": 52
+  },
+  {
+    "title": "Piazzola",
+    "text": "Si trova su strada extraurbana e indica una piazzola a lato della carreggiata per effettuare la fermata.\nPuò essere abbinato ad un pannello che indica la distanza che c'è tra il segnale e la piazzola.\nNon è vero che la sosta è consentita solo per 3 ore.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/piazzola.png",
+    "order": 53
+  },
+  {
+    "title": "Uso corsie su strada urbana",
+    "text": "E' un segnale di indicazione installato su strade urbane (fondo bianco) e indica come devono essere utilizzate le corsie, in particolare:\n-  la corsia di destra è riservata agli autobus dei servizi pubblici urbani\n- le corsie di sinistra sono destinate al transito normale di tutti i veicoli\nNon indica che gli autobus possono sorpassare a destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/uso-corsie-su-strada-urbana.png",
+    "order": 54
+  },
+  {
+    "title": "Uso corsie su strada extraurbana",
+    "text": "E' un segnale di indicazione installato su strade extraurbane (fondo blu) e indica come devono essere utilizzate le corsie di una carreggiata.\nIn particolare indica che la corsia di sinistra è vietata agli autocarri che superano la massa a pieno carico di 3,5 tonnellate, quindi tutti gli altri veicolo possono circolare su entrambe le corsie.\nNon è vero che si trova solo su strade a doppio senso di circolazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/uso-corsie-su-strada-extraurbana.png",
+    "order": 55
+  },
+  {
+    "title": "Uso corsie su autostrada",
+    "text": "E' un segnale di indicazione installato posto su autostrade (fondo verde) e indica le velocità minime obbligatorie (non consigliate) da mantenere sulle corsie indicate.\nQuindi la prima corsia sulla destra può essere percorsa senza limiti di velocità minima, quella di mezzo non può essere percorsa a meno di 60 Km/h, quella di sinistra a meno di 90 Km/h.\nNon è vero che consente di circolare a 160 km/h in tutte e tre le corsie, in quanto il limite generale in autostrada è di 130 Km/h.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/uso-corsie-su-autostrada.png",
+    "order": 56
+  },
+  {
+    "title": "Variazione corsie disponibili (aumento)",
+    "text": "E' un segnale di indicazione posto su strade extraurbane (colore blu) e indica un cambiamento del numero di corsie disponibili (in questo caso da una a due).\nPuò essere abbinato ad un pannello che indica la distanza dal punto in cui si ha l'aumento di corsia.\nNon è vero che indica che è possibile sorpassare a destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/variazione-corsie-disponibili-aumento.png",
+    "order": 57
+  },
+  {
+    "title": "Variazione corsie disponibili (diminuzione)",
+    "text": "E' un segnale di indicazione posto in autostrada (fondo verde) e indica una diminuzione del numero di corsie disponibili (in questo caso da tre a due).\nConsiglia, quindi, di rallentare per restringimento della carreggiata.\nPuò essere abbinato ad un pannello che indica la distanza dal restringimento di corsia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/variazione-corsie-disponibili-diminuzione.png",
+    "order": 58
+  },
+  {
+    "title": "Preavviso deviazione consigliata",
+    "text": "E' un segnale di indicazione (quindi non è un obbligo) posto solitamente all'ingresso dei centri abitati e consiglia ai veicoli rappresentati nel pannello di seguire la direzione indicata per non attraversare il centro abitato.\nIn questo caso consiglia agli autotreni e agli autoarticolati (veicoli merci di massa superiore a 3,5 t) di seguire la strada a destra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-deviazione-consigliata.png",
+    "order": 59
+  },
+  {
+    "title": "Direzione obbligatoria per autotreni ed autoarticolati",
+    "text": "E' un segnale di obbligo posto in vicinanza di un cantiere per il periodo di durata dei lavori stradali.\nIndica una direzione obbligatoria (e non consigliata o facoltativa) per alcune categorie di veicoli (autotreni ed autoarticolati).\nIl segnale non riguarda tutti gli altri tipi di veicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/direzione-obbligatoria-per-autotreni-ed-autoarticolati.png",
+    "order": 60
+  },
+  {
+    "title": "Assistenza meccanica",
+    "text": "E' posto lungo una strada extraurbana e indica che nelle vicinanze c'è un'officina meccanica per veicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/assistenza-meccanica.png",
+    "order": 61
+  },
+  {
+    "title": "Telefono",
+    "text": "E' posto lungo una strada extraurbana e indica un posto di telefono pubblico nelle vicinanze.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/telefono.png",
+    "order": 62
+  },
+  {
+    "title": "Rifornimento",
+    "text": "E' posto lungo una strada extraurbana e indica un posto di rifornimento carburante nelle vicinanze.\nSe a fondo verde, indica un impianto di distribuzione carburante in autostrada.\nNon è vero che indica un distributore di carburante riservato solo ai veicoli alimentati a GPL.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/rifornimento.png",
+    "order": 63
+  },
+  {
+    "title": "Auto al seguito",
+    "text": "E' posto lungo una strada extraurbana e indica la vicinanza di una grande stazione ferroviaria con possibilità di trasporto di autovetture al seguito del viaggiatore.\nSi trova in vicinanza dell'accesso per le autovetture da caricare sul treni.\nNon è vero che indica la possibilità di restare in auto durante il suo trasporto in treno, o un'area riservata alla sosta delle autocaravan.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/auto-al-seguito.png",
+    "order": 64
+  },
+  {
+    "title": "Posteggio per TAXI",
+    "text": "Indica un'area di sosta ad uso esclusivo dei taxi in servizio, e quindi un'area contrassegnata da strisce gialle con la scritta TAXI.\nNon è vero che il segnale è dotato di luce propria.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/posteggio-per-taxi.png",
+    "order": 65
+  },
+  {
+    "title": "Polizia stradale",
+    "text": "Il segnale raffigurato riporta alcuni dati (località, via, telefoni) del più vicino comando della polizia stradale.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/polizia-stradale.png",
+    "order": 66
+  }
+]

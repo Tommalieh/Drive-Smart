@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Responsabilità civile, penale e amministrativa",
+    "text": "Chiunque circoli con un veicolo, in conseguenza del proprio comportamento di guida è assoggettato a delle responsabilità: civile, penale e amministrativa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Responsabilità civile",
+    "text": "La responsabilità civile connessa al sinistro stradale è basata sul principio che ogni danno causato deve essere risarcito e consiste nell'obbligo di rimborsare i danni causati sia alle persone che alle cose e agli animali a causa del sinistro stesso.\nObbliga il responsabile, o chi per lui (l'impresa assicuratrice), al risarcimento (con pagamento in denaro) dei danni causati.\nGrava sul conducente e sul proprietario del veicolo.\nNon grava sul proprietario se dimostra che il veicolo è stato usato contro la sua volontà, ad esempio in caso di furto.\nE' indipendente dalle responsabilità penale e amministrativa.\nNon è vero che è esclusa in caso di morte del danneggiato, che è aggravata dalla mancata copertura assicurativa e che grava in qualche maniera sull'impresa assicuratrice.\nChi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale:\n- si libera dell'obbligo se risarcisce il danno, può quindi accordarsi con il danneggiato circa il valore del risarcimento senza far intervenire l'impresa assicuratrice\n- può far riparare il proprio autoveicolo\n- può farsi assistere da un consulente di infortunistica stradale\n- non è tenuto a chiedere l'intervento degli organi di polizia se non vi sono danni alle persone\nNon è vero che può chiedere la revoca della patente come alternativa o che si libera da ogni forma di responsabilità penale pagandone l'ammontare in denaro.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 2
+  },
+  {
+    "title": "Responsabilità penale",
+    "text": "La responsabilità penale connessa al sinistro stradale è personale e perciò a carico solo del conducente. Essa sorge:\n- qualora vengano violate norme del codice penale\n- se il sinistro provochi lesioni gravi a persone\n- in caso di omicidio colposo\nNon è vero che sorge nei confronti del proprietario del veicolo se il conducente non è stato identificato\nLa responsabilità penale è esclusa:\n- quando il fatto non sia considerato un reato\n- quando il fatto dipenda da causa di forza maggiore\n- quando vi siano danni involontari alle sole cose\nNon è vero che si esclude quando ci sia stato il risarcimento del danno o quando si sia prestato soccorso alla vittima.\nChi è penalmente e civilmente responsabile di un sinistro stradale:\n- è soggetto alle pene previste dal Codice Penale\n- è tenuto al risarcimento dei danni\n- qualora abbia violato norme del Codice della strada è soggetto anche a responsabilità amministrativa e quindi alle relative sanzioni\n- può incorrere nella sospensione, revoca o nella revisione della patente di guida\nNon è vero che è sempre soggetto all'arresto preventivo e che non può continuare a guidare veicoli della stessa categoria.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 3
+  },
+  {
+    "title": "Responsabilità amministrativa",
+    "text": "Abbiamo visto che chi è penalmente e civilmente responsabile di un sinistro stradale è soggetto alle pene previste dal codice penale ed è tenuto al risarcimento dei danni.\nSe ha violato anche norme del codice della strada è soggetto a responsabilità amministrativa e quindi alle relative sanzioni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Risarcimento diretto dei danni",
+    "text": "Il risarcimento diretto nei sinistri stradali si applica se vi sono danni al veicolo e lesioni di lieve entità al conducente.\nLa procedura di risarcimento diretto non è applicabile se vi sono più di due veicoli coinvolti.\nNon è vero che il risarcimento diretto è escluso se nel sinistro è coinvolto un motociclo o che in caso di sinistro con danni al veicolo, la richiesta deve essere obbligatoriamente corredata di fotografie.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 5
+  },
+  {
+    "title": "Fondo di garanzia per le vittime della strada",
+    "text": "Prevede il risarcimento dei danni arrecati alle persone da veicoli non coperti da assicurazione o da veicoli non identificati.\nNon è vero che prevede forme di vitalizio, che risarcisce i danni provocati da minorenni o che è una convenzione facoltativa.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 6
+  },
+  {
+    "title": "Polizze furto, incendio, atti vandalici ed eventi naturali",
+    "text": "Le polizze assicurative stipulate per coprire i danni da furto, incendio, atti vandalici, eventi naturali o danni al proprio veicolo (polizza kasko) non sono obbligatorie.\nLe polizze assicurative contro il rischio d’incendio del veicolo coprono, normalmente, sia i danni causati da incendi dolosi (intenzionali) che quelli causati da incendi accidentali (casuali).\nNella polizza assicurativa contro il rischio di furto o incendio, il risarcimento dovuto non può essere superiore al valore che il veicolo aveva al momento in cui è stato rubato o ha preso fuoco.\nNel caso in cui il veicolo venga rubato in uno Stato estero, per poter attivare l’assicurazione bisogna ripetere la denuncia nello Stato italiano.\nNon è vero che per poter stipulare una polizza assicurativa contro il rischio d’incendio occorre che il veicolo sia munito di staccabatteria automatico.\nNon è vero che per poter stipulare una polizza assicurativa contro il rischio di furto, occorre che il veicolo sia dotato di antifurto.\nNon è vero che garantiscono forme di rendita vitalizia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 7
+  }
+]

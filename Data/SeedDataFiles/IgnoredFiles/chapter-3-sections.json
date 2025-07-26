@@ -1,0 +1,230 @@
+[
+  {
+    "title": "Divieto di transito",
+    "text": "E' un segnale di divieto e vieta il transito a tutti i veicoli, quindi la circolazione in entrambe i sensi.\nVale 24 ore su 24 ma può avere validità limitata nel tempo, indicata in un pannello integrativo.\nE' posto su entrambi gli accessi della strada.\nVale anche per i veicoli sprovvisti motore (es le biciclette) e per le auto elettriche, ma non per i pedoni. Non è vero che consente di entrare nella strada per la sosta o per effettuare operazioni di carico e scarico.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito.png",
+    "order": 1
+  },
+  {
+    "title": "Divieto di transito per autotreni ed autoarticolati",
+    "text": "E' un segnale di divieto e vieta il transito alle categorie di veicoli indicati in figura, in particolare autotreni ed autoarticolati.\nE' posto su entrambi gli accessi della strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-per-autotreni-ed-autoarticolati.png",
+    "order": 2
+  },
+  {
+    "title": "Senso vietato",
+    "text": "E' un segnale di divieto e vieta a tutti i veicoli di entrare in una strada accessibile invece dall'altra parte (quindi una strada a senso unico)\nVale 24 ore su 24 (quindi anche nelle ore notturne).\nVale anche per i veicoli sprovvisti di motore e per i taxi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/senso-vietato.png",
+    "order": 3
+  },
+  {
+    "title": "Divieto di sorpasso",
+    "text": "E' un segnale di divieto e vieta a tutti i veicoli di sorpassare i veicoli a motore (anche elettrico), eccetto i ciclomotori e i motocicli.\nPraticamente in presenza del segnale si possono sorpassare solamente i veicoli senza motore (biciclette, veicoli a braccia, carrozze a cavalli, veicoli a trazione animale), i motocicli ed i ciclomotori.\nAttenzione il divieto di sorpasso deve essere rispettato da tutti i veicoli a motore, anche da ciclomotori e motocicli (quindi essi possono essere sorpassati, ma non possono sorpassare).\nVale anche se la manovra può compiersi entro la semicarreggiata, senza oltrepassare la striscia continua.\nHa validità 24 ore e si può trovare sia su strade urbane che extraurbane.\nPuò essere integrato dal pannello integrativo CONTINUA, ad esempio dopo un incrocio, ad indicare la continuazione del divieto.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-sorpasso.png",
+    "order": 4
+  },
+  {
+    "title": "Fine del divieto di sorpasso",
+    "text": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del divieto di sorpasso precedentemente imposto.\nPraticamente indica che da questo punto in poi è consentito il sorpasso, sempre se viene fatto senza oltrepassare eventuale linea bianca continua.\nHa validità 24 ore e si può trovare sia su strade urbane che extraurbane.\nNon impone un particolare limite di velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-divieto-di-sorpasso.png",
+    "order": 5
+  },
+  {
+    "title": "Divieto di sorpasso per gli autocarri che superano 3,5 T",
+    "text": "E' un segnale di divieto e vieta ai veicoli di massa a pieno carico superiore a 3,5 tonnellate non destinati al trasporto di persone (autocarri, autotreni, autoarticolati), di sorpassare veicoli a motore (neanche i motocicli).\nNon vale per tutti gli altri veicoli, compresi autobus, autosnodati ed autocaravan (camper), anche se superano 3,5 t (perché trasportano persone).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-sorpasso-per-gli-autocarri-che-superano-35-t.png",
+    "order": 6
+  },
+  {
+    "title": "Fine del divieto di sorpasso per gli autocarri che superano 3,5 T",
+    "text": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del divieto di sorpasso precedentemente imposto riguardante i veicoli di massa a pieno carico superiore a 3,5 tonnellate non destinati al trasporto di persone.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-divieto-di-sorpasso-per-gli-autocarri-che-superano-35-t.png",
+    "order": 7
+  },
+  {
+    "title": "Distanziamento minimo obbligatorio di 70 metri",
+    "text": "E' un segnale di divieto e impone di mantenere una distanza di almeno 70 metri dal veicolo che precede (che sta avanti, non quello che segue, che sta dietro).\nVale anche per i motocicli e quando si viaggia a basa velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/distanziamento-minimo-obbligatorio-di-70-metri.png",
+    "order": 8
+  },
+  {
+    "title": "Fine del limite massimo di velocità",
+    "text": "E' un segnale di fine prescrizione (fine divieto) e indica la fine del limite massimo di velocità.\nDa questo punto in poi è possibile procedere ad una velocità anche superiore a quella indicata, senza però superare il limite generale vigente per il tipo di strada.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine-del-limite-massimo-di-velocita.png",
+    "order": 9
+  },
+  {
+    "title": "Divieto di segnalazioni acustiche",
+    "text": "E' un segnale di divieto. Vieta l'utilizzo di qualsiasi segnalatore acustico (clacson, trombe), se non nei casi di pericolo immediato o durante il trasporto di feriti o ammalati gravi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-segnalazioni-acustiche.png",
+    "order": 10
+  },
+  {
+    "title": "Divieto di transito ai pedoni",
+    "text": "E' un segnale di divieto. Vieta il transito ai pedoni su quella strada.\nConsente il transito a tutti i veicoli.\nVale 24 ore su 24.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-pedoni.png",
+    "order": 11
+  },
+  {
+    "title": "Divieto di transito ai veicoli a braccia",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti i veicoli a braccia (esempio carretti a mano).\nConsente il transito ai pedoni e a tutti gli altri veicoli a trazione animale o a motore.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-a-braccia.png",
+    "order": 12
+  },
+  {
+    "title": "Divieto di transito ai veicoli a trazione animale",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti i veicoli a trazione animale (esempio carrozze o altri veicoli trainati da cavalli, asini).\nConsente il transito di tutti gli altri veicoli (compresi i veicoli a braccia e i veicoli a motore);\nVale 24 ore su 24.\nNon è vero che consente il transito ai veicoli a trazione animale se muniti di pneumatici.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-a-trazione-animale.png",
+    "order": 13
+  },
+  {
+    "title": "Divieto di transito ai velocipedi",
+    "text": "E' un segnale di divieto. Vieta ai velocipedi (biciclette, tandem, quadricicli a pedale) di percorrere quella strada.\nConsente il transito ai pedoni e a tutti gli altri veicoli (compresi i quadricicli a motore, i ciclomotori, i motocicli).\nVale 24 ore su 24.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-velocipedi.png",
+    "order": 14
+  },
+  {
+    "title": "Divieto di transito ai motocicli",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti i motocicli (anche se non superano i 125 cm3 o se sono dotati di cellula di sicurezza).\nConsente il transito a tutti gli altri veicoli (compresi biciclette, ciclomotori, tricicli, quadricicli e autovetture).\nAttenzione a non confondere motocicli con ciclomotori.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-motocicli.png",
+    "order": 15
+  },
+  {
+    "title": "Divieto di transito ai veicoli con 3 o più ruote",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti gli autoveicoli e motoveicoli che hanno 3 o più ruote: tricicli, quadricicli, autoveicoli, autocarri, autobus.\nNon vale per veicoli senza motore (biciclette, carretti, ecc.), motocicli e ciclomotori.\nNon è vero che è consentito il transito alle autovetture adibite al servizio di taxi.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-con-3-o-piu-ruote.png",
+    "order": 16
+  },
+  {
+    "title": "Divieto di transito agli autobus",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti gli autobus, anche se turistici o scolastici.\nConsente il transito ai pedoni e a tutti gli altri veicoli.\nNon è vero che è valido solo nei giorni feriali.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-agli-autobus.png",
+    "order": 17
+  },
+  {
+    "title": "Divieto di transito agli autocarri che superano 3,5 T",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti gli autoveicoli che trasportano merci/cose (autocarri, autotreni, autoarticolati) con massa a pieno carico superiore a 3,5 t.\nConsente quindi il transito di veicoli destinati al trasporto di persone anche se superano 3,5 T (ad esempio autobus, caravan ecc...).\nPuò essere munito di pannello integrativo con un diverso valore della massa ammessa al transito.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-agli-autocarri-che-superano-35-t.png",
+    "order": 18
+  },
+  {
+    "title": "Divieto di transito agli autocarri che superano 6,5 T",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti gli autoveicoli che trasportano merci/cose (autocarri, autotreni, autoarticolati) o ai veicoli ad uso speciale (betoniere, ecc.) con massa a pieno carico superiore a quella indicata nel segnale (in questo caso: 6,5 T).\nConsente quindi il transito di veicoli destinati al trasporto di persone anche se superano 6,5 T (ad esempio autobus, caravan ecc...).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-agli-autocarri-che-superano-65-t.png",
+    "order": 19
+  },
+  {
+    "title": "Divieto di transito ai veicoli a motore trainanti un rimorchio",
+    "text": "E' un segnale di divieto. Vieta il transito su quella strada a tutti i veicoli che trainano un rimorchio (destinato sia a trasporto merci, sia a trasporto di persone).\nPuò essere integrato con pannello che consente il traino di rimorchi di massa non superiore a quella indicata nel pannello stesso.\nQuindi vieta il transito a caravan, rimorchi per imbarcazione, autotreni, autoarticolati.\nConsente il transito ai veicoli con carrello-appendice (si considera parte integrante del veicolo) e all'autosnodato (due autobus uniti, tale da formare un solo veicolo).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-a-motore-trainanti-un-rimorchio.png",
+    "order": 20
+  },
+  {
+    "title": "Divieto di transito alle macchine agricole",
+    "text": "E' un segnale di divieto. Vieta il transito alle macchine agricole gommate e cingolate, alle trattrici agricole ed ai rimorchi agricoli.\nConsente il transito a tutti gli altri tipi di veicoli comprese macchine operatrici (sgombraneve, per lavori stradali, ecc.) e trattori stradali per semirimorchi (parte anteriore dell'autoarticolato).\nVale 24 ore su 24.\nNon è vero che si trova soltanto sulla rete stradale delle aziende agricole o che è consentito il transito alle macchine agricole durante le fiere.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-alle-macchine-agricole.png",
+    "order": 21
+  },
+  {
+    "title": "Divieto di transito ai veicoli che trasportano merci pericolose",
+    "text": "E' un segnale di divieto. Vieta il transito ai veicoli che trasportano merci pericolose (benzina, materie tossiche o radioattive, acidi corrosivi, etc...).\nIl segnale non si riferisce al carburante (benzina, gasolio, gas metano, GPL) contenuto nel serbatoio del veicolo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-che-trasportano-merci-pericolose.png",
+    "order": 22
+  },
+  {
+    "title": "Divieto di transito ai veicoli che trasportano materiali infiammabili o esplosivi",
+    "text": "E' un segnale di divieto. Vieta il transito ai veicoli che trasportano prodotti esplosivi e/o facilmente infiammabili. Vale anche per i rimorchi.\nIl segnale non si riferisce al carburante (benzina, gasolio, gas metano, GPL) contenuto nel serbatoio del veicolo.\nNon è vero che prescrive di fare attenzione al transito di veicoli che trasportano esplosivo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-che-trasportano-materiali-infiammabili-o-esplosivi.png",
+    "order": 23
+  },
+  {
+    "title": "Divieto di transito ai veicoli che trasportano prodotti che possono contaminare l'acqua",
+    "text": "E' un segnale di divieto. Vieta il transito ai veicoli che trasportano sostanze che possono contaminare l'acqua. Vale anche per i rimorchi.\nQuindi non si riferisce a cisterne vuote o veicoli che trasportano acqua (esempio innaffiatrici stradali).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-che-trasportano-prodotti-che-possono-contaminare-lacqua.png",
+    "order": 24
+  },
+  {
+    "title": "Divieto di transito ai veicoli con larghezza superiore di 2,30 metri",
+    "text": "E' un segnale di divieto. Indica la larghezza massima dei veicoli che possono percorrere la strada.\nIn questo caso vieta il transito a tutti i veicoli (con motore e senza motore) di larghezza superiore a 2,30 m.\nE' posto sulle strade sia urbane che extraurbane; può trovarsi ad esempio prima di una strettoia; vale 24 ore su 24.\nNon è vero che indica la larghezza della strada o della strettoia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-con-larghezza-superiore-di-230-metri.png",
+    "order": 25
+  },
+  {
+    "title": "Divieto di transito ai veicoli con altezza superiore di 3,50 metri",
+    "text": "E' un segnale di divieto. Indica l'altezza massima dei veicoli che possono percorrere la strada.\nIn questo caso vieta il transito a veicoli la cui altezza misurata dal piano stradale supera i 3,50 metri.\nPuò trovarsi sia nei centri abitati che fuori; può trovarsi ad esempio dove la strada passa sotto un ponte (non sopra una ferrovia); vale 24 ore su 24.\nNon è vero che indica l'altezza del passaggio.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-con-altezza-superiore-di-350-metri.png",
+    "order": 26
+  },
+  {
+    "title": "Divieto di transito ai veicoli di lunghezza superiore ai 10 metri",
+    "text": "E' un segnale di divieto. Vieta il transito a tutti i veicoli di lunghezza complessiva superiore quella indicata (in questo caso 10 metri).\nVale anche per complessi di veicoli (esempio un'autovettura che traina un caravan se insieme superano i 10 metri) e per autobus; vale 24 ore su 24.\nIn genere si trova nelle strade di montagna con curve strette (tornanti).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-di-lunghezza-superiore-ai-10-metri.png",
+    "order": 27
+  },
+  {
+    "title": "Divieto di transito ai veicoli con massa superiore a 7,00 T",
+    "text": "E' un segnale di divieto. Vieta il transito a tutti i veicoli aventi una massa effettiva (totale) superiore a quella indicata.\nCon l'integrazione di apposito pannello può vietare il transito contemporaneo di più veicoli indicando il numero massimo dei veicoli che possono transitare contemporaneamente lungo il ponte.\nIn genere è posto prima di un luogo ove ci può essere il pericolo di crollo, come ad esempio un ponte. Vale 24 ore su 24.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-con-massa-superiore-a-700-t.png",
+    "order": 28
+  },
+  {
+    "title": "Divieto di transito ai veicoli con massa per asse superiore a 6,50 T",
+    "text": "E' un segnale di divieto. Vieta il transito a tutti i veicoli aventi sull'asse più caricato una massa effettiva superiore a quella indicata.\nIn genere è posto prima di un luogo ove ci può essere il pericolo di crollo, come ad esempio un ponte. Vale 24 ore su 24.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-transito-ai-veicoli-con-massa-per-asse-superiore-a-650-t.png",
+    "order": 29
+  },
+  {
+    "title": "Via libera",
+    "text": "E' un segnale di fine prescrizione e indica la fine delle prescrizioni precedentemente imposte (divieti o obblighi).\nNon è vero che indica la fine del pericolo precedentemente segnalato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/via-libera.png",
+    "order": 30
+  },
+  {
+    "title": "Divieto di fermata",
+    "text": "E' un segnale di prescrizione (divieto). Vieta la sosta e la fermata o, comunque, qualsiasi volontaria temporanea sospensione della marcia del veicolo (qualsiasi tipo di veicolo, anche autobus o taxi).\nConsente l'arresto in casi di forza maggiore (semaforo rosso, intasamento del traffico, ecc.).\nVale (in assenza di iscrizioni integrative) 24 ore su 24, tutti i giorni, anche nei centri abitati.\nIn caso di non osservanza del divieto è sempre disposta la rimozione forzata del veicolo.\nVieta la sosta e la fermata solo sul lato della strada sul quale è posto.\nSe integrato con il pannello integrativo FINE indica la fine del divieto di fermata e sosta (che vale comunque nel tratto precedente).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-fermata.png",
+    "order": 31
+  },
+  {
+    "title": "Divieto di sosta",
+    "text": "E' un segnale di prescrizione (divieto). Vieta la sosta del veicolo ma consente la fermata.\nFuori dai centri abitati è valido 24 ore su 24; nei centri abitati dalle ore 8 alle ore 20, salvo diversa indicazione.\nPuò essere integrato da pannelli per indicarne l'inizio, il proseguimento o la fine.\nCessa di validità dopo il primo incrocio, se non ripetuto.\nVieta la sosta solo sul lato della strada sul quale è posto.\nSe integrato con il pannello integrativo INIZIO indica l'inizio del divieto di sosta a partire dal tratto successivo al segnale.\nSe integrato con il pannello integrativo CONTINUA indica il divieto di sosta nel tratto precedente e in quello successivo. (Non è vero che indica divieto di sosta permanente)\nSe integrato con il pannello integrativo FINE indica la fine del divieto di sosta (che vale comunque nel tratto precedente).\nSe integrato con il pannello integrativo ECCEZZIONE consente la sosta ai veicoli riportati nel pannello (esempio autobus).\nSe integrato con il pannello integrativo FASCIA ORARIA DEI GIORNI FERIALI vieta la sosta solo nei giorni lavorativi nella fascia oraria indicata.\nSe integrato con il pannello integrativo ZONA RIMOZIONE COATTA indica una zona in cui vige divieto di sosta, con rimozione del veicolo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-sosta.png",
+    "order": 32
+  },
+  {
+    "title": "Divieto di sosta temporaneo",
+    "text": "E' un segnale di divieto. Vieta, nei centri urbani, la sosta in particolari ore per consentire alle macchine operatrici la pulizia della strada. (Vedi divieto di sosta)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/divieto-di-sosta-temporaneo.png",
+    "order": 33
+  },
+  {
+    "title": "Regolazione flessibile della sosta in centro abitato",
+    "text": "E' un segnale di divieto composito, rappresenta una regolazione della sosta. Consente la sosta solo in alcune ore indicate mentre la vieta in altre.\nLa fermata è comunque consentita 24 ore su 24.\nIn questo caso consente la sosta dalle 9 alle 17 e dalle 20 alle 7, mentre la vieta dalle 7 alle 9 e dalle 17 alle 20.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/regolazione-flessibile-della-sosta-in-centro-abitato.png",
+    "order": 34
+  },
+  {
+    "title": "Passo carrabile",
+    "text": "E' un segnale di prescrizione (divieto). Vieta la sosta nel luogo dove è posto. Indica lo sbocco di un passo carrabile, ossia la zona per l'accesso dei veicoli alle proprietà laterali.\nVale 24 ore su 24.\nConsente la fermata purché il veicolo non sia d'intralcio.\nPer essere valido, deve contenere l'indicazione dell'ente che ha concesso l'autorizzazione, il numero e l'anno del rilascio.\nPuò essere posto sia nelle strada urbane che in quelle extraurbane.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/passo-carrabile.png",
+    "order": 35
+  },
+  {
+    "title": "Sosta consentita a particolari categorie",
+    "text": "E' un segnale di prescrizione (divieto), rappresenta un'eccezione al divieto di sosta. Consente la sosta e il parcheggio ad una particolare categoria di veicoli (in questo caso ai veicoli al servizio di persone invalide munite dell’apposito contrassegno) e la vieta a tutti gli altri veicoli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/sosta-consentita-a-particolari-categorie.png",
+    "order": 36
+  },
+  {
+    "title": "Parcheggio",
+    "text": "Indica un parcheggio autorizzato, ossi un'area attrezzata ed organizzata per sostare a tempo indeterminato (24 ore su 24), salvo diversa indicazione.\nPuò essere integrato con un pannello che indica:\n- la distanza\n- la limitazione nel tempo\n- le categorie a cui la sosta è riservata o quelle che sono escluse\n- l'orario e le tariffe\n- la disposizione dei veicoli\nNon è vero che indica un'area di sosta con parchimetro o che può essere integrato con un pannello che indica la superficie disponibile.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/parcheggio.png",
+    "order": 37
+  },
+  {
+    "title": "Preavviso di parcheggio",
+    "text": "Il segnale preannuncia una zona di parcheggio procedendo nel senso della freccia, in questo caso a 300 metri.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/preavviso-di-parcheggio.png",
+    "order": 38
+  }
+]

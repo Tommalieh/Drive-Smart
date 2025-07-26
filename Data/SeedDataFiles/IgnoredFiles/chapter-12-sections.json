@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Tempo di reazione",
+    "text": "Si definisce tempo di reazione, il tempo che intercorre dal momento della percezione di una situazione di pericolo a quando si inizia la frenata.\nIl tempo di reazione è di solito all'incirca di un secondo.\nQuindi lo spazio percorso nel tempo di reazione è quello percorso dal momento della percezione di una situazione di pericolo a quello di inizio della frenata.\nEsso dipende dalla velocità alla quale si marcia. E' possibile calcolare lo spazio percorso nel tempo di reazione (es di un secondo):\n- moltiplicando la velocità per 1000 (i metri in un chilometro) e dividere per 3600 (i secondi in un ora), che equivale a moltiplicare per 10 e dividere per 36.\n- in maniera approssimata si può dividere la velocità per 10 e moltiplicare per 3\nQuindi ad esempio in 1 secondo alla velocità di 50Km/h si percorre:\n- 50x10/36=13.889m con il primo metodo\n- 50/10x3=15m con il secondo metodo (approssimato)",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Spazio di frenata",
+    "text": "E' lo spazio percorso dall'inizio della frenata all'arresto del veicolo. Esso dipende dalla velocità: più è elevata la velocità più aumenta.\nIn particolare l'andamento è tale che:\n- se la velocità raddoppia lo spazio cresce di 4 volte\n- se la velocità triplica lo spazio aumenta di 9 volte\n- se la velocità quadruplica, lo spazio aumenta di 16 volte\ne così via  (cioè se la velocità aumenta di n volte, lo spazio aumenta di n al quadrato volte)\nOltre che dalla velocità lo spazio di frenata dipende:\n- dall'aderenza tra pneumatico e asfalto, aumenta se l'aderenza è bassa (es in presenza di neve, fango, olio, strada bagnata) o se le ruote si bloccano, o se si usano pneumatici usurati\n- dalla pendenza della strada, in particolare aumenta in discesa e diminuisce in salita\nNon è vero che dipende dai riflessi del conducente (essi influenzano solo il tempo di reazione).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 2
+  },
+  {
+    "title": "Spazio totale di arresto",
+    "text": "Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione più quello percorso durante la frenata\nQuindi:\n- aumenta all'aumentare della velocità\n- dipende dai riflessi del conducente\n- aumenta al diminuire dell'aderenza degli pneumatici, e quindi se gli pneumatici sono usurati, se la strada è bagnata, innevata, coperta di fango (diminuisce se l'asfalto è ruvido)\n- aumenta se aumenta la pendenza della strada in discesa",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 3
+  },
+  {
+    "title": "Distanza di sicurezza",
+    "text": "La distanza di sicurezza è la distanza da mantenere rispetto al veicolo che si precede (davanti), per consentire al veicolo di fermarsi in tempo in caso di pericolo, evitando di tamponare il veicolo che si precede.\nNon è un valore fisso, ma quella minima deve essere almeno uguale allo spazio percorso durante il tempo di reazione (quindi ai metri che il veicolo percorre all’incirca in un secondo).\nTale distanza va commisurata:\n- alla velocità del proprio veicolo e a quella del veicolo che lo precede\n- alla prontezza di riflessi e alle condizioni psicofisiche (attenzione, concentrazione, stato di salute, ecc.) del conducente\n- alle condizioni del traffico\n- all’andamento plano-altimetrico della strada (presenza ed entità di salite o di discese)\n- alle condizioni atmosferiche (pioggia, neve, nebbia)\n- al tipo di veicolo che stiamo guidando e al suo stato di efficienza, ad esempio in base allo stato dei freni di servizio (non del freno a mano), alla condizione e all’aderenza degli pneumatici, all’entità del carico trasportato.\nNon dipende dal numero di corsie della strada, dalla sua larghezza, dalle dimensioni del veicolo che precede, dal limite di velocità riportato sul retro del veicolo che ci precede, dalla larghezza del veicolo, dal tipo di alimentazione (benzina, gasolio, GPL), dalla sua cilindrata o potenza,  dalla marcia innestata, dal numero di marce o di ruote, dalla presenza del servosterzo.\nIl valore della distanza di sicurezza da mantenere da una macchina sgombraneve o spanditrice di sale in azione è di 20 metri.\nSu strada extraurbana a una corsia per senso di marcia, la distanza fra veicoli adibiti al trasporto di merci di massa complessiva superiore a 3,5 tonnellate, cui sia stato imposto il divieto di sorpasso, deve essere di almeno 100 metri.\nNon esistono specifiche indicazioni sul valore della distanza di sicurezza minima da mantenere nelle forti discese, in caso di maltempo (forte pioggia, nevicata), se si percorre la corsia d’emergenza o su strade extraurbane.\nVa sempre mantenuta, anche prima di iniziare un sorpasso o se si procede a bassa velocità.\nVa aumentata quando si marcia in colonna, qualora sia difficile valutare il comportamento del conducente del veicolo precede o quando esso trasporta un carico sporgente, poco stabile.\nNon è vero che:\n- il conducente ha l'obbligo di controllare che il veicolo che lo segue rispetti la distanza di sicurezza\n- deve essere almeno pari a quello della distanza di visibilità o uguale allo spazio di frenata\n- deve essere di almeno 100 metri, in caso di forte pioggia\n- può diminuire nelle gallerie\n- se il veicolo che precede è un autocarro, si deve diminuire\n- in autostrada è possibile diminuirla\nPer il calcolo della distanza di sicurezza minima, ricordare che essa è pari allo spazio di reazione.\nQuindi in base a come abbiamo spiegato si effettua il calcolo dello spazio di reazione(vedi prima) avremo:\n- 9 m a 30 km/h ( 30x10/36 = 8.33 arrotondato per eccesso = 9)\n- 14 m a 50 km/h\n- 28 m a 100 km/h\n- 36 m a 130 km/h\n- 42 m a 150 km/h",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 4
+  },
+  {
+    "title": "Distrazione del conducente",
+    "text": "La distrazione del conducente è un pericolo e può essere causa di incidenti (anche se si limita a pochi secondi). Può essere causata da accensione e utilizzo del cellulare, accensione di una sigaretta, dalla ricerca di comandi della radio o di altri apparecchi elettronici.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 5
+  }
+]

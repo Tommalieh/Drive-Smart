@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Gli apparecchi e i dispositivi che funzionano a corrente elettrica (radio, luci, lunotto termico, ecc.) fanno aumentare i consumi di carburante del veicolo",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Mantenendo il più possibile costante la velocità, si riduce il consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il consumo di carburante aumenta con l’aumentare del peso del veicolo",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Diminuendo opportunamente la velocità diminuisce il consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Per consumare meno carburante è opportuno tenere i finestrini chiusi, specie quando si viaggia ad alta velocità",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Per consumare meno carburante conviene scegliere, per quanto possibile, strade pianeggianti e più scorrevoli",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "L'insufficiente pressione di gonfiaggio degli pneumatici comporta un maggior consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Collocare i bagagli sul tetto del veicolo comporta un maggior consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": true
+  },
+  {
+    "question": "Tenere aperto il tettuccio scorrevole del veicolo comporta un minor consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": false
+  },
+  {
+    "question": "L'uso del climatizzatore comporta minor consumo di carburante",
+    "group": "consumi di carburante",
+    "correctAnswer": false
+  }
+]

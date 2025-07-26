@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Pannelli integrativi",
+    "text": "Sono particolari segnali stradali verticali che posti sotto un segnale lo completano con ulteriori informazioni.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Distanza",
+    "text": "Indica la distanza (in metri o chilometri) tra il segnale sotto cui è posto ed il punto di inizio del pericolo, della prescrizione (divieto, obbligo o precedenza) o dell’indicazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/distanza.png",
+    "order": 2
+  },
+  {
+    "title": "Estesa",
+    "text": "Indica la lunghezza (in metri o chilometri) del tratto di pericolo o di prescrizione (divieto o obbligo).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/estesa.png",
+    "order": 3
+  },
+  {
+    "title": "Fasce orarie di tutti i giorni",
+    "text": "Indica, sia nei giorni festivi che in quelli lavorativi (feriali), le ore durante le quali vale la prescrizione imposta dal segnale sotto cui il pannello è applicato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fasce-orarie-di-tutti-i-giorni.png",
+    "order": 4
+  },
+  {
+    "title": "Fasce orarie dei giorni festivi",
+    "text": "Indica, che la prescrizione imposta dal segnale sotto cui il pannello è applicato è valida nei giorni festivi e nelle ore indicate.\nPer giorno festivo non si intende solo la domenica.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fasce-orarie-dei-giorni-festivi.png",
+    "order": 5
+  },
+  {
+    "title": "Fasce orarie dei giorni lavorativi",
+    "text": "Indica, che la prescrizione imposta dal segnale sotto cui il pannello è applicato è valida nei giorni lavorativi (feriali) e nelle ore indicate.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fasce-orarie-dei-giorni-lavorativi.png",
+    "order": 6
+  },
+  {
+    "title": "Limitazione",
+    "text": "Indica che il segnale di obbligo o di divieto al quale è abbinato vale solo per i veicoli rappresentati.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/limitazione.png",
+    "order": 7
+  },
+  {
+    "title": "Eccezione",
+    "text": "Indica che il segnale di obbligo o di divieto al quale è abbinato vale per tutti i veicoli tranne quelli rappresentati.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/eccezione.png",
+    "order": 8
+  },
+  {
+    "title": "Inizio",
+    "text": "Indica il punto di inizio del pericolo, della prescrizione (divieto, obbligo o precedenza) dell’indicazione imposta dal segnale a cui è abbinato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/inizio.png",
+    "order": 9
+  },
+  {
+    "title": "Continuazione",
+    "text": "Indica che il pericolo, la prescrizione (divieto, obbligo o precedenza) o l’indicazione imposta dal segnale a cui è abbinato continuano a valere sia prima che dopo il segnale stesso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/continuazione.png",
+    "order": 10
+  },
+  {
+    "title": "Fine",
+    "text": "Indica il punto di fine del pericolo, della prescrizione (divieto, obbligo o precedenza) o dell’indicazione imposta dal segnale a cui è abbinato.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/fine.png",
+    "order": 11
+  },
+  {
+    "title": "Corsia",
+    "text": "Posto in alto sulla carreggiata insieme ad un segnale, specifica a quale corsia si riferisce il segnale, ad esempio se posto insieme ad un segnale indicante una località, segnala la corsia da prendere per raggiungere detta località. Indica che il segnale a cui è abbinato vale solo per la corsia indicata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/corsia.png",
+    "order": 12
+  },
+  {
+    "title": "Segni orizzontali in rifacimento",
+    "text": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' e indica possibili lavori di rifacimento della segnaletica orizzontale.\nPuò quindi indicare una temporanea mancanza di segnaletica orizzontale e la presenza di cantieri temporanei di rifacimento della segnaletica orizzontale.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segni-orizzontali-in-rifacimento.png",
+    "order": 13
+  },
+  {
+    "title": "Incidente",
+    "text": "Tale pannello viene posto sotto il segnale 'ALTRI PERICOLI' e indica la presenza di un incidente e quindi di veicoli incidentati sulla carreggiata.\nPertanto è opportuno moderare la velocità e, ove possibile, scegliere un percorso alternativo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/incidente.png",
+    "order": 14
+  },
+  {
+    "title": "Attraversamento binari",
+    "text": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' e indica la presenza di un attraversamento di binari ferroviari.\nInvita a moderare la velocità e prestare particolare attenzione.\nPuò trovarsi dove il veicolo su binari passa raramente, quindi nella vicinanza di raccordi portuali, scali merci o stabilimenti industriali.\nNon è vero che indica la presenza di un passaggio a livello.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-binari.png",
+    "order": 15
+  },
+  {
+    "title": "Sgombraneve in azione",
+    "text": "Tale pannello viene applicato al segnale 'ALTRI PERICOLI' e indica la presenza di macchine sgombraneve a lavoro sulla strada (in genere posto su strade innevate).\nInvita a moderare la velocità e a mantenere una distanza di almeno 20 metri dalle macchine sgombraneve in funzione.\nNon è vero che indica l'obbligo di montare le catene o che la strada è percorribile solo dopo che è passato lo sgombraneve.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/sgombraneve-in-azione.png",
+    "order": 16
+  },
+  {
+    "title": "Mezzi di lavoro in azione",
+    "text": "Indica la presenza di cantieri stradali con la possibilità che vi siano macchine operatrici (escavatori, pale meccaniche, etc) in azione sulla strada.\nInvita a moderare la velocità e prestare particolare attenzione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/mezzi-di-lavoro-in-azione.png",
+    "order": 17
+  },
+  {
+    "title": "Zona soggetta ad allagamento",
+    "text": "Indica che il tratto di strada su cui è posto può essere soggetto ad allagamenti a causa di forte pioggia o mareggiate.\nPuò essere collocato anche sotto il segnale \"Cunetta\".",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/zona-soggetta-ad-allagamento.png",
+    "order": 18
+  },
+  {
+    "title": "Coda",
+    "text": "Indica la possibilità di trovare traffico intenso, con formazione di colonne di veicoli.\nInvita ad usare prudenza, per non tamponare veicoli fermi per intasamento del traffico, consiglia, ove possibile, di scegliere un percorso alternativo evitando così la coda.\nSi può trovare ad esempio all'ingresso delle autostrade.\nNon è vero che obbliga i veicoli a circolare a passo d’uomo.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/coda.png",
+    "order": 19
+  },
+  {
+    "title": "Strada sdrucciolevole per ghiaccio",
+    "text": "Indica la possibilità di trovare tratti di strada ghiacciati in caso di bassa temperatura, o su strade già coperte di neve.\nPosto sotto il segnale 'STRADA SDRUCCIOLEVOLE' indica un tratto di strada sdrucciolevole per la formazione di ghiaccio in caso di abbassamento della temperatura.\nInvita a moderare la velocità e prestare particolare attenzione.\nNon è vero che indica una zona dove nevica spesso",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-sdrucciolevole-per-ghiaccio.png",
+    "order": 20
+  },
+  {
+    "title": "Strada sdrucciolevole per pioggia",
+    "text": "Indica un tratto di strada pericoloso in caso di pioggia perché sdrucciolevole per la presenza di fango o detriti.\nInvita, in caso di pioggia, a moderare la velocità ad aumentare la distanza di sicurezza.\nNon è vero che indica una zona dove piove spesso.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strada-sdrucciolevole-per-pioggia.png",
+    "order": 21
+  },
+  {
+    "title": "Autocarri in rallentamento",
+    "text": "Indica un tratto di strada in salita con probabile presenza di autocarri che marciano a bassa velocità a causa della ripida salita che costringe loro di rallentare.\nIndica di circolare ad una velocità prudenziale, per evitare incidenti con gli autocarri che potrebbero stare davanti.\nNon è vero che segnala la possibilità di poter essere trainati.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/autocarri-in-rallentamento.png",
+    "order": 22
+  },
+  {
+    "title": "Zona di rimozione coatta",
+    "text": "Viene applicato al segnale 'DIVIETO DI SOSTA' e indica che il veicolo lasciato in sosta può essere portato in una depositeria comunale dal carro-attrezzi o bloccato con attrezzo a chiave (ganascia con catenaccio).\nI veicoli al servizio di persone diversamente abili, muniti di apposito contrassegno, non possono essere portati via, né bloccati.\nNon è vero che il veicolo viene rimosso o bloccato dopo tre ore.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/zona-di-rimozione-coatta.png",
+    "order": 23
+  },
+  {
+    "title": "Tornante",
+    "text": "Indica la vicinanza di una o più curve strette (tornanti), particolarmente pericolose per l'assenza di visibilità.\nNe può indicare il numero. Se il numero non è specificato possono essere uno o più di uno.\nSi può trovare sotto il segnale di CURVA o DOPPIA CURVA.\nDa non confondere con il segnale complementare 'NUMERO DEL TORNANTE' (figura 144) che indica il numero progressivo del tornante. Quest'ultimo si trova nel capitolo relativo ai segnali complementari.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/tornante.png",
+    "order": 24
+  },
+  {
+    "title": "Pulizia meccanica della strada",
+    "text": "E' posto sotto il segnale 'DIVIETO DI SOSTA' e indica il giorno e le fasce orarie in cui vengono effettuate le pulizie della strada, limitando il divieto ai giorni e alle ore indicate.\nNon è vero che il pannello indica un divieto di sosta per i mezzi di pulizia.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/pulizia-meccanica-della-strada.png",
+    "order": 25
+  },
+  {
+    "title": "Andamento della strada principale",
+    "text": "Sono posti sotto i segnali di diritto di precedenza. In vicinanza di una intersezione (incrocio), indicano l’andamento (lo schema) della strada principale (riga più larga) distinguendola da quelle secondarie.\nNon possono essere posti in autostrada in quanto l'autostrada non prevede incroci a raso.\nNon è vero che indicano delle curve pericolose o sottopassaggi o strade senza uscita o che le strade che si incrociano sono momentaneamente interrotte.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/andamento-della-strada-principale.png",
+    "order": 26
+  }
+]

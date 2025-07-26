@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il segnale raffigurato è di conferma autostradale",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato riporta le località con le relative distanze in chilometri",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato se di colore blu, si trova su strade extraurbane",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato è posto su un'autostrada",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica che mancano 180 chilometri per Firenze",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica in autostrada la distanza delle località raggiungibili",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica che uscendo dal primo casello autostradale è possibile raggiungere tutte le località indicate",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica che per raggiungere Milano bisogna percorrere l'autostrada n. 472",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica che mancano 180 chilometri per l'area di servizio di Firenze",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  },
+  {
+    "question": "Il segnale raffigurato indica, per ogni località, il numero della strada da percorrere",
+    "group": "segnale di conferma autostradale",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/184.png"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Norme di precedenza negli incroci",
+    "text": "Gli “incroci” sono uno degli argomenti più importanti da conoscere per poter guidare in sicurezza. Gli incroci infatti presentano diverse insidie: in assenza di stop, semafori e segnali, quale veicolo ha la precedenza? Tutti i veicoli hanno lo stesso tipo di precedenza? Chi passa per primo?\r\nBene, in questa sezione vedremo ogni singola tipologia di incrocio e ogni situazione possibile e immaginabile.\r\n\r\nCi sono delle regole base da seguire quando si approccia un incrocio, indipendentemente dal veicolo che si guida e dal tipo di incrocio:\r\n\r\nEssere prudenti e moderare la velocità\r\nOsservare le norme di precedenza e spostarsi sulla corsia destinata alla direzione che intendono prendere\r\nSegnalare l'intenzione di svoltare con gli indicatori di direzione\r\nNon impegnare un incrocio o creare intralcio se non si ha la possibilità di proseguire e sgombrare l'area di manovra\r\nLasciare liberi gli sbocchi delle strade laterali nel caso di arresto di lunghe file di veicoli\r\nLa regola d’oro: si dà la precedenza a destra\r\nPer stabilire l'ordine di precedenza agli incroci la regola generale - fondamentale - è: la precedenza ce l’ha chi proviene da destra.\r\n\r\nNello specifico, quando due veicoli stanno per impegnare un incrocio e le loro traiettorie stanno per intersecarsi (incrociarsi), si ha l'obbligo di dare la precedenza a chi proviene da destra, salvo diversa segnalazione. Quindi a meno che non ci sia un segnale stradale, in vigile, o un’altra segnalazione, la precedenza si da a chi proviene da destra.\r\n\r\nSi ha l'obbligo di dare la PRECEDENZA a DESTRA:\r\n- negli incroci privi di segnalazioni\r\n- in presenza del segnale \"INTERSEZIONE CON PRECEDENZA A DESTRA\"\r\n\r\nSi ha l'obbligo di dare la precedenza a destra e a sinistra:\r\n- in presenza del segnale DARE PRECEDENZA\r\n- in presenza del segnale FERMARSI E DARE PRECEDENZA\r\n- ai veicoli circolanti su rotaie (tram, treni), salvo diversa segnalazione\r\n- ai veicoli in emergenza (ambulanze, polizia) con dispositivo in allarme (sirena) in funzione, se necessario fermarsi;\r\n- uscendo da sentieri, mulattiere o da parcheggi e passo carrabile\r\n- quando si effettua la retromarcia o l’inversione del senso di marcia\r\n- quando da fermi ci si immette nel flusso della circolazione\r\n",
+    "order": 1
+  },
+  {
+    "title": "Ordine di precedenza T - (A) - O - M - A completa la svolta",
+    "text": "Il tram T passa per primo poiché ha la precedenza rispetto agli altri veicoli.\r\nIl veicolo O deve attendere che A si porti al centro dell’incrocio prima di poter passare. Nel momento in cui A raggiunge il centro dell’incrocio si deve fermare per poter dare la precedenza a M che a questo punto si trova alla sua destra.\r\nIl veicolo M può passare solo dopo che il veicolo O ha superato l’incrocio (O si trova alla destra di M ed ha perciò precedenza).\r\nIl veicolo A sarà quindi l’ultimo a liberare l’incrocio.\r\nTutti i veicoli devono prestare attenzione e usare prudenza nell’attraversare l’incrocio.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/642.png",
+    "order": 2
+  },
+  {
+    "title": "Ordine di precedenza B - H - C",
+    "text": "Il veicolo L passa per primo poiché ha la destra libera.\r\nSuccessivamente possono passare contemporaneamente sia il veicolo A che il veicolo C poiché le loro traiettorie non si incrociano ed una volta passato L la loro destra è libera.\r\nIl veicolo D non può passare contemporaneamente a L poiché deve dare la precedenza sia ad A che a C (entrambi alla sua destra).\r\nInfine passa il veicolo D.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/637.png",
+    "order": 3
+  },
+  {
+    "title": "Ordine di precedenza R - A - C",
+    "text": "Il veicolo H, svoltando subito a destra non deve dare precedenza ad altri veicoli e passa quindi per primo.\r\nSubito dopo può passare D che a questo punto ha la destra libera. L tuttavia non può passare insieme a D poiché deve dare la precedenza a B che passa per terzo. L passa quindi per ultimo.\r\nGirare a sinistra non modifica il diritto di precedenza. Infatti B ha la precedenza su L.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/643.png",
+    "order": 4
+  },
+  {
+    "title": "Ordine di precedenza L - C - H",
+    "text": "Il veicolo B sebbene sia il primo che può impegnare l’incrocio, poiché non ha nessuno alla sua destra, è poi costretto a fermarsi al centro di esso per dare la precedenza al veicolo N situato a questo punto alla sua destra.\r\nIl veicolo R dopo aver atteso il passaggio del veicolo B, fermo a questo punto nel centro dell’incrocio, può passare e liberare per primo lo stesso.\r\nIl veicolo R dopo aver atteso il passaggio del veicolo B, fermo a questo punto nel centro dell’incrocio, può passare e liberare per primo lo stesso.\r\nUna volta passato R sia il veicolo D che N possono passare.\r\nInfine, B che era stato il primo ad occupare l’incrocio è l’ultimo ad uscirne.\r\nIl veicolo D non deve dare la precedenza al veicolo B (o viceversa) poiché le loro traiettorie non si incrociano. D deve invece dare la precedenza ad R.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/638.png",
+    "order": 5
+  },
+  {
+    "title": "Ordine di precedenza A - E - B",
+    "text": "Il veicolo C può passare per primo perché, sebbene girando a sinistra avrebbe la destra occupata da P, le loro traiettorie non si incrociano.\r\nIl veicolo P dal canto suo non può passare insieme a C poiché nel momento della svolta ha la destra occupata dal veicolo A a cui deve dare quindi precedenza. Il veicolo A passa pertanto per secondo dopo aver dato precedenza a C ed aver ricevuto la precedenza da P, che passerà per ultimo. ",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/667.png",
+    "order": 6
+  },
+  {
+    "title": "Ordine di precedenza R - A - C",
+    "text": "Il veicolo S, avendo la destra libera, passa per primo.\r\nIl veicolo C deve dare la precedenza ad N, situato alla sua destra. N passa quindi per secondo, dopo aver dato la precedenza ad S, ed infine il veicolo C.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/668.png",
+    "order": 7
+  },
+  {
+    "title": "Ordine di precedenza R - D - B",
+    "text": "Il tram T ha la precedenza sugli altri veicoli e passa per primo.\r\nSuccessivamente possono passare contemporaneamente i veicoli L ed A poiché entrambi hanno la destra libera e le loro traiettorie non si incrociano.\r\nIl veicolo C passa per ultimo poiché girando a sinistra ha la destra occupata da L.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/610.png",
+    "order": 8
+  },
+  {
+    "title": "Ordine di precedenza D - P - B - N",
+    "text": "La difficoltà di questo esempio sta tutta nel capire quale veicolo passa per primo.\r\nIl veicolo C nella sua svolta a sinistra, pur avendo la destra occupata prima da E poi da R ed infine da L, può transitare per primo poiché non incrocia nessuna delle loro traiettorie.\r\nSubito dopo C, può passare il veicolo A che gli aveva dato la precedenza ricevendo, invece, la precedenza di L che passa quindi per terzo.\r\nInfine possono passare prima R e poi E. Il veicolo R riceve la precedenza di E poiché situato alla sua destra.\r\nIl veicolo R non può passare contemporaneamente a C, poiché deve dare la precedenza a L.\r\nStesso discorso vale per L che deve dare la precedenza ad A e per E che deve dare la precedenza a R.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/669.png",
+    "order": 9
+  },
+  {
+    "title": "Ordine di precedenza D - C - A - H",
+    "text": "Questo è l'esempio più complesso della serie vista su questa tipologia di incrocio. Infatti in questo caso in ogni diramazione dell’incrocio è presente un veicolo.\r\nIn realtà, se si è capito gli esempi precedenti, anche in questo caso la soluzione si può trovare facilmente.\r\nCome sempre la prima cosa da fare è individuare il veicolo che passa per primo. Questa volta il veicolo E non può passare per primo poiché ha la destra occupata dal veicolo A.\r\nIl veicolo A, pur avendo la destra occupata inizialmente da C e successivamente, durante la sua svolta verso sinistra, dai veicoli H e V, non incrocia le loro traiettorie e può pertanto passare per primo.\r\nDopo che A ha liberato l’incrocio, il veicolo E può passare per secondo. Quindi il veicolo V che riceve la precedenza da H che passa subito dopo di lui ed infine, per ultimo, il veicolo C.\r\nI veicoli A, V e C, sebbene con traiettorie non intersecanti, non possono passare contemporaneamente poiché il veicolo V deve dare la precedenza al veicolo E ed il veicolo C deve dare la precedenza al veicolo H.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/665.png",
+    "order": 10
+  },
+  {
+    "title": "Ordine di precedenza L - A e C - D",
+    "text": "Il veicolo B nonostante debba girare subito a destra deve dare la precedenza anche alla sua sinistra poiché si trova in presenza del segnale di precedenza. Anche O si trova nella stessa situazione e quindi deve anche lui dare la precedenza al veicolo alla sua sinistra.\r\nPertanto possono passare per primi e contemporaneamente sia il veicolo H che L.\r\nPoi può passare B ed infine O che deve dare la precedenza anche al veicolo B.\r\nInfatti quest’ultimo si trova alla destra di O nel momento della svolta a sinistra.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/647.png",
+    "order": 11
+  },
+  {
+    "title": "Ordine di precedenza H - D - B - L",
+    "text": "I veicoli E ed R trovandosi in presenza del segnale di precedenza devono dare la precedenza sia a destra che a sinistra e lasciare quindi passare S ed A.\r\nIn particolare S transita per primo poiché A gli da la precedenza: S si trova alla destra di A, nel momento della svolta a sinistra di quest’ultimo.\r\nA passa quindi per secondo.\r\nDiscorso simile tra E ed R, dove in questo caso è R che deve girare a sinistra e trovandosi alla sua destra il veicolo E deve dargli la precedenza. R passa per ultimo, dopo aver lasciato passare E per terzo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/655.png",
+    "order": 12
+  },
+  {
+    "title": "Ordine di precedenza (B) - R - N e D insieme - B termina la svolta",
+    "text": "L’autobus B non deve dare la precedenza a nessun altro veicolo poiché ha la sua destra libera.\r\nL’autobus H passa per secondo dopo aver dato la precedenza a B poiché si trova alla destra del veicolo C che gli da quindi la precedenza.\r\nC nonostante debba proseguire dritto passa per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/608.png",
+    "order": 13
+  },
+  {
+    "title": "Ordine di precedenza C - A - P",
+    "text": "I veicoli A ed H, trovandosi in presenza del segnale di dare la precedenza devono attendere il passaggio di C ed R.\r\nIn particolare R deve dare la precedenza a al veicolo C, poiché alla sua destra nel momento della svolta a sinistra. Il veicolo C può quindi passare per primo ed R per secondo.\r\nSubito dopo passa A che riceve la precedenza di H (A si trova alla destra di H). Il veicolo H passa quindi per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/654.png",
+    "order": 14
+  },
+  {
+    "title": "Ordine di precedenza S - N - C",
+    "text": "Il tram T ha la precedenza sugli altri veicoli e passa per primo.\r\nIl veicolo A non può passare insieme a T poiché ha la destra occupata da O e deve quindi dargli la precedenza.\r\nIl secondo a passare è quindi O ed infine A.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/613.png",
+    "order": 15
+  },
+  {
+    "title": "Ordine di precedenza T - L ed A insieme - C",
+    "text": "Il tram T passa per primo poiché ha la precedenza sugli altri veicoli.\r\nSuccessivamente passa il veicolo G poiché il veicolo P alla sua destra si trova in presenza del segnale di dare la precedenza (deve dare quindi la precedenza sia a destra che a sinistra).\r\nB passa per ultimo perché nel momento della svolta a sinistra ha la destra occupata da P che quindi passa per terzo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/648.png",
+    "order": 16
+  },
+  {
+    "title": "Ordine di precedenza C - A - L - R - E",
+    "text": "Il veicolo L passa per primo poiché gira subito a destra e la sua traiettoria non si incrocia con quella del filobus R.\r\nIl veicolo E non ha l’obbligo di dare la precedenza al filobus R e passa quindi per secondo dopo aver dato la precedenza a L.\r\nPer terzo può passare l’autocarro N che, dopo aver dato la precedenza al veicolo E, ha la destra libera. Riceve la precedenza del filobus R.\r\nIl veicolo R (filobus) non ha la precedenza sugli altri veicoli.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/650.png",
+    "order": 17
+  },
+  {
+    "title": "Ordine di precedenza A - E - V - H - C",
+    "text": "Il veicolo H girando subito a destra non deve dare la precedenza ad altri veicoli e può passare per primo.\r\nSuccessivamente può passare il veicolo A che dopo aver dato la precedenza ad H ha la destra libera.\r\nIl veicolo L deve dare la precedenza all’autobus F, situato alla sua destra e passerà quindi per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/652.png",
+    "order": 18
+  },
+  {
+    "title": "Ordine di precedenza H ed L insieme - B - O",
+    "text": "Ordine uscita: R, A, N\r\nIl veicolo N, avendo inizialmente la destra libera, impegna prima di tutti l’incrocio, tuttavia è costretto a fermarsi al centro dello stesso per dare la precedenza al veicolo A, che a questo punto si trova alla sua destra.\r\nIl veicolo R dopo aver lasciato passare N (che si trovava alla sua destra) passa e libera per primo l’incrocio (conclude per primo l’attraversamento) senza fermarsi.\r\nMentre R libera l’incrocio N sta ancora attendendo A, che quindi passa e libera l’incrocio subito dopo R. Infine N può concludere la sua manovra dopo che anche A è passato.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/617.png",
+    "order": 19
+  },
+  {
+    "title": "Ordine di precedenza S - A - E - R",
+    "text": "Il tram T ed il veicolo B passano contemporaneamente per primi. Questo poiché il tram ha la precedenza sugli altri veicoli e B ha la destra libera (riceve la precedenza di A).\r\nA passerà per terzo subito dopo il transito di T e B. Il veicolo C non può passare insieme a T e B perchè deve dare la precedenza al veicolo A.\r\nC passerà quindi per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/639.png",
+    "order": 20
+  },
+  {
+    "title": "Ordine di precedenza C - R - A - H",
+    "text": "Il veicolo D, avendo la destra libera, può passare per primo.\r\nIl veicolo A, sebbene la sua traiettoria non incrocia quella di D, ha la destra occupata e non può quindi attraversare l’incrocio insieme al veicolo D. A deve quindi attendere il passaggio di E ed S che possono passare insieme. A, dopo aver atteso e dato la precedenza a tutti i veicoli potrà infine passare per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/651.png",
+    "order": 21
+  },
+  {
+    "title": "Ordine di precedenza T - O - A",
+    "text": "Il veicolo R passa per primo poiché ha la destra libera.\r\nIl veicolo T girando a sinistra ha la sua destra occupata dal veicolo A che dopo aver dato la precedenza ad R (poichè R è alla destra di A) passa per secondo. T passa quindi per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/614.png",
+    "order": 22
+  },
+  {
+    "title": "Ordine di precedenza T - G - P - B",
+    "text": "Nella figura l'ordine in cui passano le auto è: prima R-A-C. Come mai? È questione di \"destra libera\" e della traiettoria che i veicoli intendono fare.\r\nR ha la destra libera, e quindi passa per primo. Di conseguenza è A a trovarsi con la destra libera, e quindi passa per secondo. Infine transita il veicolo C.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/615.png",
+    "order": 23
+  },
+  {
+    "title": "Ordine di precedenza L - E - N - R",
+    "text": "Il veicolo L passa per primo poiché ha la destra libera.\r\nIl veicolo C passa per secondo subito dopo aver dato la precedenza al veicolo L (che si trovava alla sua destra) e prima del veicolo H (che passa per ultimo) poiché C si trova alla destra di H.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/618.png",
+    "order": 24
+  },
+  {
+    "title": "Ordine di precedenza H - A - F - L",
+    "text": "Il veicolo A può passare per primo poiché, sebbene girando a sinistra ha il veicolo B situato alla sua destra le loro traiettorie non si incrociano.\r\nIl veicolo B dal canto suo non può passare insieme al veicolo A poiché deve dare la precedenza ad E, situato alla sua destra.\r\nE passa quindi per secondo, subito dopo aver dato la precedenza ad A.\r\nIl veicolo B passa per ultimo.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/662.png",
+    "order": 25
+  },
+  {
+    "title": "Ordine di precedenza (N) - R - A - N termina la svolta",
+    "text": "Il veicolo R ha la destra libera, quindi non deve dare la precedenza ad alcun veicolo e può passare per primo.\r\nSubito dopo passa il veicolo A che dopo aver dato la precedenza ad R passa per secondo.\r\nInfine passa il veicolo C che a questo punto, dopo aver dato la precedenza a tutti, ha l’incrocio libero.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/659.png",
+    "order": 26
+  },
+  {
+    "title": "Ordine di precedenza R - A - T",
+    "text": "Il veicolo R, avendo la destra libera, non deve dare la precedenza ad alcun veicolo e può passare per primo.\r\nSubito dopo il veicolo R può passare il veicolo D ed infine il veicolo B che deve dare la precedenza a D poiché situato alla sua destra.\r\nIl veicolo L ha già superato l’incrocio, può quindi non essere considerato.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/640.png",
+    "order": 27
+  },
+  {
+    "title": "Ordine di precedenza D - E ed S insieme - A",
+    "text": "Il veicolo D svoltando alla prima strada a destra ha la sua destra libera e quindi può passare per primo.\r\nSuccessivamente passa il veicolo P che ha atteso il passaggio di D e si trova quindi ora la destra libera.\r\nIl veicolo B non poteva passare contemporaneamente a D poiché doveva dare la precedenza a P che si trovava alla sua destra. Passa quindi per terzo.\r\nInfine può passare il veicolo N, che non poteva passare insieme al veicolo P poiché doveva dare la precedenza a B.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/632.png",
+    "order": 28
+  },
+  {
+    "title": "Ordine di precedenza T e B insieme - A - C",
+    "text": "Il veicolo D dovendo girare subito a destra non deve dare la precedenza a nessuno e passa quindi per primo.\r\nSubito dopo può passare il veicolo C che a questo punto ha la destra libera. Il veicolo H non può passare insieme a C poiché ha la destra occupata dal veicolo A e deve quindi dargli la precedenza. A passa quindi per terzo ed infine, per ultimo, può passare H.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/646.png",
+    "order": 29
+  },
+  {
+    "title": "Ordine di precedenza S - B - L - D",
+    "text": "Il veicolo R ha la destra libera e passa quindi per primo.\r\nSubito dopo il veicolo B che dopo aver dato la precedenza a R passa per secondo.\r\nPer ultimo passa il veicolo T che deve dare la precedenza a D, situato alla sua destra, che passa quindi per terzo subito dopo il veicolo B.",
+    "imageUrl": "https://quizpatentelng.s3.eu-central-1.amazonaws.com/imgquiz/663.jpg",
+    "order": 30
+  },
+  {
+    "title": "Ordine di precedenza R - D - F",
+    "text": "Il veicolo S, con la destra libera, passa per primo.\r\nD sebbene con una traiettoria che non incrocia quella di S, non può passare contemporaneamente a quest’ultimo poiché deve dare la precedenza ad L che a sua volta la deve dare a al veicolo B.\r\nB passa quindi per secondo, L per terzo ed infine può passare il veicolo D.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/664.png",
+    "order": 31
+  },
+  {
+    "title": "Ordine di precedenza R - B - D - T",
+    "text": "Il veicolo R avendo la destra libera passa per primo.\r\nSuccessivamente può passare l’autocarro D che dopo aver dato la precedenza ad R si ritrova la destra libera.\r\nInfine passa il filobus F che aveva la destra occupata da D e quindi doveva dargli la precedenza.\r\nIl filobus, sebbene vincolato alla linea elettrica aerea non ha il diritto di passaggio.\r\nBisogna sempre moderare la velocità avvicinandosi all'incrocio.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/631.png",
+    "order": 32
+  },
+  {
+    "title": "Ordine di precedenza N - A - R",
+    "text": "Il veicolo A sebbene abbia la destra libera deve attendere il passaggio del veicolo N poiché si trova in presenza del segnale dare la precedenza, deve quindi dare la precedenza anche ai veicoli provenienti dalla sua sinistra.\r\nQuindi il veicolo N passa per primo. Successivamente passa A poiché occupa la destra di R nel momento della svolta a sinistra di quest’ultimo. Infine può passare R.\r\nI veicoli A ed R devono, se necessario, fermarsi.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/617.png",
+    "order": 33
+  },
+  {
+    "title": "Ordine di precedenza T - P - M",
+    "text": "Il tram T ha precedenza sugli altri veicoli di conseguenza passa per primo.\r\nL’autobus M, girando a sinistra ha la destra occupata da P a cui deve dare quindi la precedenza. P passa quindi per secondo dopo il tram ed infine passa l’autobus M.\r\nTutto ciò rimane valido anche se M dovesse svolgere servizio pubblico di linea.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/607.png",
+    "order": 34
+  },
+  {
+    "title": "Ordine di precedenza R - D - A",
+    "text": "Il veicolo R passa per primo poiché svolta a destra ed ha la destra libera (svolta nella prima strada alla sua destra).\r\nIl veicolo A, svoltando leggermente a sinistra ha la destra occupata e deve quindi dare la precedenza al veicolo eccezionale D che quindi passa per secondo (dopo aver dato la precedenza ad R che si trova alla sua destra). ",
+    "imageUrl": "https://quizpatentelng.s3.eu-central-1.amazonaws.com/imgquiz/604.jpg",
+    "order": 35
+  },
+  {
+    "title": "Ordine di precedenza T - A - S",
+    "text": "Il tram T ha la precedenza sugli altri veicoli e passa quindi per primo.\r\nSubito dopo il tram passa il veicolo A che ha la destra libera, mentre S deve attendere il passaggio di A poiché A si trova alla sua destra nel momento della svolta. S passa quindi per ultimo.\r\nA ed S non possono passare contemporaneamente poiché le loro traiettorie si incrociano.",
+    "imageUrl": "https://www.patentati.it/img_sign_1280/636.png",
+    "order": 36
+  }
+]

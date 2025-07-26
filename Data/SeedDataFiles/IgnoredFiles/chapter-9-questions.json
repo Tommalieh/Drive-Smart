@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il pannello raffigurato indica la vicinanza di una curva stretta",
+    "group": "numero del tornante",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica il numero progressivo di una curva pericolosa",
+    "group": "numero del tornante",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica il primo di una serie di tornanti (curve a raggio ridotto)",
+    "group": "numero del tornante",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato, in una serie di tornanti, ne indica il numero progressivo",
+    "group": "numero del tornante",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica una zona a circolazione rotatoria",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica che fra un chilometro troveremo un tornante",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica i chilometri da fare per poter tornare indietro",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica il numero di incroci superati",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica a quanti chilometri di distanza si trova il prossimo tornante",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  },
+  {
+    "question": "Il pannello raffigurato indica il numero del cavalcavia",
+    "group": "numero del tornante",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/144.png"
+  }
+]

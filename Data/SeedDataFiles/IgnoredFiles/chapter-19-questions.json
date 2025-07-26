@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento",
+    "group": "uso cintura sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "Se non si allaccia la cintura di sicurezza, in caso d'improvvisa frenata si può essere proiettati contro il parabrezza",
+    "group": "uso cintura sicurezza",
+    "correctAnswer": true
+  },
+  {
+    "question": "Se il veicolo è dotato di airbag frontali e laterali, si può fare a meno di allacciare la cintura di sicurezza",
+    "group": "uso cintura sicurezza",
+    "correctAnswer": false
+  },
+  {
+    "question": "Le cinture di sicurezza vanno agganciate solo se si circola a velocità uguale o superiore a 30 km/h",
+    "group": "uso cintura sicurezza",
+    "correctAnswer": false
+  },
+  {
+    "question": "Nei veicoli dotati di airbag con comando di disabilitazione, prima di sistemare sul sedile anteriore un seggiolino per bambini (schienale rivolto verso il parabrezza), bisogna disattivare l'airbag",
+    "group": "veicoli con airbag",
+    "correctAnswer": true
+  },
+  {
+    "question": "Nei veicoli che non sono muniti del comando per disabilitare l'airbag dal lato passeggero, il seggiolino per bambini non deve essere sistemato sul sedile anteriore, con lo schienale rivolto verso la strada",
+    "group": "veicoli con airbag",
+    "correctAnswer": true
+  },
+  {
+    "question": "Se un veicolo è dotato di air-bag, non vi è l’obbligo di indossare le cinture di sicurezza durante la marcia",
+    "group": "veicoli con airbag",
+    "correctAnswer": false
+  },
+  {
+    "question": "Il poggiatesta è utile per prevenire il \"colpo di frusta\"",
+    "group": "poggiatesta",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il poggiatesta è utile se viene regolato correttamente, sia in altezza che in inclinazione",
+    "group": "poggiatesta",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il poggiatesta è particolarmente utile per rilassare la muscolatura durante la guida",
+    "group": "poggiatesta",
+    "correctAnswer": false
+  }
+]

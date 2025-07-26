@@ -1,0 +1,188 @@
+[
+  {
+    "title": "La striscia lungo il centro della carreggiata",
+    "text": "Su tutte le strade può essere continua o discontinua (tratteggiata). Non può essere superata se continua.\nIn una carreggiata a doppio senso di circolazione, se discontinua, può essere superata durante un sorpasso.\nE' di colore bianco e non è vero che può essere di colore azzurro.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 1
+  },
+  {
+    "title": "Striscia bianca discontinua al centro della carreggiata",
+    "text": "Divide la carreggiata in due corsie; può essere oltrepassata se vengono rispettate tutte le altre norme di circolazione.\nNon consente di circolare stando a cavallo di essa.\nIn una strada a doppio senso con due corsie divide i sensi di marcia e consente:\n- in caso si voglia sorpassare, di occupare momentaneamente l'altra corsia di marcia (deve comunque esserci visibilità sufficiente e essere consentito su quel tratto di strada)\n- di effettuare l'inversione di marcia, in condizioni di sicurezza.\n- la svolta a sinistra (spostandosi verso il centro della carreggiata)\nNon è vero che per effettuare l'inversione di marcia è necessario non occupare l'altra corsia.\nIn una carreggiata a senso unico, la striscia bianca discontinua serve a delimitare le corsie (la corsia di sinistra è, di norma, riservata al sorpasso), quindi consente:\n- il sorpasso (anche in curva e in vicinanza o in corrispondenza di dossi)\n- la svolta a sinistra (spostandosi al margine sinistro della corsia di sinistra)\nNon è vero che si può sempre viaggiare per file parallele o effettuare l'inversione di marcia (è una strada a senso unico).\nNon è vero che può essere sostituita da una serie di  catadiottri o \"chiodi\" per segnaletica stradale (questi possono integrare la striscia continua) o che si trova in vicinanza di un passaggio a livello (in genere in vicinanza di un pericolo quale un passaggio a livello si trova la linea continua).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-bianca-discontinua-al-centro-della-carreggiata.png",
+    "order": 2
+  },
+  {
+    "title": "Striscia bianca continua al centro della carreggiata",
+    "text": "- divide la carreggiata in due corsie:\n- non può essere superata\n- permette la manovra di sorpasso senza superarla (se consentito dalle altre norme)\n- non consente di marciarvi a cavallo\n- non consente l'inversione di marcia\n- divide i sensi di marcia nelle strade a doppio senso\n- sulle strade a doppio senso si può trovare in vicinanza di un pericolo, come sul tratto in salita di un dosso o in vicinanza degli attraversamenti pedonali o ciclabili.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-bianca-continua-al-centro-della-carreggiata.png",
+    "order": 3
+  },
+  {
+    "title": "La doppia striscia continua",
+    "text": "Serve a dividere i sensi di marcia sulle strade a doppio senso di circolazione.\nAd esempio con quattro corsie (due per senso di marcia): si avrà la striscia discontinua tra ognuna delle corsie sul singolo senso di marcia e la striscia doppia continua al centro per dividere i due sensi di marcia.\n- non può essere superata\n- permette il sorpasso, se consentito, senza superarla\n- non consente l'inversione del senso di marcia\n- non consente di svoltare a sinistra\nNon è vero che si può trovare ai bordi della strada, per segnalare i margini o che indica il punto in cui i conducenti si debbono arrestare per la presenza del segnale di STOP.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/la-doppia-striscia-continua.png",
+    "order": 4
+  },
+  {
+    "title": "Striscia continua centrale affiancata a sinistra una striscia discontinua",
+    "text": "Si trova su strade a doppio senso di circolazione. La striscia continua dalla parte del veicolo indica che esso non ha ancora superato il pericolo e vige l'obbligo di non impegnare l'altra corsia (cioè oltrepassare le due strisce). Ad esempio si può trovare:\n- prima di una curva - sull'altro senso di marcia è discontinua in quanto ci si trova all'uscita della curva, quindi si ha maggiore visibilità\n- sul tratto in salita di un dosso - sull'altro senso di marcia è discontinua in quanto ci si trova nel tratto discendente, quindi si ha maggiore visibilità\n- prima di un incrocio\n- prima di un passaggio a livello",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-continua-centrale-affiancata-a-sinistra-una-striscia-discontinua.png",
+    "order": 5
+  },
+  {
+    "title": "Striscia discontinua centrale affiancata a sinistra da una striscia continua",
+    "text": "Si trova su strade a doppio senso di circolazione. La striscia discontinua dalla parte del veicolo indica che esso ha superato il pericolo e può eventualmente impegnare l'altra corsia (esempio per il sorpasso). Ad esempio si può trovare:\n- dopo una curva - sull'altro senso di marcia è continua in quanto ci si trova prima della curva, quindi si ha minore visibilità\n- sul tratto in discesa di un dosso - sull'altro senso di marcia è continua in quanto ci si trova nel tratto in salita, quindi si ha minore visibilità\n- dopo un incrocio\n- dopo un passaggio a livello",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-discontinua-centrale-affiancata-a-sinistra-da-una-striscia-continua.png",
+    "order": 6
+  },
+  {
+    "title": "Striscia bianca laterale continua che separa la carreggiata dalla corsia di emergenza",
+    "text": "La striscia bianca continua, che separa la carreggiata dalla corsia di emergenza (corsia A), può essere superata solo in caso di necessità (guasto del veicolo, malessere dei viaggiatori),  per un massimo di tre ore.\nQuindi non si può occupare per le manovre di sorpasso o in caso di traffico intenso\nI veicoli che possono transitare sulla corsia di emergenza (corsia A), sono solo quelli di soccorso, in servizio.\nNon è vero che è consentito il transito dei motocicli.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-bianca-laterale-continua-che-separa-la-carreggiata-dalla-corsia-di-emergenza.png",
+    "order": 7
+  },
+  {
+    "title": "Strisce laterali (di margine)",
+    "text": "I margini della carreggiata sono segnalati con strisce di colore bianco che possono essere continue o discontinue.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 8
+  },
+  {
+    "title": "Le strisce laterali continue",
+    "text": "Le strisce laterali continue indicano il limite percorribile della carreggiata, segnalandone il bordo o separandola dalla banchina o dalla corsia di emergenza.\nPossono essere valicate solo in particolari circostanze di emergenza, e, in loro presenza, vige il divieto di sosta.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 9
+  },
+  {
+    "title": "Le strisce laterali discontinue",
+    "text": "Le strisce laterali discontinue:\n- delimitano il margine della strada principale in corrispondenza di diramazioni secondarie o strade con obbligo di precedenza\n- delimitano inoltre piazzole o zone di sosta, passi carrabili, corsie di accelerazione o decelerazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 10
+  },
+  {
+    "title": "Strisce di guida sulle intersezioni (1)",
+    "text": "Le strisce di guida sulle intersezioni (incroci) sono strisce discontinue (tratteggiate) curve di colore bianco e servono per effettuare correttamente la svolta a sinistra, evitando di entrare contromano.\nDi norma, si trovano dove la svolta a sinistra si effettua lasciando alla nostra destra il centro dell'incrocio, quindi debbono essere lasciate alla sinistra del veicolo quando si svolta a sinistra.\nEssendo costituite da linee bianche tratteggiate, possono quindi essere valicate dai veicoli (per proseguire diritto ad esempio).\nNel caso della figura:\n- il veicolo A può andare in qualsiasi direzione\n- il veicolo B può svoltare a sinistra, dando però la precedenza al veicolo A\n- il veicolo C può andare diritto",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strisce-di-guida-sulle-intersezioni-1.png",
+    "order": 11
+  },
+  {
+    "title": "Strisce di guida sulle intersezioni (2)",
+    "text": "Le strisce di guida sulle intersezioni (incroci) sono strisce discontinue (tratteggiate) curve di colore bianco e servono per effettuare correttamente la svolta a sinistra, evitando di entrare contromano.\nDi norma, si trovano dove la svolta a sinistra si effettua lasciando alla nostra destra il centro dell'incrocio, quindi debbono essere lasciate alla sinistra del veicolo quando si svolta a sinistra.\nEssendo costituite da linee bianche tratteggiate, possono quindi essere valicate dai veicoli (per proseguire diritto ad esempio).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/strisce-di-guida-sulle-intersezioni-2.png",
+    "order": 12
+  },
+  {
+    "title": "Isola di traffico",
+    "text": "L'isola di traffico è una zona delimitata da strisce bianche oblique e indica un tratto di strada vietato al transito ed alla sosta dei veicoli.\nNel caso della figura:\n- il veicolo A deve andare diritto\n- il veicolo B deve svoltare a destra\n- il veicolo C deve svoltare a destra",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/isola-di-traffico.png",
+    "order": 13
+  },
+  {
+    "title": "Striscia trasversale continua",
+    "text": "La striscia trasversale continua indica il punto in cui i conducenti devono arrestarsi in presenza di segnalazioni di arresto (semaforo rosso, vigile in posizione di ALT, segnale di FERMARSI E DARE PRECEDENZA).\nPuò essere completata con la scritta STOP, dipinta sulla pavimentazione stradale.\nNon è vero che indica il punto in cui dobbiamo arrestarci ad un incrocio, se non è regolato, o il punto in cui bisogna sempre arrestarsi in vicinanza di un incrocio stradale, o che è obbligatorio dare la precedenza ai veicoli provenienti sia da destra sia da sinistra (questo solo se vi è lo stop).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/striscia-trasversale-continua.png",
+    "order": 14
+  },
+  {
+    "title": "Scritta STOP sulla pavimentazione",
+    "text": "Completa la striscia trasversale di arresto ed è sempre abbinata al segnale verticale di \"FERMARSI E DARE PRECEDENZA\" che prescrive di fermarsi e dare precedenza prima di impegnare l'area dell'incrocio.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/scritta-stop-sulla-pavimentazione.png",
+    "order": 15
+  },
+  {
+    "title": "Corsie di preselezione (o canalizzazione)",
+    "text": "In assenza di frecce direzionali tutte e tre le corsie consentono di proseguire diritto, inoltre:\n- la corsia di sinistra consente anche di svoltare a sinistra\n- la corsia di destra consente anche di svoltare a destra\n- la corsia centrale consente solo di proseguire diritto\nÈ possibile cambiare corsia finché le strisce sono ancora discontinue (tratteggiate).\nNon è vero che la corsia di destra è riservata ai veicoli lenti.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/corsie-di-preselezione-o-canalizzazione.png",
+    "order": 16
+  },
+  {
+    "title": "Corsie di preselezione con frecce direzionali (1)",
+    "text": "Le frecce direzionali in figura si trovano all'interno delle corsie (di preselezione), prima di un incrocio.\nIndicano ai conducenti le direzioni consentite all'incrocio:\n- la corsia A consente al conducente solo di svoltare a sinistra\n- la corsia B consente al conducente di svoltare a destra o a sinistra\n- la corsia C consente al conducente solo di svoltare a destra\nE' consentito immettersi nella corsia scelta quando le strisce sono ancora discontinue (tratteggiate), mentre è obbligatorio seguire la direzione indicata dalla freccia se le strisce di corsia sono continue.\nPossono essere completate da scritte sulla pavimentazione che indicano la località raggiungibile.\nPossono essere a freccia combinata, ad esempio diritta-destra per corsie destinate a chi deve proseguire diritto o a destra.\nNon è vero che le corsie A, B e C rappresentate in figura sono a doppio senso di circolazione.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/corsie-di-preselezione-con-frecce-direzionali-1.png",
+    "order": 17
+  },
+  {
+    "title": "Corsie di preselezione con frecce direzionali (2)",
+    "text": "Le frecce direzionali in figura si trovano all'interno delle corsie (di preselezione), prima di un incrocio.\nIndicano ai conducenti le direzioni consentite all'incrocio:\n- la corsia A consente al conducente solo di svoltare a sinistra\n- la corsia B consente al conducente di proseguire diritto e di svoltare a sinistra\n- la corsia C consente di svoltare a destra e proseguire diritto\nE' consentito immettersi nella corsia scelta quando le strisce sono ancora discontinue (tratteggiate), mentre è obbligatorio seguire la direzione indicata dalla freccia se le strisce di corsia sono continue.\nPossono essere completate da scritte sulla pavimentazione che indicano la località raggiungibile.\nPossono essere a freccia combinata, ad esempio diritta-destra per corsie destinate a chi deve proseguire diritto o a destra.\nNon è vero che sono di colore giallo nelle strade dove è vietata la sosta, o di colore blu nelle autostrade.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/corsie-di-preselezione-con-frecce-direzionali-2.png",
+    "order": 18
+  },
+  {
+    "title": "Zebrature sulla pavimentazione stradale",
+    "text": "Sono strisce bianche oblique pitturate sulla careggiate e indicano zone della carreggiata escluse al transito e alla sosta dei veicoli, quindi, parti della strada su cui non si può transitare.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 19
+  },
+  {
+    "title": "Attraversamento pedonale (1)",
+    "text": "Tale segnaletica indica, sia dentro che fuori dei centri abitati, un attraversamento pedonale, in cui i pedoni hanno la precedenza sui veicoli.\nPuò essere completata con l'apposito segnale verticale di ATTRAVERSAMENTO PEDONALE.\nSu strade extraurbane secondarie deve essere preceduta dal segnale di PERICOLO ATTRAVERSAMENTO PEDONALE.\nPuò essere anche obliquo.\nObbliga i conducenti obbliga i conducenti a fermarsi e dare la precedenza ai pedoni che attraversano la carreggiata.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-pedonale-1.png",
+    "order": 20
+  },
+  {
+    "title": "Attraversamento pedonale (2)",
+    "text": "Tale segnaletica indica, sia dentro che fuori dei centri abitati, un attraversamento pedonale, in cui i pedoni hanno la precedenza sui veicoli.\nPuò essere completata con l'apposito segnale verticale di ATTRAVERSAMENTO PEDONALE.\nSu strade extraurbane secondarie deve essere preceduta dal segnale di PERICOLO ATTRAVERSAMENTO PEDONALE.\nPuò essere anche obliquo.\nObbliga i conducenti a fermarsi e dare la precedenza ai pedoni che attraversano la carreggiata.\nUn attraversamento pedonale può essere preceduto sulla destra da una striscia gialla a zig zag, come nella figura per migliorarne la visibilità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-pedonale-2.png",
+    "order": 21
+  },
+  {
+    "title": "Attraversamento ciclabile",
+    "text": "Tale segnaletica indica, sia dentro che fuori dei centri abitati, un attraversamento ciclabile, in cui, i velocipedi (biciclette) che hanno già impegnato la carreggiata, hanno la precedenza sugli altri veicoli.\nPuò essere completata con l'apposito segnale verticale di ATTRAVERSAMENTO CICLABILE.\nPuò essere anche obliquo.\nObbliga i conducenti a fermarsi e dare la precedenza ai ciclisti che hanno già iniziato l'attraversamento.\nUn attraversamento ciclabile può essere preceduto sulla destra da una striscia gialla a zig zag, per migliorarne la visibilità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/attraversamento-ciclabile.png",
+    "order": 22
+  },
+  {
+    "title": "Segnaletica nei pressi di un passaggio a livello",
+    "text": "La segnaletica rappresentata in figura serve ad avvertire i conducenti che si è vicini ad un passaggio a livello (con barriere, senza barriere, con semibarriere).\nIndica ai conducenti dei veicoli che devono prestare attenzione all'eventuale sopraggiungere di treni\nNon è consentito spostarsi nella parte sinistra della carreggiata (ad esempio per il sorpasso).",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnaletica-nei-pressi-di-un-passaggio-a-livello.png",
+    "order": 23
+  },
+  {
+    "title": "Segnaletica nei pressi della fermata dell'autobus",
+    "text": "La segnaletica in figura indica una zona per la fermata di autobus, filobus e autosnodati in servizio pubblico di linea, serve agli autobus per facilitare la manovra di accostamento e per ripartire.\nVieta la sosta ma non la fermata degli altri veicoli anche nelle parti con striscia gialla a zig zag (è comunque possibile transitarvi sopra).\nNei casi in cui manchi la segnaletica a terra, la sosta è vietata da 15 metri prima a 15 metri dopo il cartello di fermata bus.\nNon è vero che è riservato alla sosta anche dei taxi, o che non consente la sosta 20 metri prima della striscia gialla a zig zag.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnaletica-nei-pressi-della-fermata-dellautobus.png",
+    "order": 24
+  },
+  {
+    "title": "Frecce di rientro",
+    "text": "Possono trovarsi su strade a doppio senso di circolazione e obbligano a rientrare sulla corsia di destra in quanto più avanti la linea discontinua diventa continua e non è più ammesso il sorpasso sulla corsia di sinistra.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/frecce-di-rientro.png",
+    "order": 25
+  },
+  {
+    "title": "Iscrizioni regolamentari sulla pavimentazione",
+    "text": "Sono scritte regolamentari che si possono trovare sulla pavimentazione stradale:\n- STOP: per completare il segnale verticale di FERMARSI E DARE PRECEDENZA\n- P L con Croce di S. Andrea dipinta: per segnalare un passaggio a livello (di qualsiasi tipo)\n- BUS: di colore giallo, nelle zone riservate alla fermata di autobus in servizio pubblico di linea\n- TAXI: di colore giallo, per indicare zone riservate al parcheggio di taxi\n- il nome di una località: per completare l'indicazione delle frecce direzionali\n- un numero: indica la velocità consigliata",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 26
+  },
+  {
+    "title": "Segnali gialli e neri",
+    "text": "Sono posti lungo la parte verticale del marciapiede e indicano che su quel lato della strada è vietata la sosta (ma non la fermata) per tutti i veicoli.\nNon è vero che consentono la sosta agli autobus o che avvertono i pedoni di fare attenzione al gradino.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/segnali-gialli-e-neri-.png",
+    "order": 27
+  },
+  {
+    "title": "Segni a strisce bianche e nere alternate",
+    "text": "Sono posti su superfici verticali e possono indicare ostacoli posti vicino o dentro la carreggiata: un punto critico stradale, il bordo di un marciapiede, muretti, pilastri etc..",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/manuale-patente.jpg",
+    "order": 28
+  },
+  {
+    "title": "Area di parcheggio destinata a persone invalide",
+    "text": "Le strisce di delimitazione gialle in figura individuano un'area di parcheggio riservata a persone invalide.\nLe strisce gialle diagonali devono essere lasciate libere per consentire l'entrata e l'uscita dal veicolo delle persone invalide.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/area-di-parcheggio-destinata-a-persone-invalide.png",
+    "order": 29
+  },
+  {
+    "title": "Dosso artificiale rallentatore di velocità",
+    "text": "Il dispositivo in figura è un rallentatore di velocità installato sulla strada",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/dosso-artificiale-rallentatore-di-velocita.png",
+    "order": 30
+  },
+  {
+    "title": "Rallentatore ottico di velocità",
+    "text": "E' costituito da bande trasversali progressive di colore bianco e spessore crescente nel senso di marcia. Indica che occorre moderare la velocità.",
+    "imageUrl": "https://old.guidaevai.com/assets/frontend/onepage/img/simboli/rallentatore-ottico-di-velocita.png",
+    "order": 31
+  }
+]

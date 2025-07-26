@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la distanza tra il segnale ed il punto d'inizio del pericolo",
+    "group": "pannelli di distanza",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato può essere posto sotto i segnali per completarne il significato",
+    "group": "pannelli di distanza",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato, posto sotto un segnale di indicazione, serve a precisare la distanza che manca per raggiungere il punto indicato dal segnale",
+    "group": "pannelli di distanza",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato, posto sotto un segnale di obbligo o divieto, indica la distanza dalla quale inizia la prescrizione",
+    "group": "pannelli di distanza",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo mostrato in figura A indica i metri di strada già fatta",
+    "group": "pannelli di distanza",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato indica la pendenza di una strada",
+    "group": "pannelli di distanza",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo mostrato in figura A indica la distanza di sicurezza da mantenere dal veicolo che sta davanti",
+    "group": "pannelli di distanza",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato indica la larghezza di una strada",
+    "group": "pannelli di distanza",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato, posto sotto il segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+    "group": "pannelli di distanza",
+    "correctAnswer": false,
+    "imageUrl": "https://www.patentati.it/img_sign_400/121.png"
+  },
+  {
+    "question": "Il pannello integrativo raffigurato, posto sotto un segnale di pericolo, indica la lunghezza del tratto di strada pericoloso",
+    "group": "pannelli di estensione",
+    "correctAnswer": true,
+    "imageUrl": "https://www.patentati.it/img_sign_400/122.png"
+  }
+]

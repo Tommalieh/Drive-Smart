@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale si libera dall'obbligo se risarcisce il danneggiato",
+    "group": "risarcimento danni",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può accordarsi con il danneggiato circa il valore del risarcimento",
+    "group": "risarcimento danni",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può far riparare il proprio autoveicolo",
+    "group": "risarcimento danni",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può farsi assistere da un consulente d'infortunistica stradale",
+    "group": "risarcimento danni",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale può, in alternativa, chiedere che la propria patente di guida sia revocata",
+    "group": "risarcimento danni",
+    "correctAnswer": false
+  },
+  {
+    "question": "Chi è civilmente obbligato a risarcire i danni provocati da un sinistro stradale si libera da ogni forma di responsabilità penale pagandone l'ammontare del danno",
+    "group": "risarcimento danni",
+    "correctAnswer": false
+  },
+  {
+    "question": "Chi è penalmente e civilmente responsabile di un sinistro stradale è soggetto alle pene previste dal Codice Penale",
+    "group": "responsabile di un sinistro stradale",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è penalmente e civilmente responsabile di un sinistro stradale è tenuto al risarcimento dei danni",
+    "group": "responsabile di un sinistro stradale",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è penalmente e civilmente responsabile di un sinistro stradale qualora abbia violato norme del Codice della strada è anche soggetto alle relative sanzioni",
+    "group": "responsabile di un sinistro stradale",
+    "correctAnswer": true
+  },
+  {
+    "question": "Chi è penalmente e civilmente responsabile di un sinistro stradale può incorrere nella sospensione della patente di guida",
+    "group": "responsabile di un sinistro stradale",
+    "correctAnswer": true
+  }
+]

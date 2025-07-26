@@ -1,0 +1,52 @@
+[
+  {
+    "question": "E' vietato utilizzare un autoveicolo sulle strade pubbliche quando il veicolo non è coperto dall'assicurazione per la responsabilità civile",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": true
+  },
+  {
+    "question": "E' vietato condurre un autoveicolo sulle strade pubbliche quando non si possiede la patente di guida necessaria per quel tipo di veicolo",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": true
+  },
+  {
+    "question": "E’ di norma vietato condurre sulle strade pubbliche un autoveicolo non immatricolato",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": true
+  },
+  {
+    "question": "E' vietato utilizzare un autoveicolo sulle strade pubbliche quando non si ha con sé la ricevuta di avvenuto pagamento della tassa di possesso",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "E' vietato circolare sulle strade pubbliche con un autoveicolo dotato della targa prova",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "E' vietato utilizzare un autoveicolo sulle strade pubbliche quando la carta di circolazione è intestata a persona diversa dal conducente",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "Sulle strade pubbliche è vietato utilizzare un autoveicolo se la garanzia è scaduta di validità",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "E' vietato utilizzare un autoveicolo sulle strade pubbliche quando non si ha con sé il certificato di proprietà",
+    "group": "veicoli su strade pubbliche",
+    "correctAnswer": false
+  },
+  {
+    "question": "Un autoveicolo per poter circolare deve essere munito delle targhe identificative, affinché sia possibile risalire all'intestatario del mezzo",
+    "group": "documenti per la circolazione",
+    "correctAnswer": true
+  },
+  {
+    "question": "Un autoveicolo per poter circolare deve essere munito della carta di circolazione",
+    "group": "documenti per la circolazione",
+    "correctAnswer": true
+  }
+]

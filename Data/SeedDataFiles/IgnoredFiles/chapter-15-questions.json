@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che la visibilità sia tale da consentire la manovra",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che la manovra possa compiersi senza costituire intralcio",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che il conducente che lo precede nella stessa corsia non abbia segnalato di voler compiere analoga manovra",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che il conducente che lo segue sulla stessa carreggiata non abbia iniziato il sorpasso",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che la strada sia libera per consentire la completa esecuzione del sorpasso",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve valutare lo spazio necessario per la manovra anche in relazione alla differenza di velocità tra il proprio veicolo e quello da sorpassare",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve tener conto di eventuali veicoli che provengono dalla direzione opposta",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve valutare lo spazio necessario in relazione alla lunghezza del proprio veicolo e di quello da sorpassare",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che la larghezza della carreggiata consenta la manovra in condizioni di sicurezza",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  },
+  {
+    "question": "Il conducente che intende sorpassare deve accertarsi che nessun segnale verticale vieti la manovra",
+    "group": "conducente che intende sorpassare",
+    "correctAnswer": true
+  }
+]

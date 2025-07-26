@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere ristrettezza della strada",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere mancata segnalazione degli incroci",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere mancanza di segnaletica orizzontale",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere fondo stradale deformato",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere fondo stradale scivoloso",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere presenza di strettoie non segnalate",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": true
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere strada suddivisa in carreggiate",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere strada suddivisa in corsie",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere carreggiata a senso unico di circolazione",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": false
+  },
+  {
+    "question": "Causa probabile di incidenti dovuti alla struttura della strada può essere strada a percorso pianeggiante",
+    "group": "causa probabile di incidenti",
+    "correctAnswer": false
+  }
+]

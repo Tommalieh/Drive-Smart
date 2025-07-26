@@ -1,0 +1,52 @@
+[
+  {
+    "question": "La forza aderente consente il movimento del veicolo",
+    "group": "la forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente si oppone allo slittamento verso l'esterno della curva",
+    "group": "la forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente consente al veicolo di percorrere la traiettoria voluta",
+    "group": "la forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente si oppone allo slittamento dello pneumatico sull'asfalto",
+    "group": "la forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente non si oppone allo slittamento causato dal vento laterale",
+    "group": "la forza aderente",
+    "correctAnswer": false
+  },
+  {
+    "question": "La forza aderente, se eccessiva, comporta il surriscaldamento dei freni",
+    "group": "la forza aderente",
+    "correctAnswer": false
+  },
+  {
+    "question": "La forza aderente aumenta se l'asfalto è rugoso",
+    "group": "aumento della forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente diminuisce se l'asfalto è bagnato",
+    "group": "aumento della forza aderente",
+    "correctAnswer": true
+  },
+  {
+    "question": "La forza aderente aumenta se l'asfalto è bagnato",
+    "group": "aumento della forza aderente",
+    "correctAnswer": false
+  },
+  {
+    "question": "La forza aderente aumenta se l'asfalto è coperto di foglie",
+    "group": "aumento della forza aderente",
+    "correctAnswer": false
+  }
+]
