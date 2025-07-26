@@ -1,7 +1,7 @@
 using System.Security.Claims;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DriveSmart.Api.Controllers;
+namespace Drivia.Controllers;
 
 public abstract class AppControllerBase : ControllerBase
 {

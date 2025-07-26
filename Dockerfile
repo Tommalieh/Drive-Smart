@@ -7,17 +7,17 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["FailedAttempt01.csproj", "./"]
-RUN dotnet restore "FailedAttempt01.csproj"
+COPY ["Drivia.csproj", "./"]
+RUN dotnet restore "Drivia.csproj"
 COPY . .
 WORKDIR "/src/"
-RUN dotnet build "./FailedAttempt01.csproj" -c $BUILD_CONFIGURATION -o /app/build
+RUN dotnet build "./Drivia.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
-RUN dotnet publish "./FailedAttempt01.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "./Drivia.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "FailedAttempt01.dll"]
+ENTRYPOINT ["dotnet", "Drivia.dll"]

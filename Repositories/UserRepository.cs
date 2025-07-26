@@ -1,24 +1,17 @@
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Data;
+using Drivia.Data;
+using Drivia.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace DriveSmart.Persistence.Repositories;
+namespace Drivia.Repositories;
 
-public class UserRepository
+public class UserRepository(AppDbContext context)
 {
-    private readonly AppDbContext _context;
-
-    public UserRepository(AppDbContext context)
-    {
-        _context = context;
-    }
-
     public Task<User?> GetByEmailAsync(string email) =>
-        _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+        context.Users.FirstOrDefaultAsync(u => u.Email == email);
 
     public async Task AddAsync(User user)
     {
-        _context.Users.Add(user);
-        await _context.SaveChangesAsync();
+        context.Users.Add(user);
+        await context.SaveChangesAsync();
     } 
 }

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace DriveSmart.Persistence.Migrations
+namespace Drivia.Persistence.Migrations
 {
     /// <inheritdoc />
     public partial class AddUserRefreshToken : Migration

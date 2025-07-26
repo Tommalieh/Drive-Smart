@@ -1,4 +1,4 @@
-namespace DriveSmart.Shared.Theory;
+namespace Drivia.Theory;
 
 public class SectionDto
 {

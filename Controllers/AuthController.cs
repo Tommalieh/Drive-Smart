@@ -1,27 +1,20 @@
-using DriveSmart.Application.Services;
-using DriveSmart.Shared.Auth;
+using Drivia.Auth;
+using Drivia.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DriveSmart.Api.Controllers;
+namespace Drivia.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class AuthController : ControllerBase
+public class AuthController(AuthService authService) : ControllerBase
 {
-    private readonly AuthService _authService;
-
-    public AuthController(AuthService authService)
-    {
-        _authService = authService;
-    }
-    
     [HttpGet("ping")]
     public IActionResult Ping() => Ok("API is alive!");
     
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto dto)
     {
-        var success = await _authService.RegisterAsync(dto);
+        var success = await authService.RegisterAsync(dto);
         if (!success) return BadRequest("User already exists.");
         return Ok("Registration successful.");
     }
@@ -29,7 +22,7 @@ public class AuthController : ControllerBase
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginDto dto)
     {
-        var response = await _authService.LoginWithRefreshAsync(dto);
+        var response = await authService.LoginWithRefreshAsync(dto);
         if (response == null) return Unauthorized("Unauthorized credentials.");
         return Ok(response);
     }
@@ -37,7 +30,7 @@ public class AuthController : ControllerBase
     [HttpPost("refresh")]
     public async Task<IActionResult> Refresh([FromBody] RefreshTokenRequestDto dto)
     {
-        var response = await _authService.RefreshTokenAsync(dto.RefreshToken);
+        var response = await authService.RefreshTokenAsync(dto.RefreshToken);
         if (response == null) return Unauthorized("Invalid or expired refresh token.");
         return Ok(response);
     }

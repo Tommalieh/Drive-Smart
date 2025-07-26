@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace DriveSmart.Persistence.Data.SeedDataFiles;
+namespace Drivia.Data.SeedDataFiles;
 
 public class SectionSeedModel
 {

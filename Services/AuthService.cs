@@ -1,33 +1,21 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Repositories;
-using DriveSmart.Shared.Auth;
-using Microsoft.Extensions.Configuration;
+using Drivia.Auth;
+using Drivia.Entities;
+using Drivia.Repositories;
 using Microsoft.IdentityModel.Tokens;
 
-namespace DriveSmart.Application.Services;
+namespace Drivia.Services;
 
-public class AuthService
+public class AuthService(
+    UserRepository userRepo,
+    UserRefreshTokenRepository tokenRepo,
+    IConfiguration config)
 {
-    private readonly UserRepository _userRepo;
-    private readonly UserRefreshTokenRepository _tokenRepo;
-    private readonly IConfiguration _config;
-
-    public AuthService(
-        UserRepository userRepo,
-        UserRefreshTokenRepository tokenRepo,
-        IConfiguration config)
-    {
-        _userRepo = userRepo;
-        _tokenRepo = tokenRepo;
-        _config = config;
-    }
-
     public async Task<AuthResponseDto?> LoginWithRefreshAsync(LoginDto dto)
     {
-        var user = await _userRepo.GetByEmailAsync(dto.Email);
+        var user = await userRepo.GetByEmailAsync(dto.Email);
         if (user == null || !BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
             return null;
         
@@ -45,7 +33,7 @@ public class AuthService
             CreatedAt = DateTime.UtcNow,
             User = user
         };
-        await _tokenRepo.AddAsync(userRefreshToken);
+        await tokenRepo.AddAsync(userRefreshToken);
 
         return new AuthResponseDto
         {
@@ -57,7 +45,7 @@ public class AuthService
 
     public async Task<bool> RegisterAsync(RegisterDto dto)
     {
-        if (await _userRepo.GetByEmailAsync(dto.Email) != null)
+        if (await userRepo.GetByEmailAsync(dto.Email) != null)
             return false;
 
         var user = new User
@@ -65,13 +53,13 @@ public class AuthService
             Email = dto.Email,
             PasswordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password)
         };
-        await _userRepo.AddAsync(user);
+        await userRepo.AddAsync(user);
         return true;
     }
     
     public async Task<AuthResponseDto?> RefreshTokenAsync(string refreshToken)
     {
-        var storedToken = await _tokenRepo.GetByTokenAsync(refreshToken);
+        var storedToken = await tokenRepo.GetByTokenAsync(refreshToken);
 
         if (storedToken == null || storedToken.ExpiresAt < DateTime.UtcNow)
             return null;
@@ -80,7 +68,7 @@ public class AuthService
         if (user == null) return null;
 
         // Revoke old token and generate new one (rotation)
-        await _tokenRepo.RevokeAsync(storedToken);
+        await tokenRepo.RevokeAsync(storedToken);
 
         var newRefreshToken = GenerateRefreshToken();
         var newToken = new UserRefreshToken
@@ -93,7 +81,7 @@ public class AuthService
             CreatedAt = DateTime.UtcNow,
             User = user
         };
-        await _tokenRepo.AddAsync(newToken);
+        await tokenRepo.AddAsync(newToken);
 
         var accessToken = GenerateJwt(user);
 
@@ -113,12 +101,12 @@ public class AuthService
             new Claim(JwtRegisteredClaimNames.Email, user.Email),         // ✅ Optional: allows displaying or using email
             new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()) // Standard for unique token ID
         };
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["JwtSettings:Key"]!));
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["JwtSettings:Key"]!));
         var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
         var token = new JwtSecurityToken(
-            issuer: _config["JwtSettings:Issuer"],
-            audience: _config["JwtSettings:Audience"],
+            issuer: config["JwtSettings:Issuer"],
+            audience: config["JwtSettings:Audience"],
             claims: claims,
             expires: DateTime.UtcNow.AddDays(7),
             signingCredentials: creds

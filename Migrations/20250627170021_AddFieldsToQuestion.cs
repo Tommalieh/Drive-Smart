@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace DriveSmart.Persistence.Migrations
+namespace Drivia.Persistence.Migrations
 {
     /// <inheritdoc />
     public partial class AddFieldsToQuestion : Migration

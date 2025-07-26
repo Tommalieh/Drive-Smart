@@ -1,4 +1,4 @@
-namespace DriveSmart.Shared.Quizzes;
+namespace Drivia.Quizzes;
 
 public class QuizAnswerDto
 {

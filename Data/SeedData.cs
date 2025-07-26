@@ -1,8 +1,8 @@
 using System.Text.Json;
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Data.SeedDataFiles;
+using Drivia.Data.SeedDataFiles;
+using Drivia.Entities;
 
-namespace DriveSmart.Persistence.Data
+namespace Drivia.Data
 {
     public static class SeedData
     {
@@ -95,7 +95,7 @@ namespace DriveSmart.Persistence.Data
                                 ChapterId = chapter.Id,
                                 ChapterTitle = chapter.Title,
                                 GroupTitle = q.Group,
-                                Text = q.Question,
+                                Text = q.Question ?? string.Empty,
                                 ImageUrl = q.ImageUrl,
                                 CorrectAnswer = q.CorrectAnswer,
                                 Explanation = null,

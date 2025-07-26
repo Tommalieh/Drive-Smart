@@ -1,7 +1,7 @@
 using System.Text;
-using DriveSmart.Application.Services;
-using DriveSmart.Persistence.Data;
-using DriveSmart.Persistence.Repositories;
+using Drivia.Data;
+using Drivia.Repositories;
+using Drivia.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
@@ -91,7 +91,7 @@ catch (Exception e)
     Console.WriteLine("-------------------------------------------");
     Console.WriteLine($".NET version: {Environment.Version}");
     Console.WriteLine("-------------------------------------------");
-    Console.WriteLine("DriveSmart Exception: " + e);
+    Console.WriteLine("Drivia Exception: " + e);
     Console.WriteLine("-------------------------------------------");
     throw;
 }

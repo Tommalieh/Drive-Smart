@@ -1,26 +1,19 @@
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Data;
-using DriveSmart.Shared.Theory;
+using Drivia.Data;
+using Drivia.Entities;
+using Drivia.Theory;
 using Microsoft.EntityFrameworkCore;
 
-namespace DriveSmart.Application.Services;
+namespace Drivia.Services;
 
-public class TheoryService
+public class TheoryService(AppDbContext context)
 {
-    private readonly AppDbContext _context;
-
-    public TheoryService(AppDbContext context)
-    {
-        _context = context;
-    }
-
     public List<ChapterDto> GetChapters(Guid userId)
     {
-        var progress = _context.ChapterProgress
+        var progress = context.ChapterProgress
             .Where(p => p.UserId == userId)
             .ToDictionary(p => p.ChapterId, p => p.IsCompleted);
 
-        return _context.Chapters
+        return context.Chapters
             .OrderBy(c => c.Order)
             .Select(c => new ChapterDto
             {
@@ -35,13 +28,13 @@ public class TheoryService
     
     public ChapterDetailDto? GetChapterById(Guid userId, Guid chapterId)
     {
-        var chapter = _context.Chapters
+        var chapter = context.Chapters
             .Include(c => c.Sections)
             .FirstOrDefault(c => c.Id == chapterId);
 
         if (chapter == null) return null;
 
-        var sectionProgress = _context.SectionProgress
+        var sectionProgress = context.SectionProgress
             .Where(p => p.UserId == userId)
             .GroupBy(p => p.SectionId)
             .ToDictionary(
@@ -72,7 +65,7 @@ public class TheoryService
     
     public void MarkSectionViewed(Guid userId, Guid sectionId, bool isCompleted)
     {
-        var progress = _context.SectionProgress
+        var progress = context.SectionProgress
             .FirstOrDefault(p => p.UserId == userId && p.SectionId == sectionId);
 
         if (progress is not null)
@@ -82,7 +75,7 @@ public class TheoryService
         }
         else
         {
-            _context.SectionProgress.Add(new SectionProgress
+            context.SectionProgress.Add(new SectionProgress
             {
                 UserId = userId,
                 SectionId = sectionId,
@@ -91,22 +84,22 @@ public class TheoryService
             });
         }
 
-        _context.SaveChanges();
+        context.SaveChanges();
 
         // ✅ Get the chapter of the section
-        var section = _context.Sections.Find(sectionId);
+        var section = context.Sections.Find(sectionId);
         if (section == null) return;
 
         var chapterId = section.ChapterId;
 
         // ✅ Get all section IDs in the chapter
-        var allSectionIds = _context.Sections
+        var allSectionIds = context.Sections
             .Where(s => s.ChapterId == chapterId)
             .Select(s => s.Id)
             .ToList();
 
         // ✅ Get all completed section IDs by this user in the chapter
-        var completedSectionIds = _context.SectionProgress
+        var completedSectionIds = context.SectionProgress
             .Where(p => p.UserId == userId && p.IsCompleted && allSectionIds.Contains(p.SectionId))
             .Select(p => p.SectionId)
             .ToList();
@@ -121,7 +114,7 @@ public class TheoryService
     
     public void MarkChapterCompleted(Guid userId, Guid chapterId, bool isCompleted)
     {
-        var existing = _context.ChapterProgress
+        var existing = context.ChapterProgress
             .FirstOrDefault(p => p.UserId == userId && p.ChapterId == chapterId);
 
         if (existing is not null)
@@ -131,7 +124,7 @@ public class TheoryService
         }
         else
         {
-            _context.ChapterProgress.Add(new ChapterProgress
+            context.ChapterProgress.Add(new ChapterProgress
             {
                 UserId = userId,
                 ChapterId = chapterId,
@@ -140,17 +133,17 @@ public class TheoryService
             });
         }
 
-        _context.SaveChanges();
+        context.SaveChanges();
     }
     
     public ProgressSummaryDto GetProgressSummary(Guid userId)
     {
-        var allChapters = _context.Chapters
+        var allChapters = context.Chapters
             .Include(c => c.Sections)
             .OrderBy(c => c.Order)
             .ToList();
 
-        var sectionProgress = _context.SectionProgress
+        var sectionProgress = context.SectionProgress
             .Where(p => p.UserId == userId && p.IsCompleted)
             .ToList();
 

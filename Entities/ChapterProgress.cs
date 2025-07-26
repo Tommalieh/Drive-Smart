@@ -1,4 +1,4 @@
-namespace DriveSmart.Domain.Entities;
+namespace Drivia.Entities;
 
 public class ChapterProgress
 {

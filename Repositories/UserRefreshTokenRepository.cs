@@ -1,25 +1,20 @@
+using Drivia.Data;
+using Drivia.Entities;
 using Microsoft.EntityFrameworkCore;
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Data;
-namespace DriveSmart.Persistence.Repositories;
 
-public class UserRefreshTokenRepository
+namespace Drivia.Repositories;
+
+public class UserRefreshTokenRepository(AppDbContext context)
 {
-    private readonly AppDbContext _context;
-    public UserRefreshTokenRepository(AppDbContext context)
-    {
-        _context = context;
-    }
-
     public async Task AddAsync(UserRefreshToken token)
     {
-        _context.UserRefreshTokens.Add(token);
-        await _context.SaveChangesAsync();
+        context.UserRefreshTokens.Add(token);
+        await context.SaveChangesAsync();
     }
 
     public async Task<UserRefreshToken?> GetByTokenAsync(string token)
     {
-        return await _context.UserRefreshTokens
+        return await context.UserRefreshTokens
             .Include(t => t.User)
             .FirstOrDefaultAsync(t => t.Token == token && !t.IsRevoked);
     }
@@ -27,6 +22,6 @@ public class UserRefreshTokenRepository
     public async Task RevokeAsync(UserRefreshToken token)
     {
         token.IsRevoked = true;
-        await _context.SaveChangesAsync();
+        await context.SaveChangesAsync();
     }
 }

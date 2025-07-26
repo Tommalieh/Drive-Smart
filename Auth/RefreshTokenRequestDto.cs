@@ -1,6 +1,6 @@
-namespace DriveSmart.Shared.Auth;
+namespace Drivia.Auth;
 
 public class RefreshTokenRequestDto
 {
-    public string RefreshToken { get; set; }
+    public string RefreshToken { get; set; } = null!;
 }

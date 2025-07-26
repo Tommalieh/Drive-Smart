@@ -1,4 +1,4 @@
-namespace DriveSmart.Shared.Auth;
+namespace Drivia.Auth;
 
 public class LoginDto
 {

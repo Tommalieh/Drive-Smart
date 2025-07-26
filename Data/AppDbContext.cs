@@ -1,11 +1,10 @@
-using DriveSmart.Domain.Entities;
+using Drivia.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace DriveSmart.Persistence.Data;
+namespace Drivia.Data;
 
-public class AppDbContext : DbContext
+public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
 {
-    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {}
     public DbSet<User> Users => Set<User>();
     public DbSet<Chapter> Chapters => Set<Chapter>();
     public DbSet<ChapterProgress> ChapterProgress => Set<ChapterProgress>();

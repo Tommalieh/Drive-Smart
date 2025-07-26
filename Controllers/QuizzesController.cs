@@ -1,22 +1,14 @@
-using System.Security.Claims;
-using DriveSmart.Application.Services;
-using DriveSmart.Shared.Quizzes;
+using Drivia.Quizzes;
+using Drivia.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DriveSmart.Api.Controllers;
+namespace Drivia.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class QuizzesController : AppControllerBase
+public class QuizzesController(QuizService quizService) : AppControllerBase
 {
-    private readonly QuizService _quizService;
-
-    public QuizzesController(QuizService quizService)
-    {
-        _quizService = quizService;
-    }
-
     [Authorize]
     [HttpPost("start")]
     public ActionResult<StartQuizResponse> StartQuiz([FromBody] StartQuizRequest request)
@@ -26,7 +18,7 @@ public class QuizzesController : AppControllerBase
         // Ignore userId in request; override with the one from token:
         request.UserId = userId;
 
-        var response = _quizService.StartQuiz(request);
+        var response = quizService.StartQuiz(request);
         return Ok(response);
     }
 
@@ -35,7 +27,7 @@ public class QuizzesController : AppControllerBase
     public IActionResult SubmitQuiz([FromBody] SubmitQuizRequest request)
     {
         // Optionally, you could validate ownership of the quiz session using GetUserId() here.
-        _quizService.SubmitQuiz(request);
+        quizService.SubmitQuiz(request);
         return Ok();
     }
 
@@ -44,7 +36,7 @@ public class QuizzesController : AppControllerBase
     public ActionResult<QuizSessionDto> GetQuizById(Guid id)
     {
         // Optionally, you could validate quiz session ownership using GetUserId() here.
-        var quiz = _quizService.GetQuizSession(id);
+        var quiz = quizService.GetQuizSession(id);
         if (quiz == null)
             return NotFound();
         return Ok(quiz);

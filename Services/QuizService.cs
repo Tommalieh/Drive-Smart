@@ -1,21 +1,16 @@
-using DriveSmart.Domain.Entities;
-using DriveSmart.Persistence.Data;
-using DriveSmart.Shared.Quizzes;
+using Drivia.Data;
+using Drivia.Entities;
+using Drivia.Quizzes;
 using Microsoft.EntityFrameworkCore;
 
-namespace DriveSmart.Application.Services;
-public class QuizService
-{
-    private readonly AppDbContext _context;
-    public QuizService(AppDbContext context)
-    {
-        _context = context;
-    }
+namespace Drivia.Services;
 
+public class QuizService(AppDbContext context)
+{
     public StartQuizResponse StartQuiz(StartQuizRequest request)
     {
         // 1. Select questions (by type)
-        IQueryable<Question> query = _context.Questions;
+        IQueryable<Question> query = context.Questions;
 
         if (request.Type == "chapter" && request.ChapterIds != null && request.ChapterIds.Any())
         {
@@ -41,8 +36,8 @@ public class QuizService
                 QuestionId = q.Id
             }).ToList()
         };
-        _context.QuizSessions.Add(quizSession);
-        _context.SaveChanges();
+        context.QuizSessions.Add(quizSession);
+        context.SaveChanges();
 
         // 3. Prepare response
         var questionDtos = questionsList.Select(q => new QuizQuestionDto
@@ -62,7 +57,7 @@ public class QuizService
 
     public void SubmitQuiz(SubmitQuizRequest request)
     {
-        var session = _context.QuizSessions
+        var session = context.QuizSessions
             .Include(s => s.QuizQuestions)
             .ThenInclude(qq => qq.Question)
             .FirstOrDefault(s => s.Id == request.QuizSessionId);
@@ -83,12 +78,12 @@ public class QuizService
         // Optionally calculate score and save in session (add Score property if you want)
         // session.Score = session.QuizQuestions.Count(q => q.IsCorrect == true);
 
-        _context.SaveChanges();
+        context.SaveChanges();
     }
 
-    public QuizSessionDto GetQuizSession(Guid quizSessionId)
+    public QuizSessionDto? GetQuizSession(Guid quizSessionId)
     {
-        var session = _context.QuizSessions
+        var session = context.QuizSessions
             .Include(qs => qs.QuizQuestions)
             .ThenInclude(qq => qq.Question)
             .FirstOrDefault(s => s.Id == quizSessionId);
@@ -111,7 +106,7 @@ public class QuizService
             QuizSessionId = session.Id,
             StartedAt = session.StartedAt,
             EndedAt = session.EndedAt,
-            Type = session.Type,
+            Type = session.Type ?? "chapter",
             Questions = questions,
             Score = score
         };

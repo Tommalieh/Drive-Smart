@@ -1,14 +1,14 @@
 using System.Text.Json.Serialization;
 
-namespace DriveSmart.Persistence.Data.SeedDataFiles;
+namespace Drivia.Data.SeedDataFiles;
 
 public class QuestionSeedModel
 {
     [JsonPropertyName("question")]
-    public string Question { get; set; }
+    public string? Question { get; set; }
 
     [JsonPropertyName("group")]
-    public string Group { get; set; }
+    public string? Group { get; set; }
 
     [JsonPropertyName("correctAnswer")]
     public bool CorrectAnswer { get; set; }
